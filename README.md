@@ -6,7 +6,7 @@
 
 ## How to use
 
-- Be sure how to use either the [Anno Mod Manager](https://www.nexusmods.com/anno1800/mods/35) or the [Anno Mod Loader](https://github.com/xforce/anno1800-mod-loader) directly.
+- Be sure to use either the [Anno Mod Manager](https://www.nexusmods.com/anno1800/mods/35) or the [Anno Mod Loader](https://github.com/xforce/anno1800-mod-loader) directly.
 - Make sure you always have the latest version of the Anno Mod Loader installed.
 - download the mod archieve from [GitHub releases](https://github.com/Taludas/NewWorldExpanded/releases)
 
@@ -14,13 +14,13 @@
 
 ![tutorial data folder](https://user-images.githubusercontent.com/64583643/189415899-dc65aac9-29ce-4641-b9ee-9d8406e64b93.png)
 
-The rest of the folders go into the usual "mods" folder to be loaded by the modloader.
+***The rest of the folders go into the usual "mods" folder to be loaded by the modloader.***
 
-**FOR THIS MOD TO WORK PROPERLY YOU NEED TO LOAD/START A NEW SAVE (OR AT LEAST ONE WITHOUT THE NW DISCOVERED)!!! I higly suggest that you use a mod like "Easy seed search" from [Spice it up](https://www.nexusmods.com/anno1800/mods/5) for testing before you commit much time into a new playthrough.**
+- **FOR THIS MOD TO WORK PROPERLY YOU NEED TO LOAD/START A NEW SAVE (OR AT LEAST ONE WITHOUT THE NW DISCOVERED)!!! I higly suggest that you use a mod like "Easy seed search" from [Spice it up](https://www.nexusmods.com/anno1800/mods/5) for testing before you commit much time into a new playthrough.**
 
-**If I publish updates, it is required to OVERWRITE existing files as I will not provide all map files again with every update, only relevant files will be replaced in the release archieve!!!**
+***If I publish updates, it is required to OVERWRITE existing files as I will not provide all map files again with every update, only relevant files will be replaced in the release archieve!!!***
 
-**Please note that this is an early test version of the mod. It is fully playable, but there is a lot more content to come! So before you commit to a new save I'd suggest to wait for v1.0.0 which will be released after the DLC11 dropped!**
+***Please note that this is an early test version of the mod. It is fully playable, but there is a lot more content to come! So before you commit to a new save I'd suggest to wait for v1.0.0 which will be released after the DLC11 dropped!***
 
 ## Changelog
 <details>
