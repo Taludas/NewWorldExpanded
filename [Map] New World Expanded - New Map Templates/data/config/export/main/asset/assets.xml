@@ -1,0 +1,42 @@
+<ModOps>
+
+    <!-- Replace existing templates with newly created -->
+    <ModOp Type="replace" GUID="141422" Path="/Values/MapTemplate/TemplateFilename">
+        <TemplateFilename>data/taludas/sessions/maps/pool/colony01_expanded/colony01_l_01_corners/colony01_l_01_corners.a7t</TemplateFilename>
+    </ModOp>
+
+    <ModOp Type="replace" GUID="142492" Path="/Values/MapTemplate/TemplateFilename">
+        <TemplateFilename>data/taludas/sessions/maps/pool/colony01_expanded/colony01_l_02_islandarch/colony01_l_02_islandarch.a7t</TemplateFilename>
+    </ModOp>
+
+    <ModOp Type="replace" GUID="142493" Path="/Values/MapTemplate/TemplateFilename">
+        <TemplateFilename>data/taludas/sessions/maps/pool/colony01_expanded/colony01_l_03_piratesden/colony01_l_03_piratesden.a7t</TemplateFilename>
+    </ModOp>
+
+
+    <ModOp Type="replace" GUID="141421" Path="/Values/MapTemplate/TemplateFilename">
+        <TemplateFilename>data/taludas/sessions/maps/pool/colony01_expanded/colony01_m_01_corners/colony01_m_01_corners.a7t</TemplateFilename>
+    </ModOp>
+
+    <ModOp Type="replace" GUID="142490" Path="/Values/MapTemplate/TemplateFilename">
+        <TemplateFilename>data/taludas/sessions/maps/pool/colony01_expanded/colony01_m_02_islandarch/colony01_m_02_islandarch.a7t</TemplateFilename>
+    </ModOp>
+
+    <ModOp Type="replace" GUID="142491" Path="/Values/MapTemplate/TemplateFilename">
+        <TemplateFilename>data/taludas/sessions/maps/pool/colony01_expanded/colony01_m_03_piratesden/colony01_m_03_piratesden.a7t</TemplateFilename>
+    </ModOp>
+
+
+    <ModOp Type="replace" GUID="141379" Path="/Values/MapTemplate/TemplateFilename">
+        <TemplateFilename>data/taludas/sessions/maps/pool/colony01_expanded/colony01_s_01_corners/colony01_s_01_corners.a7t</TemplateFilename>
+    </ModOp>
+
+    <ModOp Type="replace" GUID="142488" Path="/Values/MapTemplate/TemplateFilename">
+        <TemplateFilename>data/taludas/sessions/maps/pool/colony01_expanded/colony01_s_02_islandarch/colony01_s_02_islandarch.a7t</TemplateFilename>
+    </ModOp>
+
+    <ModOp Type="replace" GUID="142489" Path="/Values/MapTemplate/TemplateFilename">
+        <TemplateFilename>data/taludas/sessions/maps/pool/colony01_expanded/colony01_s_03_piratesden/colony01_s_03_piratesden.a7t</TemplateFilename>
+    </ModOp>
+
+</ModOps>
