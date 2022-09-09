@@ -1,8 +1,0 @@
-<ModOps>
-    <ModOp Type="replace" Path="//WaterColor">
-        <WaterColor>-15557966</WaterColor>
-    </ModOp>
-    <ModOp Type="replace" Path="//Turbidity">
-        <Turbidity>1056964608</Turbidity>
-    </ModOp>
-</ModOps>  
