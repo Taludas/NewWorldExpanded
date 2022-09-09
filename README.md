@@ -22,6 +22,9 @@
 
 ***Please note that this is an early test version of the mod. It is fully playable, but there is a lot more content to come! So before you commit to a new save I'd suggest to wait for v1.0.0 which will be released after the DLC11 dropped!***
 
+If you want to get a taste of what content is in the pipeline, have a look into this teaser video:
+[![Crown Falls in the New World?!](https://user-images.githubusercontent.com/64583643/189425612-91673a91-7dad-4fa3-8a97-8a10d0888cd6.jpg)](https://youtu.be/wSqFEBe8ZmY)
+
 ## Changelog
 <details>
     <summary>Patch Notes Version 0.1.0</summary>
