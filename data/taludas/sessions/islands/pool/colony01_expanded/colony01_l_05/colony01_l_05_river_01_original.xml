@@ -1,0 +1,424 @@
+<Content>
+  <MapSize>320 320</MapSize>
+  <ActiveMapGrid>
+    <x>40</x>
+    <y>40</y>
+    <bits>16777208 0 33554428 0 67108862 0 134217727 0 268435455 0 536870911 0 1073741823 0 2147483647 0 -1 0 -1 1 -1 3 -1 7 -1 63 -1 127 -1 255 -1 255 -1 255 -1 255 -1 255 -1 255 -1 255 -1 255 -1 255 -1 255 -1 255 -1 255 -1 255 -1 255 -1 255 -1 255 -1 255 -1 255 -2 255 -4 255 -4 255 -4 255 -4 255 -268173316 255 -536739844 255 -1073676292 255</bits>
+  </ActiveMapGrid>
+  <ActiveMapRect>0 0 320 320</ActiveMapRect>
+  <ObjectMetaInfo>
+    <SlotObjects>
+      <None>
+        <value>
+          <id>1</id>
+        </value>
+      </None>
+      <None>
+        <None>
+          <ObjectId>-9203070924742459315</ObjectId>
+          <ObjectGuid>100417</ObjectGuid>
+          <Position>206,5 4,6366673 213,5</Position>
+        </None>
+        <None>
+          <ObjectId>-9208700428571639790</ObjectId>
+          <ObjectGuid>100849</ObjectGuid>
+          <Position>204,5 4,25 206,5</Position>
+        </None>
+        <None>
+          <ObjectId>-9208700428571639795</ObjectId>
+          <ObjectGuid>100849</ObjectGuid>
+          <Position>188,5 3,9609375 196,5</Position>
+        </None>
+        <None>
+          <ObjectId>-9208700428571639793</ObjectId>
+          <ObjectGuid>100849</ObjectGuid>
+          <Position>197,5 3,921875 187,5</Position>
+        </None>
+        <None>
+          <ObjectId>-9208700428571639794</ObjectId>
+          <ObjectGuid>100849</ObjectGuid>
+          <Position>188,5 3,890625 188,5</Position>
+        </None>
+        <None>
+          <ObjectId>-9208700428571639791</ObjectId>
+          <ObjectGuid>100849</ObjectGuid>
+          <Position>197,5 3,8984375 193,5</Position>
+        </None>
+        <None>
+          <ObjectId>-9201945029130584063</ObjectId>
+          <ObjectGuid>1000029</ObjectGuid>
+          <Position>262,5 2,859375 233,5</Position>
+        </None>
+        <None>
+          <ObjectId>-9209826324183515129</ObjectId>
+          <ObjectGuid>100417</ObjectGuid>
+          <Position>186,5 3,9828339 169,5</Position>
+        </None>
+        <None>
+          <ObjectId>-9210952228385325039</ObjectId>
+          <ObjectGuid>100849</ObjectGuid>
+          <Position>66,5 4,8125 167,5</Position>
+        </None>
+        <None>
+          <ObjectId>-9210952224090357750</ObjectId>
+          <ObjectGuid>100417</ObjectGuid>
+          <Position>82,5 5,661227 155,5</Position>
+        </None>
+        <None>
+          <ObjectId>-9215455828012695497</ObjectId>
+          <ObjectGuid>100849</ObjectGuid>
+          <Position>162,5 4,75 136,5</Position>
+        </None>
+        <None>
+          <ObjectId>-9215455828012695502</ObjectId>
+          <ObjectGuid>100849</ObjectGuid>
+          <Position>153,5 4,8984375 139,5</Position>
+        </None>
+        <None>
+          <ObjectId>-9215455828012695499</ObjectId>
+          <ObjectGuid>100849</ObjectGuid>
+          <Position>169,5 4,5390625 131,5</Position>
+        </None>
+        <None>
+          <ObjectId>-9215455828012695500</ObjectId>
+          <ObjectGuid>100849</ObjectGuid>
+          <Position>160,5 4,3828125 128,5</Position>
+        </None>
+        <None>
+          <ObjectId>-9208700428571639787</ObjectId>
+          <ObjectGuid>100849</ObjectGuid>
+          <Position>192,5 3,9609375 172,5</Position>
+        </None>
+        <None>
+          <ObjectId>-9215455823717728223</ObjectId>
+          <ObjectGuid>100417</ObjectGuid>
+          <Position>179,5 2,5160217 107,5</Position>
+        </None>
+        <None>
+          <ObjectId>-9216581723624570804</ObjectId>
+          <ObjectGuid>100417</ObjectGuid>
+          <Position>112,5 2,480506 100,5</Position>
+        </None>
+        <None>
+          <ObjectId>-9210952228385325033</ObjectId>
+          <ObjectGuid>100849</ObjectGuid>
+          <Position>72,5 5,3984375 159,5</Position>
+        </None>
+        <None>
+          <ObjectId>-9215455828012695504</ObjectId>
+          <ObjectGuid>100849</ObjectGuid>
+          <Position>154,5 4,65625 133,5</Position>
+        </None>
+        <None>
+          <ObjectId>-9209826324183515130</ObjectId>
+          <ObjectGuid>100417</ObjectGuid>
+          <Position>141,5 4,8143263 167,5</Position>
+        </None>
+        <None>
+          <ObjectId>-9208735338065821695</ObjectId>
+          <ObjectGuid>1000029</ObjectGuid>
+          <Position>247,5 3,1640625 248,5</Position>
+        </None>
+        <None>
+          <ObjectId>-9208700428571639792</ObjectId>
+          <ObjectGuid>100849</ObjectGuid>
+          <Position>199,5 5,0703125 213,5</Position>
+        </None>
+        <None>
+          <ObjectId>-9208700428571639788</ObjectId>
+          <ObjectGuid>100849</ObjectGuid>
+          <Position>199,5 4,015625 201,5</Position>
+        </None>
+        <None>
+          <ObjectId>-9201979938624765950</ObjectId>
+          <ObjectGuid>1000029</ObjectGuid>
+          <Position>216,5 4,4765625 235,5</Position>
+        </None>
+        <None>
+          <ObjectId>-9215455828012695503</ObjectId>
+          <ObjectGuid>100849</ObjectGuid>
+          <Position>149,5 4,4296875 130,5</Position>
+        </None>
+        <None>
+          <ObjectId>-9214364837600034814</ObjectId>
+          <ObjectGuid>1000029</ObjectGuid>
+          <Position>227,5 1,4609375 140,5</Position>
+        </None>
+        <None>
+          <ObjectId>-9222211227453751295</ObjectId>
+          <ObjectGuid>1000029</ObjectGuid>
+          <Position>189,5 1,8203125 94,5</Position>
+        </None>
+        <None>
+          <ObjectId>-9199728134516113407</ObjectId>
+          <ObjectGuid>100417</ObjectGuid>
+          <Position>67,5 2,6898603 263,5</Position>
+        </None>
+        <None>
+          <ObjectId>-9210952228385325034</ObjectId>
+          <ObjectGuid>100849</ObjectGuid>
+          <Position>64,5 3,1796875 183,5</Position>
+        </None>
+        <None>
+          <ObjectId>-9208735333770854388</ObjectId>
+          <ObjectGuid>100417</ObjectGuid>
+          <Position>204,5 2,8288617 151,5</Position>
+        </None>
+        <None>
+          <ObjectId>-9215455828012695496</ObjectId>
+          <ObjectGuid>100849</ObjectGuid>
+          <Position>172,5 3,578125 116,5</Position>
+        </None>
+        <None>
+          <ObjectId>-9210952228385325038</ObjectId>
+          <ObjectGuid>100849</ObjectGuid>
+          <Position>82,5 5,4921875 160,5</Position>
+        </None>
+        <None>
+          <ObjectId>-9208700428571639789</ObjectId>
+          <ObjectGuid>100849</ObjectGuid>
+          <Position>200,5 3,7734375 172,5</Position>
+        </None>
+        <None>
+          <ObjectId>-9210952228385325054</ObjectId>
+          <ObjectGuid>1000029</ObjectGuid>
+          <Position>92,5 4,2890625 105,5</Position>
+        </None>
+        <None>
+          <ObjectId>-9215490737506877437</ObjectId>
+          <ObjectGuid>1000029</ObjectGuid>
+          <Position>195,5 2,6796875 124,5</Position>
+        </None>
+        <None>
+          <ObjectId>-9215455828012695498</ObjectId>
+          <ObjectGuid>100849</ObjectGuid>
+          <Position>177,5 4,4921875 132,5</Position>
+        </None>
+        <None>
+          <ObjectId>-9205357634050326527</ObjectId>
+          <ObjectGuid>100417</ObjectGuid>
+          <Position>111,5 2,525811 197,5</Position>
+        </None>
+        <None>
+          <ObjectId>-9210952228385325036</ObjectId>
+          <ObjectGuid>100849</ObjectGuid>
+          <Position>74,5 3,703125 180,5</Position>
+        </None>
+        <None>
+          <ObjectId>-9210952228385325041</ObjectId>
+          <ObjectGuid>100849</ObjectGuid>
+          <Position>52,5 3,0859375 179,5</Position>
+        </None>
+        <None>
+          <ObjectId>-9210952228385325037</ObjectId>
+          <ObjectGuid>100849</ObjectGuid>
+          <Position>60,5 3,875 175,5</Position>
+        </None>
+        <None>
+          <ObjectId>-9203105838531608529</ObjectId>
+          <ObjectGuid>1000029</ObjectGuid>
+          <Position>236,5 3,0625 233,5</Position>
+        </None>
+        <None>
+          <ObjectId>-9210952228385325040</ObjectId>
+          <ObjectGuid>100849</ObjectGuid>
+          <Position>52,5 3,796875 171,5</Position>
+        </None>
+        <None>
+          <ObjectId>-9216616637413720061</ObjectId>
+          <ObjectGuid>1000029</ObjectGuid>
+          <Position>93,5 0,5078125 61,5</Position>
+        </None>
+        <None>
+          <ObjectId>-9216616637413720062</ObjectId>
+          <ObjectGuid>1000029</ObjectGuid>
+          <Position>92,5 2,625 89,5</Position>
+        </None>
+        <None>
+          <ObjectId>-9215455828012695501</ObjectId>
+          <ObjectGuid>100849</ObjectGuid>
+          <Position>174,5 4,0703125 123,5</Position>
+        </None>
+        <None>
+          <ObjectId>-9210952228385325035</ObjectId>
+          <ObjectGuid>100849</ObjectGuid>
+          <Position>75,5 4,8203125 169,5</Position>
+        </None>
+        <None>
+          <ObjectId>-9210952228385325055</ObjectId>
+          <ObjectGuid>1000029</ObjectGuid>
+          <Position>80,5 6,078125 133,5</Position>
+        </None>
+      </None>
+      <None>
+        <value>
+          <id>15</id>
+        </value>
+      </None>
+      <None>
+        <None>
+          <ObjectId>-9210952228385325052</ObjectId>
+          <ObjectGuid>100419</ObjectGuid>
+          <Position>80,16744 6,100111 128,40555</Position>
+        </None>
+        <None>
+          <ObjectId>-9203105838531608508</ObjectId>
+          <ObjectGuid>100419</ObjectGuid>
+          <Position>217,69336 4,585928 240,75414</Position>
+        </None>
+        <None>
+          <ObjectId>-9215490737506877436</ObjectId>
+          <ObjectGuid>100419</ObjectGuid>
+          <Position>195,03662 1,9375832 95,469925</Position>
+        </None>
+        <None>
+          <ObjectId>-9203105838531608540</ObjectId>
+          <ObjectGuid>100419</ObjectGuid>
+          <Position>246,5927 3,3154273 254,17096</Position>
+        </None>
+        <None>
+          <ObjectId>-9216581727919538129</ObjectId>
+          <ObjectGuid>100419</ObjectGuid>
+          <Position>86,5087 4,2945604 105,79085</Position>
+        </None>
+        <None>
+          <ObjectId>-9216616637413720039</ObjectId>
+          <ObjectGuid>100419</ObjectGuid>
+          <Position>86,750565 2,7468681 90,27141</Position>
+        </None>
+        <None>
+          <ObjectId>-9215490737506877427</ObjectId>
+          <ObjectGuid>100419</ObjectGuid>
+          <Position>201,5815 2,4610052 123,556244</Position>
+        </None>
+        <None>
+          <ObjectId>-9208735338065821693</ObjectId>
+          <ObjectGuid>100419</ObjectGuid>
+          <Position>229,2496 1,4938412 135,38223</Position>
+        </None>
+        <None>
+          <ObjectId>-9203105838531608527</ObjectId>
+          <ObjectGuid>100419</ObjectGuid>
+          <Position>234,84627 3,0928261 238,78825</Position>
+        </None>
+        <None>
+          <ObjectId>-9222246136947933182</ObjectId>
+          <ObjectGuid>100419</ObjectGuid>
+          <Position>88,08058 0,5078125 62,025402</Position>
+        </None>
+        <None>
+          <ObjectId>-9201945029130584060</ObjectId>
+          <ObjectGuid>100419</ObjectGuid>
+          <Position>268,16193 2,707938 234,03055</Position>
+        </None>
+      </None>
+      <None>
+        <value>
+          <id>3</id>
+        </value>
+      </None>
+      <None>
+        <None>
+          <ObjectId>-9216581727919538105</ObjectId>
+          <ObjectGuid>1000253</ObjectGuid>
+          <Position>78,916 11,038111 119,39122</Position>
+        </None>
+        <None>
+          <ObjectId>-9201979938624765938</ObjectId>
+          <ObjectGuid>1000253</ObjectGuid>
+          <Position>273,98325 6,695262 235,36638</Position>
+        </None>
+        <None>
+          <ObjectId>-9197476338997395454</ObjectId>
+          <ObjectGuid>1000253</ObjectGuid>
+          <Position>248,6495 8,524167 260,31873</Position>
+        </None>
+        <None>
+          <ObjectId>-9203105838531608516</ObjectId>
+          <ObjectGuid>1000253</ObjectGuid>
+          <Position>234,3743 7,285575 244,30263</Position>
+        </None>
+        <None>
+          <ObjectId>-9203105838531608500</ObjectId>
+          <ObjectGuid>1000253</ObjectGuid>
+          <Position>217,30171 9,172832 246,7257</Position>
+        </None>
+        <None>
+          <ObjectId>-9208735338065821685</ObjectId>
+          <ObjectGuid>1000253</ObjectGuid>
+          <Position>231,18112 5,1239805 130,71625</Position>
+        </None>
+        <None>
+          <ObjectId>-9214364837600034788</ObjectId>
+          <ObjectGuid>1000253</ObjectGuid>
+          <Position>207,04926 6,804864 122,77877</Position>
+        </None>
+        <None>
+          <ObjectId>-9214364837600034803</ObjectId>
+          <ObjectGuid>1000253</ObjectGuid>
+          <Position>197,1984 4,4330196 99,557625</Position>
+        </None>
+        <None>
+          <ObjectId>-9216581727919538124</ObjectId>
+          <ObjectGuid>1000253</ObjectGuid>
+          <Position>83,2778 8,732277 110,32598</Position>
+        </None>
+        <None>
+          <ObjectId>-9216616637413720054</ObjectId>
+          <ObjectGuid>1000253</ObjectGuid>
+          <Position>85,9344 4,969146 67,19992</Position>
+        </None>
+        <None>
+          <ObjectId>-9216616637413720029</ObjectId>
+          <ObjectGuid>1000253</ObjectGuid>
+          <Position>83,78775 6,4363055 94,01882</Position>
+        </None>
+      </None>
+    </SlotObjects>
+  </ObjectMetaInfo>
+  <Version>
+    <VersionList>
+      <None>
+        <FileTypeName>EditorFile</FileTypeName>
+        <FileVersion>3</FileVersion>
+      </None>
+      <None>
+        <FileTypeName>SessionSettings</FileTypeName>
+        <FileVersion>2</FileVersion>
+      </None>
+      <None>
+        <FileTypeName>CameraSequences</FileTypeName>
+        <FileVersion>2</FileVersion>
+      </None>
+      <None>
+        <FileTypeName>ObjectLabels</FileTypeName>
+        <FileVersion>2</FileVersion>
+      </None>
+      <None>
+        <FileTypeName>TerrainSettings</FileTypeName>
+        <FileVersion>2</FileVersion>
+      </None>
+      <None>
+        <FileTypeName>ObjectGroups</FileTypeName>
+        <FileVersion>3</FileVersion>
+      </None>
+      <None>
+        <FileTypeName>NuggetsMasks</FileTypeName>
+        <FileVersion>2</FileVersion>
+      </None>
+      <None>
+        <FileTypeName>Regions</FileTypeName>
+        <FileVersion>2</FileVersion>
+      </None>
+      <None>
+        <FileTypeName>Nuggets</FileTypeName>
+        <FileVersion>8</FileVersion>
+      </None>
+    </VersionList>
+  </Version>
+  <MapSource>
+    <SourceMap>data\sessions\islands\pool\colony01\colony01_l_05\colony01_l_05.a7me</SourceMap>
+    <SourceLayerGridUUID>f8088c5e-d50b-4188-8eb8-9b5ed6daf0ac</SourceLayerGridUUID>
+    <SourceLayerGridName>river_01</SourceLayerGridName>
+  </MapSource>
+</Content>
