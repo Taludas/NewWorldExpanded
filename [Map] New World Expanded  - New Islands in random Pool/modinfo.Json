@@ -1,0 +1,73 @@
+{
+  "Version": "0.1",
+  "ModID": "Taludas_NewWorldExpanded_RandomIslands",
+  "IncompatibleIds": [
+    "Spice_SouthRiversRemoved",
+    "Spice_SouthRiversReduced",
+    "NewHorizons"
+  ],
+  "ModDependencies": null,
+  "Category": {
+    "Chinese": "Gameplay",
+    "English": "Gameplay",
+    "French": "Gameplay",
+    "German": "Gameplay",
+    "Italian": "Gameplay",
+    "Japanese": "Gameplay",
+    "Korean": "Gameplay",
+    "Polish": "Gameplay",
+    "Russian": "Gameplay",
+    "Spanish": "Gameplay",
+    "Taiwanese": "Gameplay"
+  },
+  "ModName": {
+    "Chinese": "New World Expanded - Reskinned OW Islands in the New World",
+    "English": "New World Expanded - Reskinned OW Islands in the New World",
+    "French": "New World Expanded - Reskinned OW Islands in the New World",
+    "German": "New World Expanded - Reskinned OW Islands in the New World",
+    "Italian": "New World Expanded - Reskinned OW Islands in the New World",
+    "Japanese": "New World Expanded - Reskinned OW Islands in the New World",
+    "Korean": "New World Expanded - Reskinned OW Islands in the New World",
+    "Polish": "New World Expanded - Reskinned OW Islands in the New World",
+    "Russian": "New World Expanded - Reskinned OW Islands in the New World",
+    "Spanish": "New World Expanded - Reskinned OW Islands in the New World",
+    "Taiwanese": "New World Expanded - Reskinned OW Islands in the New World"
+  },
+  "Description": {
+    "Chinese": null,
+    "English": "This module contains 15 reskinned OW islands to use it in the random pool for map generation in the NW for more variety in the session where you normally find all the same islands again and again. The Islands have no new mesh, only the textures and props are replaced to fit the NW.",
+    "French": null,
+    "German": "Dieses Modul enthält 15 neu gestaltete OW-Inseln, um sie im Zufalls-Pool für die Map-Generierung in der NW für mehr Abwechslung in der Session zu verwenden, wo man normalerweise immer wieder die gleichen Inseln findet. Die Inseln haben kein neues Mesh, nur die Texturen und Props sind ersetzt, um in die NW zu passen.",
+    "Italian": null,
+    "Japanese": null,
+    "Korean": null,
+    "Polish": null,
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  },
+  "KnownIssues": 
+  [
+    {
+      "Chinese": null,
+      "English": null,
+      "French": null,
+      "German": null,
+      "Italian": null,
+      "Japanese": null,
+      "Korean": null,
+      "Polish": null,
+      "Russian": null,
+      "Spanish": null,
+      "Taiwanese": null
+    }
+  ],
+  "DLCDependencies": [
+    {
+      "DLC": null
+    }
+  ],
+  "CreatorName": "Taludas",
+  "CreatorContact": "https://github.com/Taludas/NewWorldExpanded",
+  "Image": null
+}

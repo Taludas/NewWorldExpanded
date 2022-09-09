@@ -1,0 +1,73 @@
+{
+  "Version": "0.1",
+  "ModID": "Taludas_NewWorldExpanded_RiverColour",
+  "IncompatibleIds": [
+    "Spice_SouthRiversRemoved",
+    "Spice_SouthRiversReduced",
+    "NewHorizons"
+  ],
+  "ModDependencies": null,
+  "Category": {
+    "Chinese": "Gameplay",
+    "English": "Gameplay",
+    "French": "Gameplay",
+    "German": "Gameplay",
+    "Italian": "Gameplay",
+    "Japanese": "Gameplay",
+    "Korean": "Gameplay",
+    "Polish": "Gameplay",
+    "Russian": "Gameplay",
+    "Spanish": "Gameplay",
+    "Taiwanese": "Gameplay"
+  },
+  "ModName": {
+    "Chinese": "New World Expanded - River Colours",
+    "English": "New World Expanded - River Colours",
+    "French": "New World Expanded - River Colours",
+    "German": "New World Expanded - River Colours",
+    "Italian": "New World Expanded - River Colours",
+    "Japanese": "New World Expanded - River Colours",
+    "Korean": "New World Expanded - River Colours",
+    "Polish": "New World Expanded - River Colours",
+    "Russian": "New World Expanded - River Colours",
+    "Spanish": "New World Expanded - River Colours",
+    "Taiwanese": "New World Expanded - River Colours"
+  },
+  "Description": {
+    "Chinese": null,
+    "English": "This module replaces the muddy river colour with blue ones in the New World.",
+    "French": null,
+    "German": "This module replaces the muddy river colour with blue ones in the New World.",
+    "Italian": null,
+    "Japanese": null,
+    "Korean": null,
+    "Polish": null,
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  },
+  "KnownIssues": 
+  [
+    {
+      "Chinese": null,
+      "English": null,
+      "French": null,
+      "German": null,
+      "Italian": null,
+      "Japanese": null,
+      "Korean": null,
+      "Polish": null,
+      "Russian": null,
+      "Spanish": null,
+      "Taiwanese": null
+    }
+  ],
+  "DLCDependencies": [
+    {
+      "DLC": null
+    }
+  ],
+  "CreatorName": "Taludas",
+  "CreatorContact": "https://github.com/Taludas/NewWorldExpanded",
+  "Image": null
+}

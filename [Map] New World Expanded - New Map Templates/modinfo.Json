@@ -1,0 +1,69 @@
+{
+  "Version": "0.1",
+  "ModID": "Taludas_NewWorldExpanded_Templates",
+  "IncompatibleIds": null,
+  "ModDependencies": null,
+  "Category": {
+    "Chinese": "Gameplay",
+    "English": "Gameplay",
+    "French": "Gameplay",
+    "German": "Gameplay",
+    "Italian": "Gameplay",
+    "Japanese": "Gameplay",
+    "Korean": "Gameplay",
+    "Polish": "Gameplay",
+    "Russian": "Gameplay",
+    "Spanish": "Gameplay",
+    "Taiwanese": "Gameplay"
+  },
+  "ModName": {
+    "Chinese": "New World Expanded - New Map Templates for the New World",
+    "English": "New World Expanded - New Map Templates for the New World",
+    "French": "New World Expanded - New Map Templates for the New World",
+    "German": "New World Expanded - New Map Templates for the New World",
+    "Italian": "New World Expanded - New Map Templates for the New World",
+    "Japanese": "New World Expanded - New Map Templates for the New World",
+    "Korean": "New World Expanded - New Map Templates for the New World",
+    "Polish": "New World Expanded - New Map Templates for the New World",
+    "Russian": "New World Expanded - New Map Templates for the New World",
+    "Spanish": "New World Expanded - New Map Templates for the New World",
+    "Taiwanese": "New World Expanded - New Map Templates for the New World"
+  },
+  "Description": {
+    "Chinese": null,
+    "English": "This module contains 3 new map templates for map generation in the NW for more variety in game creation.",
+    "French": null,
+    "German": "Dieses Modul enthält 3 neue Karten-Templates für die Kartenerstellung in der NW für mehr Abwechslung in der Spielgestaltung.",
+    "Italian": null,
+    "Japanese": null,
+    "Korean": null,
+    "Polish": null,
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  },
+  "KnownIssues": 
+  [
+    {
+      "Chinese": null,
+      "English": null,
+      "French": null,
+      "German": null,
+      "Italian": null,
+      "Japanese": null,
+      "Korean": null,
+      "Polish": null,
+      "Russian": null,
+      "Spanish": null,
+      "Taiwanese": null
+    }
+  ],
+  "DLCDependencies": [
+    {
+      "DLC": null
+    }
+  ],
+  "CreatorName": "Taludas",
+  "CreatorContact": "https://github.com/Taludas/NewWorldExpanded",
+  "Image": null
+}
