@@ -27,6 +27,12 @@ If you want to get a taste of what content is in the pipeline, have a look into 
 
 ## Changelog
 <details>
+    <summary>Patch Notes Version 0.1.2</summary>
+
+* Fixed a bug where some islands didn't get the new texture. Please download the latest release and overwrite the download of v0.1.0!
+
+</details>
+<details>
     <summary>Patch Notes Version 0.1.1</summary>
 
 * HOTFIX: I forgot to add the most important file of all! The materialset texture file! Please download the latest release and overwrite the download of v0.1.0!
