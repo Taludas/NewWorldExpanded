@@ -47,6 +47,8 @@ If you want to get a taste of what content is in the pipeline, have a look into 
 * Added version with blue rivers in NW instead of muddy ones
 </details>
 
+-----
+
 ![banner](https://user-images.githubusercontent.com/64583643/189413451-f866f2cf-2e93-4c53-9e47-547e6d874627.png)
 ## New World Expanded: Reskinned Old World Islands for the New World
 This module contains 15 reskinned OW islands to use it in the random pool for map generation in the NW for more variety in the session where you normally find all the same islands again and again. The Islands have no new mesh, only the textures and props are replaced to fit the NW. 
@@ -55,12 +57,16 @@ Have a look for yourself how good some variety in the NW actually is and what yo
 
 In anticipation of upcomming mods I also integrated functional river slots on them. For now, there are no river buildings, so you can't use them for anything apart from admiring the effort I had to find suitable positions for them.
 
+-----
+
 ![banner_maptemplates](https://user-images.githubusercontent.com/64583643/189413455-e66f04e8-e0af-4abb-bccb-0d3034a7bdd0.png)
 ## New World Expanded: New Map Templates for the NW session
 This module contains 3 new map templates for each region size (large, medium, small) which you can choose at game generation.
 - Corners: Inspired by OW corners map template with large islands in the corners and small ones in the center of the map.
 - Island Arch: Inspired by the OW island arch template with the majority of the islands in the bottom of the map and only some small ones to the north/east.
 - Pirates Den: All big islands are located tightly around the pirates slot, so it is quite dangerous to settle and trade there.
+
+-----
 
 ![banner_rivercolour](https://user-images.githubusercontent.com/64583643/189413458-592e3a64-f896-42ed-a016-98c2d7551e0b.png)
 ## New World Expanded: River Colour
