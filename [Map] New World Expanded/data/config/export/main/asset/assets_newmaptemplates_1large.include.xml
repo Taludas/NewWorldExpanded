@@ -1,0 +1,37 @@
+<ModOps>
+    <ImyaTweaks Title="[VANILLA] 'LARGE' map size option" />
+
+    <ModOp Type="remove" GUID="141422,142492,142493" Path="/Values/MapTemplate/TemplateFilename"></ModOp>
+
+    <!-- #large map size -->
+<!-- add used map templates from pre DLC12 with the corner variant -->
+    <ModOp Type="add" GUID="141422,142492,142493" Path="/Values/MapTemplate" ModOpID="ToggleCornerMap_NW_large_preDLC12">
+        <TemplateFilename>data/taludas/sessions/maps/pool/colony01_expanded/colony01_l_01_corners/colony01_l_01_corners.a7t</TemplateFilename>
+    </ModOp>
+
+    <ImyaExpose Path="self::TemplateFilename" ModOpID="ToggleCornerMap_NW_large_preDLC12" ExposeID="[Vanilla] 'Corner' preset" Kind="Toggle">
+        <AltValue>
+        </AltValue>
+    </ImyaExpose>
+
+<!-- add used map templates from pre DLC12 with the island arch variant -->
+    <ModOp Type="add" GUID="141422,142492,142493" Path="/Values/MapTemplate" ModOpID="ToggleIslandArchMap_NW_large_preDLC12">
+        <TemplateFilename>data/taludas/sessions/maps/pool/colony01_expanded/colony01_l_02_islandarch/colony01_l_02_islandarch.a7t</TemplateFilename>
+    </ModOp>
+
+    <ImyaExpose Path="self::TemplateFilename" ModOpID="ToggleIslandArchMap_NW_large_preDLC12" ExposeID="[Vanilla] 'Island Arch' preset" Kind="Toggle">
+        <AltValue>
+        </AltValue>
+    </ImyaExpose>
+
+<!-- add used map templates from pre DLC12 with the pirates den variant -->
+    <ModOp Type="add" GUID="141422,142492,142493" Path="/Values/MapTemplate" ModOpID="TogglePiratesDenMap_NW_large_preDLC12">
+        <TemplateFilename>data/taludas/sessions/maps/pool/colony01_expanded/colony01_l_03_piratesden/colony01_l_03_piratesden.a7t</TemplateFilename>
+    </ModOp>
+
+    <ImyaExpose Path="self::TemplateFilename" ModOpID="TogglePiratesDenMap_NW_large_preDLC12" ExposeID="[Vanilla] 'Pirates Den' preset" Description="Determines the used Map Template layout for the generation of the vanilla New World session and large map size. Only switch on one toggle in this section!" Kind="Toggle">
+        <AltValue>
+        </AltValue>
+    </ImyaExpose>
+
+</ModOps>

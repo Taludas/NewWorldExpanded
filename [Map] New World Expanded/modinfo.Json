@@ -1,0 +1,74 @@
+{
+  "Version": "1.0.0",
+  "ModID": "Taludas_NewWorldExpanded",
+  "IncompatibleIds": [
+    "Spice_SouthRiversRemoved",
+    "Spice_SouthRiversReduced",
+    "NewHorizons"
+  ],
+  "ModDependencies": null,
+  "Category": {
+    "Chinese": "Map",
+    "English": "Map",
+    "French": "Map",
+    "German": "Map",
+    "Italian": "Map",
+    "Japanese": "Map",
+    "Korean": "Map",
+    "Polish": "Map",
+    "Russian": "Map",
+    "Spanish": "Map",
+    "Taiwanese": "Map"
+  },
+  "ModName": {
+    "Chinese": "New World Expanded",
+    "English": "New World Expanded",
+    "French": "New World Expanded",
+    "German": "New World Expanded",
+    "Italian": "New World Expanded",
+    "Japanese": "New World Expanded",
+    "Korean": "New World Expanded",
+    "Polish": "New World Expanded",
+    "Russian": "New World Expanded",
+    "Spanish": "New World Expanded",
+    "Taiwanese": "New World Expanded"
+  },
+  "Description": {
+    "Chinese": null,
+    "English": "file::contents_english.md",
+    "French": null,
+    "German": "file::contents_deutsch.md",
+    "Italian": null,
+    "Japanese": null,
+    "Korean": null,
+    "Polish": null,
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  },
+  "KnownIssues": 
+  [
+    {
+      "Chinese": null,
+      "English": null,
+      "French": null,
+      "German": null,
+      "Italian": null,
+      "Japanese": null,
+      "Korean": null,
+      "Polish": null,
+      "Russian": null,
+      "Spanish": null,
+      "Taiwanese": null
+    }
+  ],
+  "DLCDependencies": [
+    {
+      "DLC": "NewWorldRising",
+      "Dependant": "partly"
+    }
+  ],
+  "CreatorName": "Taludas",
+  "CreatorContact": "https://github.com/Taludas/NewWorldExpanded",
+  "Image": null
+}

@@ -1,0 +1,37 @@
+<ModOps>
+    <ImyaTweaks Title="[DLC12] 'MEDIUM' map size option" />
+
+    <ModOp Type="remove" GUID="141421,142490,142491" Path="/Values/MapTemplate/EnlargedTemplateFilename"></ModOp>
+
+    <!-- #medium map size -->
+<!-- add used map templates from pre DLC12 with the corner variant -->
+    <ModOp Type="add" GUID="141421,142490,142491" Path="/Values/MapTemplate" ModOpID="ToggleCornerMap_NW_medium_DLC12">
+        <EnlargedTemplateFilename>data/taludas/sessions/maps/pool/colony01_expanded/colony01_m_01_corners_dlc12enlarged/colony01_m_01_corners_dlc12enlarged.a7t</EnlargedTemplateFilename>
+    </ModOp>
+
+    <ImyaExpose Path="self::EnlargedTemplateFilename" ModOpID="ToggleCornerMap_NW_medium_DLC12" ExposeID="[DLC12] 'Corner' preset" Kind="Toggle">
+        <AltValue>
+        </AltValue>
+    </ImyaExpose>
+
+<!-- add used map templates from pre DLC12 with the island arch variant -->
+    <ModOp Type="add" GUID="141421,142490,142491" Path="/Values/MapTemplate" ModOpID="ToggleIslandArchMap_NW_medium_DLC12">
+        <EnlargedTemplateFilename>data/taludas/sessions/maps/pool/colony01_expanded/colony01_m_02_islandarch_dlc12enlarged/colony01_m_02_islandarch_dlc12enlarged.a7t</EnlargedTemplateFilename>
+    </ModOp>
+
+    <ImyaExpose Path="self::EnlargedTemplateFilename" ModOpID="ToggleIslandArchMap_NW_medium_DLC12" ExposeID="[DLC12] 'Island Arch' preset" Kind="Toggle">
+        <AltValue>
+        </AltValue>
+    </ImyaExpose>
+
+<!-- add used map templates from pre DLC12 with the pirates den variant -->
+    <ModOp Type="add" GUID="141421,142490,142491" Path="/Values/MapTemplate" ModOpID="TogglePiratesDenMap_NW_medium_DLC12">
+        <EnlargedTemplateFilename>data/taludas/sessions/maps/pool/colony01_expanded/colony01_m_03_piratesden_dlc12enlarged/colony01_m_03_piratesden_dlc12enlarged.a7t</EnlargedTemplateFilename>
+    </ModOp>
+
+    <ImyaExpose Path="self::EnlargedTemplateFilename" ModOpID="TogglePiratesDenMap_NW_medium_DLC12" ExposeID="[DLC12] 'Pirates Den' preset" Description="Determines the used Map Template layout for the generation of the vanilla New World session while using DLC12 'New World Rising' and medium map size. Only switch on one toggle in this section!" Kind="Toggle">
+        <AltValue>
+        </AltValue>
+    </ImyaExpose>
+
+</ModOps>

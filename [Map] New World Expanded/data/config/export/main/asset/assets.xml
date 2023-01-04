@@ -1,0 +1,30 @@
+<ModOps>
+
+<!-- #New World Expanded: Reskinned Old World Islands for the New World -->
+    <Include File="assets_newislandsinrandompool.include.xml"/>
+
+<!-- #New World Expanded: No Muddy River Colour -->
+    <Include File="assets_newislandswithbluerivers.include.xml"/>
+
+<!-- #New World Expanded: New Map Templates for the NW session-->
+<!-- include toggles for pre DLC 12 map template generation -->
+    <!-- small map size -->
+    <Include File="assets_newmaptemplates_3small.include.xml" />
+
+    <!-- medium map size -->
+    <Include File="assets_newmaptemplates_2medium.include.xml" />
+
+    <!-- large map size -->
+    <Include File="assets_newmaptemplates_1large.include.xml" />
+
+<!-- include toggles for post DLC 12 map template generation (enlarged templates) -->
+    <!-- small map size -->
+    <Include File="assets_newmaptemplates_dlc12_3small.include.xml" />
+
+    <!-- medium map size -->
+    <Include File="assets_newmaptemplates_dlc12_2medium.include.xml" />
+
+    <!-- large map size -->
+    <Include File="assets_newmaptemplates_dlc12_1large.include.xml" />
+
+</ModOps>
