@@ -11,7 +11,7 @@
 ## How to use
 
 - Either use [iModYourAnno](https://github.com/anno-mods/iModYourAnno/releases) mod manager or know [how to install mods manually](https://github.com/jakobharder/anno1800-mod-loader#mods).
-- If you download the mod manually, use the archieve from [GitHub releases](https://github.com/Taludas/RiverSlots/releases). Don't download the whole repo!
+- If you download the mod manually, use the archieve from [GitHub releases](https://github.com/Taludas/NewWorldExpanded/releases). Don't download the whole repo!
 
 - ***All mods from this archieve need the contents of the "data" folder found within the release files to be extracted into the Anno 1800 data folder, NOT THE MODS FOLDER!!! You find this folder in the main Anno 1800 directory. Please refer to the picture below.***
 
