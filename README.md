@@ -3,12 +3,15 @@
 ![Thumbnail](https://user-images.githubusercontent.com/64583643/189413460-86d79429-272c-4c3a-b243-3733c109e044.png)
 
  This mod enhances the New World map generation with reskinned OW Islands and fresh map templates for more variety and replayability of the game.
+ 
+ If you like this mod and want to support me, feel free to share it with your friends. You can also buy me a coffee at Ko-Fi (yes, I want to raise my coffee consume to Investor's hight!)
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W8L558T)
 
 ## How to use
 
-- Be sure how to use either the [iModYourAnno Anno Mod Manager](https://github.com/anno-mods/iModYourAnno) or the [Anno Mod Loader](https://github.com/xforce/anno1800-mod-loader) directly.
-- Make sure you always have the latest version of the Anno Mod Loader installed.
-- download the mod archieve from [GitHub releases](https://github.com/Taludas/NewWorldExpanded/releases)
+- Either use [iModYourAnno](https://github.com/anno-mods/iModYourAnno/releases) mod manager or know [how to install mods manually](https://github.com/jakobharder/anno1800-mod-loader#mods).
+- If you download the mod manually, use the archieve from [GitHub releases](https://github.com/Taludas/RiverSlots/releases). Don't download the whole repo!
 
 - ***All mods from this archieve need the contents of the "data" folder found within the release files to be extracted into the Anno 1800 data folder, NOT THE MODS FOLDER!!! You find this folder in the main Anno 1800 directory. Please refer to the picture below.***
 
