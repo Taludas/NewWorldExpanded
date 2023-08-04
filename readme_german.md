@@ -13,7 +13,7 @@
 - Verwende entweder den [iModYourAnno](https://github.com/anno-mods/iModYourAnno/releases) Mod-Manager oder weiß [wie man Mods manuell installiert](https://github.com/jakobharder/anno1800-mod-loader#mods).
 - Wenn du die Mod manuell herunterlädst, verwende das Archiv von [GitHub releases] (https://github.com/Taludas/NewWorldExpanded/releases). Lade nicht das gesamte Repo herunter! Es werden dann mesh-files der Inseln fehlen (durchsichtige Inseln)!
 
-*** WARNUNG: NICHT!!! den Mod-Ordner umbenennen! Sonst bekommst du überall in der neuen Welt weiße Inseltexturen! ***
+***WARNUNG: NICHT!!! den Mod-Ordner umbenennen! Sonst bekommst du überall in der neuen Welt weiße Inseltexturen!***
 
 **DAMIT DIESE MOD RICHTIG FUNKTIONIERT, MÜSST IHR EINEN NEUEN SPIELSTAND LADEN/STARTEN (ODER ZUMINDEST EINEN WO IHR DIE NW NICHT ENTDECKT HABT)!!! Ich schlage vor, dass du eine Mod wie "Easy seed search" von [Spice it up] (https://github.com/anno-mods/Spice-it-Up) zum Testen verwendest, bevor du viel Zeit in einen neuen Durchlauf investierst.**
 
