@@ -3,9 +3,6 @@
 <!-- #New World Expanded: Reskinned Old World Islands for the New World -->
     <Include File="assets_newislandsinrandompool.include.xml"/>
 
-<!-- #New World Expanded: No Muddy River Colour -->
-    <Include File="assets_newislandswithbluerivers.include.xml"/>
-
 <!-- #New World Expanded: New Map Templates for the NW session-->
 <!-- include toggles for pre DLC 12 map template generation -->
     <!-- small map size -->

@@ -1,0 +1,77 @@
+{
+  "Version": "1.2.0",
+  "ModID": "Taludas_NewWorldExpanded_MuddyRiversRemoved",
+  "IncompatibleIds": [
+    "Spice_SouthRiversRemoved",
+    "Spice_SouthRiversReduced"
+  ],
+  "ModDependencies": [
+  ],
+  "LoadAfterIds": [
+    "Taludas_RiverslotsNW"
+  ],
+  "Category": {
+    "Chinese": "Map",
+    "English": "Map",
+    "French": "Map",
+    "German": "Map",
+    "Italian": "Map",
+    "Japanese": "Map",
+    "Korean": "Map",
+    "Polish": "Map",
+    "Russian": "Map",
+    "Spanish": "Map",
+    "Taiwanese": "Map"
+  },
+  "ModName": {
+    "Chinese": "Muddy Rivers Removed (Taludas)",
+    "English": "Muddy Rivers Removed (Taludas)",
+    "French": "Muddy Rivers Removed (Taludas)",
+    "German": "Muddy Rivers Removed (Taludas)",
+    "Italian": "Muddy Rivers Removed (Taludas)",
+    "Japanese": "Muddy Rivers Removed (Taludas)",
+    "Korean": "Muddy Rivers Removed (Taludas)",
+    "Polish": "Muddy Rivers Removed (Taludas)",
+    "Russian": "Muddy Rivers Removed (Taludas)",
+    "Spanish": "Muddy Rivers Removed (Taludas)",
+    "Taiwanese": "Muddy Rivers Removed (Taludas)"
+  },
+  "Description": {
+    "Chinese": null,
+    "English": "This mod changes the vanilla islands river colour to blue instead of the muddy brown so you can have more of a tropical paradise instead of an Amazonas feeling.",
+    "French": null,
+    "German": "Mit diese Mod ändert lediglich die Farbe der Flüsse auf den Vanilla-NW-Inseln von schlammigem Braun auf Blau, so dass man eher ein Gefühl von tropischem Paradies als von Amazonas-Regenwald bekommt.",
+    "Italian": null,
+    "Japanese": null,
+    "Korean": null,
+    "Polish": null,
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  },
+  "KnownIssues": 
+  [
+    {
+      "Chinese": null,
+      "English": null,
+      "French": null,
+      "German": null,
+      "Italian": null,
+      "Japanese": null,
+      "Korean": null,
+      "Polish": null,
+      "Russian": null,
+      "Spanish": null,
+      "Taiwanese": null
+    }
+  ],
+  "DLCDependencies": [
+    {
+      "DLC": "NewWorldRising",
+      "Dependant": "partly"
+    }
+  ],
+  "CreatorName": "Taludas",
+  "CreatorContact": "https://github.com/Taludas/NewWorldExpanded",
+  "Image": null
+}

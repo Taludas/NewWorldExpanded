@@ -1,0 +1,6 @@
+<ModOps>
+
+<!-- #New World Expanded: No Muddy River Colour -->
+    <Include File="assets_newislandswithbluerivers.include.xml"/>
+
+</ModOps>

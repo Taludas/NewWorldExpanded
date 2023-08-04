@@ -1,0 +1,20 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1999002336</GUID>
+      <Text>River Slot</Text>
+    </Text>
+    <Text>
+      <GUID>1999002337</GUID>
+      <Text>River Slot</Text>
+    </Text>
+    <Text>
+      <GUID>1999002338</GUID>
+      <Text>Establish a river building on this site to utilise the power of the rushing current.</Text>
+    </Text>
+    <Text>
+      <GUID>1999002339</GUID>
+      <Text>Establish a river building on this site to utilise the power of the rushing current.</Text>
+    </Text>
+  </ModOp>
+</ModOps>

@@ -24,6 +24,9 @@ Wenn du einen Vorgeschmack auf die geplanten Inhalte bekommen möchtest, schau d
 <details>
     <summary>Patch Notes Version 1.2.0</summary>
 
+* Anpassungen:
+    - Um die Dateigröße gering zu halten, habe ich die Mod in zwei Mods aufgeteilt: "Muddy Rivers removed" und "New World Expanded". Die erste ersetzt nur die Flussfarbe der NW-Insel durch eine blaue. New World Expanded ist die Hauptmod, der die neu geskinnten Inseln hinzufügt!
+
 * Aktualisierungen:
     - Die Mod wurde für eine bessere Nutzung mit iModYourAnno v0.5 angepasst, die standardmäßig verwendete Kartenvorlage ist jetzt "Corners". Das Problem mit der endlosen Ladeschleife bei mehreren Spielern aufgrund von fehlerhaften iMYA-Einstellungen wurde behoben. Unabhängig davon, was man in iMYA einstellt, erhält man nun immer eine der drei Kartenvorlagen.
 

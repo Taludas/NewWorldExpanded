@@ -26,6 +26,9 @@ If you want to get a taste of what content is in the pipeline, have a look into 
 <details>
     <summary>Patch Notes Version 1.2.0</summary>
 
+* Adjustments:
+    - In order to keep the file size low, I split the mod into two mods: "Muddy Rivers removed" and "New World Expanded". The first only replaces the NW island's river colour with a blue one. New World Expanded is the main mod, adding the reskinned islands!
+
 * Updates:
     - Adjusted the mod for better usage with iModYourAnno v0.5, default map template used is now "Corners". Fixed the issue with multiple people having a endless loading loop due to faulty iMYA tweaking. No matter what you tweak in iMYA, you will now always get one of the three map templates.
 
