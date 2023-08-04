@@ -15,7 +15,7 @@
 - Either use [iModYourAnno](https://github.com/anno-mods/iModYourAnno/releases) mod manager or know [how to install mods manually](https://github.com/jakobharder/anno1800-mod-loader#mods).
 - If you download the mod manually, use the archive from [GitHub releases](https://github.com/Taludas/NewWorldExpanded/releases). Don't download the whole repo! (If you do the latter, you will find yourself with missing island mesh files! -> Invisible islands)
 
-*** WARNING: Do NOT!!! rename the mod folder! Otherwise you will get white island textures all over the new world! ***
+***WARNING: Do NOT!!! rename the mod folder! Otherwise you will get white island textures all over the new world!***
 
 **FOR THIS MOD TO WORK PROPERLY YOU NEED TO LOAD/START A NEW SAVE (OR AT LEAST ONE WITHOUT THE NW DISCOVERED)!!! I higly suggest that you use a mod like "Easy seed search" from [Spice it up](https://github.com/anno-mods/Spice-it-Up) for testing before you commit much time into a new playthrough.**
 
