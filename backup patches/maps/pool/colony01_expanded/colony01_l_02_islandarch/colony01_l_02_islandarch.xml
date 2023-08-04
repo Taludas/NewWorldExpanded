@@ -1,0 +1,362 @@
+<Content>
+  <MapTemplate>
+    <Size>1856 1856</Size>
+    <PlayableArea>200 200 1656 1656</PlayableArea>
+    <RandomlyPlacedThirdParties />
+    <ElementCount>23</ElementCount>
+    <TemplateElement>
+      <ElementType>1</ElementType>
+      <Element>
+        <Position>1248 216</Position>
+        <Size>Large</Size>
+        <Difficulty />
+        <Config>
+          <Type>
+            <id>Starter</id>
+          </Type>
+          <Difficulty />
+        </Config>
+      </Element>
+    </TemplateElement>
+    <TemplateElement>
+      <ElementType>1</ElementType>
+      <Element>
+        <Position>576 568</Position>
+        <Size>Large</Size>
+        <Difficulty />
+        <Config>
+          <Type />
+          <Difficulty />
+        </Config>
+      </Element>
+    </TemplateElement>
+    <TemplateElement>
+      <ElementType>1</ElementType>
+      <Element>
+        <Position>640 1248</Position>
+        <Size>Large</Size>
+        <Difficulty />
+        <Config>
+          <Type />
+          <Difficulty />
+        </Config>
+      </Element>
+    </TemplateElement>
+    <TemplateElement>
+      <ElementType>1</ElementType>
+      <Element>
+        <Position>1248 632</Position>
+        <Size>Large</Size>
+        <Difficulty />
+        <Config>
+          <Type />
+          <Difficulty />
+        </Config>
+      </Element>
+    </TemplateElement>
+    <TemplateElement>
+      <ElementType>1</ElementType>
+      <Element>
+        <Position>224 1248</Position>
+        <Size>Large</Size>
+        <Difficulty />
+        <Config>
+          <Type>
+            <id>Starter</id>
+          </Type>
+          <Difficulty />
+        </Config>
+      </Element>
+    </TemplateElement>
+    <TemplateElement>
+      <ElementType>1</ElementType>
+      <Element>
+        <Position>1352 1344</Position>
+        <Difficulty />
+        <Config>
+          <Type>
+            <id>ThirdParty</id>
+          </Type>
+          <Difficulty />
+        </Config>
+      </Element>
+    </TemplateElement>
+    <TemplateElement>
+      <ElementType>1</ElementType>
+      <Element>
+        <Position>336 336</Position>
+        <Difficulty />
+        <Config>
+          <Type>
+            <id>ThirdParty</id>
+          </Type>
+          <Difficulty />
+        </Config>
+      </Element>
+    </TemplateElement>
+    <TemplateElement>
+      <ElementType>1</ElementType>
+      <Element>
+        <Position>1016 568</Position>
+        <Difficulty />
+        <Config>
+          <Type>
+            <id>Pirate</id>
+          </Type>
+          <Difficulty />
+        </Config>
+      </Element>
+    </TemplateElement>
+    <TemplateElement>
+      <ElementType>1</ElementType>
+      <Element>
+        <Position>224 576</Position>
+        <Size>Medium</Size>
+        <Difficulty />
+        <Config>
+          <Type>
+            <id>Starter</id>
+          </Type>
+          <Difficulty />
+        </Config>
+      </Element>
+    </TemplateElement>
+    <TemplateElement>
+      <ElementType>1</ElementType>
+      <Element>
+        <Position>576 216</Position>
+        <Size>Medium</Size>
+        <Difficulty />
+        <Config>
+          <Type>
+            <id>Starter</id>
+          </Type>
+          <Difficulty />
+        </Config>
+      </Element>
+    </TemplateElement>
+    <TemplateElement>
+      <ElementType>1</ElementType>
+      <Element>
+        <Position>912 216</Position>
+        <Size>Medium</Size>
+        <Difficulty />
+        <Config>
+          <Type />
+          <Difficulty />
+        </Config>
+      </Element>
+    </TemplateElement>
+    <TemplateElement>
+      <ElementType>1</ElementType>
+      <Element>
+        <Position>224 912</Position>
+        <Size>Medium</Size>
+        <Difficulty />
+        <Config>
+          <Type />
+          <Difficulty />
+        </Config>
+      </Element>
+    </TemplateElement>
+    <TemplateElement>
+      <ElementType>1</ElementType>
+      <Element>
+        <Position>1040 1032</Position>
+        <Size>Medium</Size>
+        <Difficulty />
+        <Config>
+          <Type />
+          <Difficulty />
+        </Config>
+      </Element>
+    </TemplateElement>
+    <TemplateElement>
+      <ElementType>2</ElementType>
+      <Element>
+        <Position>1640 1632</Position>
+      </Element>
+    </TemplateElement>
+    <TemplateElement>
+      <ElementType>1</ElementType>
+      <Element>
+        <Position>584 992</Position>
+        <Difficulty />
+        <Config>
+          <Type>
+            <id>Pirate</id>
+          </Type>
+          <Difficulty />
+        </Config>
+      </Element>
+    </TemplateElement>
+    <TemplateElement>
+      <Element>
+        <Position>1464 1160</Position>
+        <MapFilePath>data/sessions/islands/pool/colony01/colony01_d_06/colony01_d_06.a7m</MapFilePath>
+        <Rotation90 />
+        <IslandLabel>continental_island</IslandLabel>
+        <FertilityGuids />
+        <RandomizeFertilities />
+        <MineSlotMapping />
+        <RandomIslandConfig>
+          <value>
+            <Type>
+              <id>Decoration</id>
+            </Type>
+            <Difficulty>
+              <id>Normal</id>
+            </Difficulty>
+          </value>
+        </RandomIslandConfig>
+      </Element>
+    </TemplateElement>
+    <TemplateElement>
+      <Element>
+        <Position>1144 1456</Position>
+        <MapFilePath>data/sessions/islands/pool/colony01/colony01_d_07/colony01_d_07.a7m</MapFilePath>
+        <Rotation90 />
+        <IslandLabel>continental_island</IslandLabel>
+        <FertilityGuids />
+        <RandomizeFertilities />
+        <MineSlotMapping />
+        <RandomIslandConfig>
+          <value>
+            <Type>
+              <id>Decoration</id>
+            </Type>
+            <Difficulty>
+              <id>Normal</id>
+            </Difficulty>
+          </value>
+        </RandomIslandConfig>
+      </Element>
+    </TemplateElement>
+    <TemplateElement>
+      <Element>
+        <Position>1568 1560</Position>
+        <MapFilePath>data/sessions/islands/pool/colony01/colony01_d_08/colony01_d_08.a7m</MapFilePath>
+        <Rotation90 />
+        <IslandLabel>continental_island</IslandLabel>
+        <FertilityGuids />
+        <RandomizeFertilities />
+        <MineSlotMapping />
+        <RandomIslandConfig>
+          <value>
+            <Type>
+              <id>Decoration</id>
+            </Type>
+            <Difficulty>
+              <id>Normal</id>
+            </Difficulty>
+          </value>
+        </RandomIslandConfig>
+      </Element>
+    </TemplateElement>
+    <TemplateElement>
+      <Element>
+        <Position>1080 872</Position>
+        <MapFilePath>data/sessions/islands/pool/colony01/colony01_d_09/colony01_d_09.a7m</MapFilePath>
+        <Rotation90 />
+        <IslandLabel>continental_island</IslandLabel>
+        <FertilityGuids />
+        <RandomizeFertilities />
+        <MineSlotMapping />
+        <RandomIslandConfig>
+          <value>
+            <Type>
+              <id>Decoration</id>
+            </Type>
+            <Difficulty>
+              <id>Normal</id>
+            </Difficulty>
+          </value>
+        </RandomIslandConfig>
+      </Element>
+    </TemplateElement>
+    <TemplateElement>
+      <Element>
+        <Position>888 1072</Position>
+        <MapFilePath>data/sessions/islands/pool/colony01/colony01_d_10/colony01_d_10.a7m</MapFilePath>
+        <Rotation90 />
+        <IslandLabel>continental_island</IslandLabel>
+        <FertilityGuids />
+        <RandomizeFertilities />
+        <MineSlotMapping />
+        <RandomIslandConfig>
+          <value>
+            <Type>
+              <id>Decoration</id>
+            </Type>
+            <Difficulty>
+              <id>Normal</id>
+            </Difficulty>
+          </value>
+        </RandomIslandConfig>
+      </Element>
+    </TemplateElement>
+    <TemplateElement>
+      <Element>
+        <Position>384 256</Position>
+        <MapFilePath>data/sessions/islands/pool/colony01/colony01_d_11/colony01_d_11.a7m</MapFilePath>
+        <Rotation90 />
+        <IslandLabel>continental_island</IslandLabel>
+        <FertilityGuids />
+        <RandomizeFertilities />
+        <MineSlotMapping />
+        <RandomIslandConfig>
+          <value>
+            <Type>
+              <id>Decoration</id>
+            </Type>
+            <Difficulty>
+              <id>Normal</id>
+            </Difficulty>
+          </value>
+        </RandomIslandConfig>
+      </Element>
+    </TemplateElement>
+    <TemplateElement>
+      <Element>
+        <Position>248 384</Position>
+        <MapFilePath>data/sessions/islands/pool/colony01/colony01_d_12/colony01_d_12.a7m</MapFilePath>
+        <Rotation90 />
+        <IslandLabel>continental_island</IslandLabel>
+        <FertilityGuids />
+        <RandomizeFertilities />
+        <MineSlotMapping />
+        <RandomIslandConfig>
+          <value>
+            <Type>
+              <id>Decoration</id>
+            </Type>
+            <Difficulty>
+              <id>Normal</id>
+            </Difficulty>
+          </value>
+        </RandomIslandConfig>
+      </Element>
+    </TemplateElement>
+    <TemplateElement>
+      <Element>
+        <Position>232 224</Position>
+        <MapFilePath>data/sessions/islands/pool/colony01/colony01_d_13/colony01_d_13.a7m</MapFilePath>
+        <Rotation90 />
+        <IslandLabel>continental_island</IslandLabel>
+        <FertilityGuids />
+        <RandomizeFertilities />
+        <MineSlotMapping />
+        <RandomIslandConfig>
+          <value>
+            <Type>
+              <id>Decoration</id>
+            </Type>
+            <Difficulty>
+              <id>Normal</id>
+            </Difficulty>
+          </value>
+        </RandomIslandConfig>
+      </Element>
+    </TemplateElement>
+  </MapTemplate>
+</Content>

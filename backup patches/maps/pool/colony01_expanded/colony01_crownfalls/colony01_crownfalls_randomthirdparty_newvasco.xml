@@ -1,0 +1,345 @@
+<Content>
+  <MapTemplate>
+    <Size>1920 1920</Size>
+    <PlayableArea>190 190 1720 1720</PlayableArea>
+    <RandomlyPlacedThirdParties />
+    <ElementCount>20</ElementCount>
+    <TemplateElement>
+      <Element>
+        <Position>0 1152</Position>
+        <MapFilePath>data/taludas/sessions/islands/pool/colony01_expanded/moderate_c_01_colony01/moderate_c_01_colony01.a7m</MapFilePath>
+        <Rotation90>2</Rotation90>
+        <IslandLabel>Continental_NW</IslandLabel>
+        <FertilityGuids>
+        </FertilityGuids>
+        <RandomizeFertilities>1</RandomizeFertilities>
+        <MineSlotMapping>
+          <None>-9108530242061860854</None>
+          <None>1010507</None>
+          <None>-9095019443179749375</None>
+          <None>1010507</None>
+          <None>-9151314438521880571</None>
+          <None>1010507</None>
+          <None>-9153566238335565805</None>
+          <None>0</None>
+          <None>-9154657228748226554</None>
+          <None>0</None>
+          <None>-9081508644297637887</None>
+          <None>1010507</None>
+          <None>-9108530242061860856</None>
+          <None>1010507</None>
+          <None>-9135551839826083835</None>
+          <None>101061</None>
+          <None>-9163699337497149435</None>
+          <None>0</None>
+          <None>-9153566238335565813</None>
+          <None>1010507</None>
+          <None>-9122041040943972348</None>
+          <None>1010507</None>
+          <None>-9154657228748226557</None>
+          <None>0</None>
+          <None>-9122041040943972351</None>
+          <None>1010507</None>
+          <None>-9163699337497149438</None>
+          <None>1010507</None>
+          <None>-9154657228748226550</None>
+          <None>0</None>
+          <None>-9109656141968703487</None>
+          <None>0</None>
+          <None>-9135551839826083839</None>
+          <None>1010507</None>
+          <None>-9164825237403992063</None>
+          <None>1010507</None>
+          <None>-9153566238335565816</None>
+          <None>1010507</None>
+          <None>-9162573437590306815</None>
+          <None>1010507</None>
+          <None>-9163699337497149387</None>
+          <None>1010507</None>
+          <None>-9109656141968703485</None>
+          <None>101061</None>
+          <None>-9152440338428723199</None>
+          <None>0</None>
+          <None>-9153566238335565821</None>
+          <None>1010507</None>
+          <None>-9154657228748226552</None>
+          <None>0</None>
+          <None>-9153566238335565810</None>
+          <None>1010507</None>
+          <None>-9140055439453454329</None>
+          <None>1010507</None>
+          <None>-9153566238335565807</None>
+          <None>101061</None>
+          <None>-9135551839826083834</None>
+          <None>0</None>
+          <None>-9109656141968703486</None>
+          <None>0</None>
+          <None>-9151314438521880564</None>
+          <None>0</None>
+          <None>-9141181339360296948</None>
+          <None>1010507</None>
+          <None>-9108530242061860851</None>
+          <None>0</None>
+          <None>-9154657228748226555</None>
+          <None>0</None>
+          <None>-9140055439453454335</None>
+          <None>0</None>
+          <None>-9154657228748226551</None>
+          <None>0</None>
+          <None>-9135551839826083836</None>
+          <None>101061</None>
+          <None>-9151314438521880566</None>
+          <None>0</None>
+          <None>-9154657228748226553</None>
+          <None>0</None>
+          <None>-9154657228748226558</None>
+          <None>0</None>
+          <None>-9151314438521880574</None>
+          <None>1010507</None>
+          <None>-9154657228748226556</None>
+          <None>0</None>
+        </MineSlotMapping>
+        <RandomIslandConfig>
+          <value>
+            <Type>
+              <id>Starter</id>
+            </Type>
+            <Difficulty>
+              <id>Normal</id>
+            </Difficulty>
+          </value>
+        </RandomIslandConfig>
+      </Element>
+    </TemplateElement>
+    <TemplateElement>
+      <ElementType>1</ElementType>
+      <Element>
+        <Position>1272 928</Position>
+        <Size>Large</Size>
+        <Difficulty />
+        <Config>
+          <Type>
+            <id>Starter</id>
+          </Type>
+          <Difficulty />
+        </Config>
+      </Element>
+    </TemplateElement>
+    <TemplateElement>
+      <ElementType>1</ElementType>
+      <Element>
+        <Position>1272 208</Position>
+        <Size>Large</Size>
+        <Difficulty />
+        <Config>
+          <Type>
+            <id>Starter</id>
+          </Type>
+          <Difficulty />
+        </Config>
+      </Element>
+    </TemplateElement>
+    <TemplateElement>
+      <ElementType>1</ElementType>
+      <Element>
+        <Position>520 216</Position>
+        <Size>Large</Size>
+        <Difficulty />
+        <Config>
+          <Type>
+            <id>Starter</id>
+          </Type>
+          <Difficulty />
+        </Config>
+      </Element>
+    </TemplateElement>
+    <TemplateElement>
+      <ElementType>1</ElementType>
+      <Element>
+        <Position>1336 576</Position>
+        <Size>Medium</Size>
+        <Difficulty />
+        <Config>
+          <Type />
+          <Difficulty />
+        </Config>
+      </Element>
+    </TemplateElement>
+    <TemplateElement>
+      <ElementType>1</ElementType>
+      <Element>
+        <Position>960 208</Position>
+        <Size>Medium</Size>
+        <Difficulty />
+        <Config>
+          <Type />
+          <Difficulty />
+        </Config>
+      </Element>
+    </TemplateElement>
+    <TemplateElement>
+      <ElementType>1</ElementType>
+      <Element>
+        <Position>896 1472</Position>
+        <Difficulty />
+        <Config>
+          <Type />
+          <Difficulty />
+        </Config>
+      </Element>
+    </TemplateElement>
+    <TemplateElement>
+      <ElementType>2</ElementType>
+      <Element>
+        <Position>512 1256</Position>
+      </Element>
+    </TemplateElement>
+    <TemplateElement>
+      <ElementType>1</ElementType>
+      <Element>
+        <Position>984 856</Position>
+        <Size>Medium</Size>
+        <Difficulty />
+        <Config>
+          <Type />
+          <Difficulty />
+        </Config>
+      </Element>
+    </TemplateElement>
+    <TemplateElement>
+      <ElementType>1</ElementType>
+      <Element>
+        <Position>1072 1192</Position>
+        <Difficulty />
+        <Config>
+          <Type />
+          <Difficulty />
+        </Config>
+      </Element>
+    </TemplateElement>
+    <TemplateElement>
+      <ElementType>1</ElementType>
+      <Element>
+        <Position>648 576</Position>
+        <Size>Medium</Size>
+        <Difficulty />
+        <Config>
+          <Type />
+          <Difficulty />
+        </Config>
+      </Element>
+    </TemplateElement>
+    <TemplateElement>
+      <ElementType>1</ElementType>
+      <Element>
+        <Position>704 992</Position>
+        <Size>Small</Size>
+        <Difficulty />
+        <Config>
+          <Type>
+            <id>ThirdParty</id>
+          </Type>
+          <Difficulty />
+        </Config>
+      </Element>
+    </TemplateElement>
+    <TemplateElement>
+      <ElementType>1</ElementType>
+      <Element>
+        <Position>1048 608</Position>
+        <Size>Small</Size>
+        <Difficulty />
+        <Config>
+          <Type>
+            <id>Pirate</id>
+          </Type>
+          <Difficulty />
+        </Config>
+      </Element>
+    </TemplateElement>
+    <TemplateElement>
+      <ElementType>1</ElementType>
+      <Element>
+        <Position>264 264</Position>
+        <Size>Small</Size>
+        <Difficulty />
+        <Config>
+          <Type />
+          <Difficulty />
+        </Config>
+      </Element>
+    </TemplateElement>
+    <TemplateElement>
+      <ElementType>1</ElementType>
+      <Element>
+        <Position>1480 1400</Position>
+        <Size>Small</Size>
+        <Difficulty />
+        <Config>
+          <Type />
+          <Difficulty />
+        </Config>
+      </Element>
+    </TemplateElement>
+    <TemplateElement>
+      <ElementType>1</ElementType>
+      <Element>
+        <Position>464 816</Position>
+        <Size>Small</Size>
+        <Difficulty />
+        <Config>
+          <Type />
+          <Difficulty />
+        </Config>
+      </Element>
+    </TemplateElement>
+    <TemplateElement>
+      <ElementType>1</ElementType>
+      <Element>
+        <Position>856 1248</Position>
+        <Size>Small</Size>
+        <Difficulty />
+        <Config>
+          <Type />
+          <Difficulty />
+        </Config>
+      </Element>
+    </TemplateElement>
+    <TemplateElement>
+      <ElementType>1</ElementType>
+      <Element>
+        <Position>240 816</Position>
+        <Size>Small</Size>
+        <Difficulty />
+        <Config>
+          <Type />
+          <Difficulty />
+        </Config>
+      </Element>
+    </TemplateElement>
+    <TemplateElement>
+      <ElementType>1</ElementType>
+      <Element>
+        <Position>208 520</Position>
+        <Size>Medium</Size>
+        <Difficulty />
+        <Config>
+          <Type />
+          <Difficulty />
+        </Config>
+      </Element>
+    </TemplateElement>
+    <TemplateElement>
+      <ElementType>1</ElementType>
+      <Element>
+        <Position>1128 1360</Position>
+        <Size>Medium</Size>
+        <Difficulty />
+        <Config>
+          <Type />
+          <Difficulty />
+        </Config>
+      </Element>
+    </TemplateElement>
+  </MapTemplate>
+</Content>

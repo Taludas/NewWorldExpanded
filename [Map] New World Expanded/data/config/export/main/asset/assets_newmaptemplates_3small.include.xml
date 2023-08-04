@@ -1,37 +1,32 @@
 <ModOps>
-    <ImyaTweaks Title="[VANILLA] 'SMALL' map size option" />
-
-    <ModOp Type="remove" GUID="141379,142488,142489" Path="/Values/MapTemplate/TemplateFilename"></ModOp>
+    <ImyaTweaks Title="[VANILLA] 'SMALL' map size option" Description="Determines the used Map Template layout for the generation of the vanilla New World session and small map size. Only switch on one toggle in this section! Only switch on one toggle in this section! (Otherwise only the last option is active)" Icon="data/ui/2kimages/main/icons/notification_icons/icon_map_outline.png"/>
 
     <!-- #small map size -->
-<!-- add used map templates from pre DLC12 with the corner variant -->
-    <ModOp Type="add" GUID="141379,142488,142489" Path="/Values/MapTemplate" ModOpID="ToggleCornerMap_NW_small_preDLC12">
-        <TemplateFilename>data/taludas/sessions/maps/pool/colony01_expanded/colony01_s_01_corners/colony01_s_01_corners.a7t</TemplateFilename>
-    </ModOp>
+    <!-- add used map templates from pre DLC12 with the corner variant -->
+    <Group ModOpID="ToggleCornerMap_NW_small_preDLC12">
+        <ModOp Type="replace" GUID="141379,142488,142489" Path="/Values/MapTemplate/TemplateFilename">
+            <TemplateFilename>data/taludas/sessions/maps/pool/colony01_expanded/colony01_s_01_corners/colony01_s_01_corners.a7t</TemplateFilename>
+        </ModOp>
+    </Group>
 
-    <ImyaExpose Path="self::TemplateFilename" ModOpID="ToggleCornerMap_NW_small_preDLC12" ExposeID="[Vanilla] 'Corner' preset" Kind="Toggle">
-        <AltValue>
-        </AltValue>
-    </ImyaExpose>
+    <ImyaExpose Path="*" ModOpID="ToggleCornerMap_NW_small_preDLC12" ExposeID="[Vanilla] 'Corner' preset" Kind="SkipToggle" InitState="True"></ImyaExpose>
 
-<!-- add used map templates from pre DLC12 with the island arch variant -->
-    <ModOp Type="add" GUID="141379,142488,142489" Path="/Values/MapTemplate" ModOpID="ToggleIslandArchMap_NW_small_preDLC12">
-        <TemplateFilename>data/taludas/sessions/maps/pool/colony01_expanded/colony01_s_02_islandarch/colony01_s_02_islandarch.a7t</TemplateFilename>
-    </ModOp>
+    <!-- add used map templates from pre DLC12 with the island arch variant -->
+    <Group ModOpID="ToggleIslandArchMap_NW_small_preDLC12">
+        <ModOp Type="replace" GUID="141379,142488,142489" Path="/Values/MapTemplate/TemplateFilename">
+            <TemplateFilename>data/taludas/sessions/maps/pool/colony01_expanded/colony01_s_02_islandarch/colony01_s_02_islandarch.a7t</TemplateFilename>
+        </ModOp>
+    </Group>
 
-    <ImyaExpose Path="self::TemplateFilename" ModOpID="ToggleIslandArchMap_NW_small_preDLC12" ExposeID="[Vanilla] 'Island Arch' preset" Kind="Toggle">
-        <AltValue>
-        </AltValue>
-    </ImyaExpose>
+    <ImyaExpose Path="*" ModOpID="ToggleIslandArchMap_NW_small_preDLC12" ExposeID="[Vanilla] 'Island Arch' preset" Kind="SkipToggle"></ImyaExpose>
 
-<!-- add used map templates from pre DLC12 with the pirates den variant -->
-    <ModOp Type="add" GUID="141379,142488,142489" Path="/Values/MapTemplate" ModOpID="TogglePiratesDenMap_NW_small_preDLC12">
-        <TemplateFilename>data/taludas/sessions/maps/pool/colony01_expanded/colony01_s_03_piratesden/colony01_s_03_piratesden.a7t</TemplateFilename>
-    </ModOp>
+    <!-- add used map templates from pre DLC12 with the pirates den variant -->
+    <Group ModOpID="TogglePiratesDenMap_NW_small_preDLC12">
+        <ModOp Type="replace" GUID="141379,142488,142489" Path="/Values/MapTemplate/TemplateFilename">
+            <TemplateFilename>data/taludas/sessions/maps/pool/colony01_expanded/colony01_s_03_piratesden/colony01_s_03_piratesden.a7t</TemplateFilename>
+        </ModOp>
+    </Group>
 
-    <ImyaExpose Path="self::TemplateFilename" ModOpID="TogglePiratesDenMap_NW_small_preDLC12" ExposeID="[Vanilla] 'Pirates Den' preset" Description="Determines the used Map Template layout for the generation of the vanilla New World session and small map size. Only switch on one toggle in this section!" Kind="Toggle">
-        <AltValue>
-        </AltValue>
-    </ImyaExpose>
+    <ImyaExpose Path="*" ModOpID="TogglePiratesDenMap_NW_small_preDLC12" ExposeID="[Vanilla] 'Pirates Den' preset" Kind="SkipToggle"></ImyaExpose>
 
 </ModOps>

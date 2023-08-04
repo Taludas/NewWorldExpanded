@@ -1,12 +1,16 @@
 {
-  "Version": "1.0.0",
+  "Version": "1.2.0",
   "ModID": "Taludas_NewWorldExpanded",
   "IncompatibleIds": [
     "Spice_SouthRiversRemoved",
-    "Spice_SouthRiversReduced",
-    "NewHorizons"
+    "Spice_SouthRiversReduced"
   ],
-  "ModDependencies": null,
+  "ModDependencies": [
+    "Taludas_RiverslotsNW"
+  ],
+  "LoadAfterIds": [
+    "Taludas_RiverslotsNW"
+  ],
   "Category": {
     "Chinese": "Map",
     "English": "Map",
@@ -21,17 +25,17 @@
     "Taiwanese": "Map"
   },
   "ModName": {
-    "Chinese": "New World Expanded",
-    "English": "New World Expanded",
-    "French": "New World Expanded",
-    "German": "New World Expanded",
-    "Italian": "New World Expanded",
-    "Japanese": "New World Expanded",
-    "Korean": "New World Expanded",
-    "Polish": "New World Expanded",
-    "Russian": "New World Expanded",
-    "Spanish": "New World Expanded",
-    "Taiwanese": "New World Expanded"
+    "Chinese": "New World Expanded (Taludas)",
+    "English": "New World Expanded (Taludas)",
+    "French": "New World Expanded (Taludas)",
+    "German": "New World Expanded (Taludas)",
+    "Italian": "New World Expanded (Taludas)",
+    "Japanese": "New World Expanded (Taludas)",
+    "Korean": "New World Expanded (Taludas)",
+    "Polish": "New World Expanded (Taludas)",
+    "Russian": "New World Expanded (Taludas)",
+    "Spanish": "New World Expanded (Taludas)",
+    "Taiwanese": "New World Expanded (Taludas)"
   },
   "Description": {
     "Chinese": null,

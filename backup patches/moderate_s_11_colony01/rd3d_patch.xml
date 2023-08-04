@@ -1,0 +1,78 @@
+<ModOps>
+
+    <ModOp Type="addPrevSibling" Path="//MaterialIDs2">
+        <MaterialSetFileName>mods/[Map] New World Expanded/data/taludas/sessions/islands/pool/colony01_expanded/ow_for_southamerica.xml</MaterialSetFileName>
+    </ModOp>
+
+    <ModOp Type="replace" Path="//PropGrid/FileNames">
+        <FileNames>
+            <None>data/graphics/props/terrain_props/rocks/rocks_jungle/rock_jungle_01.prp</None>
+            <None>data/graphics/props/terrain_props/rocks/rocks_jungle/rock_jungle_02.prp</None>
+            <None>data/graphics/props/terrain_props/rocks/rocks_jungle/rock_jungle_04.prp</None>
+            <None>data/graphics/props/terrain_props/rocks/rocks_jungle/rock_jungle_05.prp</None>
+            <None>data/graphics/props/terrain_props/rocks/rocks_jungle/rock_jungle_06.prp</None>
+            <None>data/graphics/props/terrain_props/rocks/rocks_jungle/rock_jungle_09.prp</None>
+            <None>data/graphics/props/terrain_props/rocks/rocks_jungle/rock_jungle_10.prp</None>
+            <None>data/graphics/props/terrain_props/rocks/rocks_jungle/rock_jungle_11.prp</None>
+            <None>data/graphics/props/terrain_props/rocks/rocks_jungle/rock_jungle_12.prp</None>
+            <None>data/graphics/props/terrain_props/rocks/rocks_jungle/rock_jungle_13.prp</None>
+            <None>data/graphics/props/terrain_props/rocks/rocks_jungle/rock_jungle_14.prp</None>
+            <None>data/graphics/props/terrain_props/rocks/rocks_jungle/rock_jungle_15.prp</None>
+            <None>data/graphics/props/terrain_props/rocks/rocks_jungle/rock_jungle_16.prp</None>
+            <None>data/graphics/props/terrain_props/rocks/rocks_jungle/rock_jungle_17.prp</None>
+            <None>data/graphics/props/terrain_props/rocks/rocks_jungle/rock_jungle_18.prp</None>
+            <None>data/graphics/props/terrain_props/rocks/rocks_jungle/rock_jungle_19.prp</None>
+            <None>data/graphics/props/terrain_props/rocks/rocks_jungle/rock_jungle_20.prp</None>
+            <None>data/graphics/props/terrain_props/rocks/rocks_jungle/rock_jungle_22.prp</None>
+            <None>data/graphics/props/terrain_props/rocks/rocks_jungle/rock_jungle_23.prp</None>
+            <None>data/graphics/props/terrain_props/rocks/rocks_pebbles_jungle/pebbles_jungle_01.prp</None>
+            <None>data/graphics/props/terrain_props/rocks/rocks_pebbles_jungle/pebbles_jungle_02.prp</None>
+            <None>data/graphics/props/terrain_props/rocks/rocks_pebbles_jungle/pebbles_jungle_03.prp</None>
+            <None>data/graphics/props/terrain_props/rocks/rocks_pebbles_jungle/pebbles_jungle_04.prp</None>
+            <None>data/graphics/props/terrain_props/vegetation/bushes/bush_jungle_01_large.prp</None>
+            <None>data/graphics/props/terrain_props/vegetation/bushes/bush_jungle_02_large.prp</None>
+            <None>data/graphics/props/terrain_props/vegetation/trees/dead/tree_dead_jungle_palm_01.prp</None>
+            <None>data/graphics/props/terrain_props/vegetation/trees/dead/tree_dead_jungle_palm_02.prp</None>
+            <None>data/graphics/props/terrain_props/vegetation/trees/dead/tree_dead_jungle_03.prp</None>
+            <None>data/graphics/props/terrain_props/vegetation/trees/dead/tree_dead_stump_01.prp</None>
+            <None>data/graphics/props/terrain_props/vegetation/trees/dead/tree_dead_jungle_stump_01.prp</None>
+            <None>data/graphics/props/terrain_props/vegetation/trees/dead/tree_dead_jungle_stump_b_01.prp</None>
+            <None>data/graphics/props/terrain_props/vegetation/trees/dead/tree_dead_jungle_stump_b_02.prp</None>
+            <None>data/graphics/props/terrain_props/vegetation/trees/dead/tree_dead_jungle_stump_b_03.prp</None>
+            <None>data/graphics/props/terrain_props/vegetation/trees/dead/tree_dead_stump_top_03.prp</None>
+            <None>data/graphics/props/terrain_props/vegetation/trees/dead/tree_dead_jungle_03.prp</None>
+            <None>data/graphics/props/terrain_props/vegetation/trees/dead/tree_dead_jungle_palm_01.prp</None>
+            <None>data/graphics/props/terrain_props/vegetation/trees/dead/tree_dead_jungle_palm_02.prp</None>
+            <None>data/graphics/props/terrain_props/vegetation/trees/dead/tree_dead_jungle_03.prp</None>
+            <None>data/graphics/props/terrain_props/vegetation/trees/dead/tree_dead_jungle_03.prp</None>
+            <None>data/graphics/props/terrain_props/vegetation/trees/dead/tree_dead_jungle_palm_01.prp</None>
+            <None>data/graphics/props/terrain_props/vegetation/trees/dead/tree_dead_jungle_palm_02.prp</None>
+            <None>data/graphics/props/terrain_props/vegetation/trees/dead/tree_dead_jungle_03.prp</None>
+            <None>data/graphics/props/terrain_props/vegetation/trees/jungle/tree_jungle_palm_01_02.prp</None>
+            <None>data/graphics/props/terrain_props/vegetation/trees/jungle/tree_jungle_palm_01_03.prp</None>
+            <None>data/graphics/props/terrain_props/vegetation/trees/jungle/tree_jungle_palm_01.prp</None>
+            <None>data/graphics/props/terrain_props/vegetation/trees/jungle/tree_jungle_palm_02_02.prp</None>
+            <None>data/graphics/props/terrain_props/vegetation/trees/jungle/tree_jungle_palm_02_03.prp</None>
+            <None>data/graphics/props/terrain_props/vegetation/trees/jungle/tree_jungle_palm_02.prp</None>
+            <None>data/graphics/props/terrain_props/vegetation/trees/jungle/tree_jungle_palm_03_01.prp</None>
+            <None>data/graphics/props/terrain_props/vegetation/trees/jungle/tree_jungle_palm_04_01.prp</None>
+            <None>data/graphics/props/terrain_props/vegetation/trees/jungle/tree_jungle_palm_04_02.prp</None>
+            <None>data/graphics/props/terrain_props/vegetation/trees/jungle/tree_jungle_large_01_02.prp</None>
+            <None>data/graphics/props/terrain_props/vegetation/trees/jungle/tree_jungle_large_01_03.prp</None>
+            <None>data/graphics/props/terrain_props/vegetation/trees/jungle/tree_jungle_large_01.prp</None>
+            <None>data/graphics/props/terrain_props/vegetation/trees/jungle/tree_jungle_large_02_02.prp</None>
+            <None>data/graphics/props/terrain_props/vegetation/trees/jungle/tree_jungle_large_02_03.prp</None>
+            <None>data/graphics/props/terrain_props/vegetation/trees/jungle/tree_jungle_large_02.prp</None>
+            <None>data/graphics/props/terrain_props/vegetation/trees/jungle/tree_jungle_large_04_01.prp</None>
+            <None>data/graphics/props/terrain_props/vegetation/trees/jungle/tree_jungle_large_03_03.prp</None>
+            <None>data/graphics/props/terrain_props/vegetation/trees/jungle/tree_jungle_large_03_02.prp</None>
+            <None>data/graphics/props/terrain_props/vegetation/trees/jungle/tree_jungle_large_03.prp</None>
+            <None>data/graphics/props/terrain_props/vegetation/trees/jungle/tree_jungle_large_04_02.prp</None>
+            <None>data/graphics/props/terrain_props/vegetation/trees/jungle/tree_jungle_large_05_02.prp</None>
+            <None>data/graphics/props/terrain_props/vegetation/trees/jungle/tree_jungle_large_05_03.prp</None>
+            <None>data/graphics/props/terrain_props/vegetation/water/underwater_plant_01.prp</None>
+            <None>data/graphics/props/terrain_props/vegetation/water/underwater_plant_02.prp</None>
+        </FileNames>
+    </ModOp>
+
+</ModOps>

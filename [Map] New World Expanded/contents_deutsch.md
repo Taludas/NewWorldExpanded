@@ -2,12 +2,6 @@
 
 Diese Mod verbessert die New World Map Generation mit neu gestalteten OW-Inseln und neuen Kartenvorlagen für mehr Abwechslung und Wiederspielwert des Spiels.
 
-***Alle Mods aus diesem Archiv benötigen den Inhalt des darin befindlichen "data"-Ordners, der in den Anno 1800-Datenordner extrahiert werden muss, NICHT DEN MODS-Ordner!!! Diesen Ordner findet ihr im Anno 1800 Hauptverzeichnis. Bitte beachtet das Bild unten.***
-
-![tutorial data folder](https://user-images.githubusercontent.com/64583643/189415899-dc65aac9-29ce-4641-b9ee-9d8406e64b93.png)
-
-***Der Rest der Ordner kommt in den normalen "mods"-Ordner und wird vom Modloader geladen.***
-
 **DAMIT DIESER MOD RICHTIG FUNKTIONIERT, MÜSST IHR EINEN NEUEN SPIELSTAND LADEN/STARTEN (ODER ZUMINDEST EINEN OHNE DIE NW ENTDECKT)!!! Ich schlage vor, eine Mod wie "Easy seed search" von Spice it up zum Testen zu verwenden, bevor viel Zeit in einen neuen Playthrough investiert wird.**
 
 -----

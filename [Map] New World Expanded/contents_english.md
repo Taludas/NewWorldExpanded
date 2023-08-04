@@ -2,12 +2,6 @@
 
 This mod enhances the New World map generation with reskinned OW Islands and fresh map templates for more variety and replayability of the game.
 
-***All mods from this archieve need the contents of the "data" folder found within it to be extracted into the Anno 1800 data folder, NOT THE MODS FOLDER!!! You find this folder in the main Anno 1800 directory. Please refer to the picture below.***
-
-![tutorial data folder](https://user-images.githubusercontent.com/64583643/189415899-dc65aac9-29ce-4641-b9ee-9d8406e64b93.png)
-
-***The rest of the folders go into the usual "mods" folder to be loaded by the modloader.***
-
 **FOR THIS MOD TO WORK PROPERLY YOU NEED TO LOAD/START A NEW SAVE (OR AT LEAST ONE WITHOUT THE NW DISCOVERED)!!! I higly suggest that you use a mod like "Easy seed search" from Spice it up for testing before you commit much time into a new playthrough.**
 
 -----

@@ -1,0 +1,131 @@
+<ModOps>
+    <ModOp Type="remove" Path="//GameObject/objects/None[guid = '113878']"></ModOp>
+
+    <ModOp Type="replace" Path="//GameObject/objects/None[guid = '111878']">
+        <None>
+            <guid>24817</guid>
+            <ID>-8491537093112102910</ID>
+            <ObjectFolderID>0</ObjectFolderID>
+            <Position>520 0 1296</Position>
+            <Direction>4,712389</Direction>
+            <ParticipantID />
+            <QuestObject>
+                <QuestIDs />
+                <ObjectWasVisible>
+                    <None>False</None>
+                    <None>False</None>
+                </ObjectWasVisible>
+                <OverwriteVisualParticipant />
+            </QuestObject>
+            <Attackable />
+            <Attacker />
+            <Collector>
+                <Collected />
+            </Collector>
+            <CommandQueue>
+                <Commands />
+                <BasePosition>-1 -1</BasePosition>
+                <BaseRotation>0</BaseRotation>
+                <SpecialAssignment />
+                <StateParams>
+                    <Radius>0</Radius>
+                    <Object>
+                        <ObjectID>0</ObjectID>
+                    </Object>
+                    <AttachRadius>0</AttachRadius>
+                    <AttachObject>
+                        <ObjectID>0</ObjectID>
+                    </AttachObject>
+                    <EscortedObjectMetaID>0</EscortedObjectMetaID>
+                    <StateOnQuitPassiveAttack />
+                    <OptimalAttackMovementData>
+                        <OptimalAngleWS>-1</OptimalAngleWS>
+                        <OptimalDistanceWS>-1</OptimalDistanceWS>
+                    </OptimalAttackMovementData>
+                </StateParams>
+            </CommandQueue>
+            <Draggable>
+                <Dragger>0</Dragger>
+            </Draggable>
+            <FeedbackController>
+                <CurrentSequence>-1</CurrentSequence>
+                <OverrideSequence />
+                <SequenceStartTime>100</SequenceStartTime>
+            </FeedbackController>
+            <Infolayer>
+                <Icons />
+            </Infolayer>
+            <Mesh>
+                <Flags>
+                    <flags>1</flags>
+                </Flags>
+                <DyeColorDetail>255 255 255 255</DyeColorDetail>
+                <SequenceData>
+                    <CurrentSequenceID>1000</CurrentSequenceID>
+                    <CurrentSequenceStartTime>100</CurrentSequenceStartTime>
+                    <IdleSequenceID>1000</IdleSequenceID>
+                </SequenceData>
+                <Orientation>0 -0,70710677 0 -0,7071069</Orientation>
+            </Mesh>
+            <MetaPersistent>
+                <MetaID>0</MetaID>
+            </MetaPersistent>
+            <Nameable />
+            <Pausable />
+            <Rentable>
+                <Tenant />
+            </Rentable>
+            <Selection>
+                <Detected>12336 12336 12336 12336</Detected>
+            </Selection>
+            <Sellable>
+                <allowedBuyers>48 48 48 48 48 49 49 49 49 49 49 49 49 49 49 49 49 49 49 49 49 49 49 49 49 49 49 49 49 49 49 49 49 49 49 49 49 49 49 49 49 49 49 49 49 49 49 49 49 49 49 49 49 49 49 49 49 49 49 49 49 49 49 49 49 49 49 49 49 49 49 49 49 49 49 49 49 49</allowedBuyers>
+            </Sellable>
+            <ShipIncident>
+                <activeType>
+                    <value />
+                </activeType>
+            </ShipIncident>
+            <ShipMaintenance />
+            <PropertyTradeRouteVehicle>
+                <RouteStatus>
+                    <RouteStatus>0</RouteStatus>
+                </RouteStatus>
+                <TargetBuildingID>0</TargetBuildingID>
+                <TargetLoadingHarbour>0</TargetLoadingHarbour>
+                <PlannedLoad />
+            </PropertyTradeRouteVehicle>
+            <Walking>
+                <Reservation>
+                    <Position>1296,7289 1396,1545</Position>
+                    <RectSize>9 5</RectSize>
+                </Reservation>
+                <Way>
+                    <None>0</None>
+                </Way>
+                <LastPos>1151454659 0 1152288604</LastPos>
+                <LastWaystepPos>1151454659 0 1152288604</LastWaystepPos>
+                <LastTickPos>1151454659 0 1152288604</LastTickPos>
+                <LastDirView>1078523331</LastDirView>
+                <LastDirLogic>1078523331</LastDirLogic>
+                <LastDeltaDirDelta>0</LastDeltaDirDelta>
+                <TargetPosition />
+                <CombatRange />
+                <PreventDriftBack>False</PreventDriftBack>
+                <OldUnitID>2</OldUnitID>
+            </Walking>
+            <SoundEmitter />
+            <ItemContainer>
+                <KamikazeDecal>0</KamikazeDecal>
+            </ItemContainer>
+            <UpgradeList>
+                <UpgradeGUIDs>
+                </UpgradeGUIDs>
+                <UpgradeSets />
+                <ElectricityUpgrades>
+                </ElectricityUpgrades>
+                <HasElectricity>False</HasElectricity>
+            </UpgradeList>
+        </None>
+    </ModOp>
+</ModOps>  

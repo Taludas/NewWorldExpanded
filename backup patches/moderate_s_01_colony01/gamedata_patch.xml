@@ -1,0 +1,8 @@
+<ModOps>
+    <ModOp Type="replace" Path="//SessionSettings/GlobalAmbientName">
+        <GlobalAmbientName>south_america_caribic_01</GlobalAmbientName>
+    </ModOp>
+    <ModOp Type="add" Path="//SessionSettings">
+        <VegetationPropSetName>Colony</VegetationPropSetName>
+    </ModOp>
+</ModOps>  

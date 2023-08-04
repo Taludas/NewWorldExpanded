@@ -1,172 +1,49 @@
 <ModOps>
 
-    <ImyaTweaks Title="New World Expanded: No Muddy River Colour" />
+    <ImyaTweaks Title="New World Expanded: No Muddy River Colour" Description="Switch all the Toggles to 'on' to get the full experience. By default, all modules are enabled!" Icon="data/ui/2kimages/main/3dicons/icon_rich_sea.png"/>
 
-    <ModOp Type="remove" GUID="142004,142005,142130,142006,142007,142001,142003,6077,6079,6071"></ModOp>
+    <Group ModOpID="ReplaceMuddyRiverIslandswithClear">
+        <ModOp Type="replace" GUID="142004" Path="/Values/RandomIsland/FilePath">
+            <FilePath>data/taludas/sessions/islands/pool/colony01_expanded/colony01_l_01/colony01_l_01_river_01.a7m</FilePath>
+        </ModOp>
 
-    <ModOp Type="addNextSibling" GUID="140397" ModOpID="ReplaceMuddyRiverIslandswithClear">
-        <Asset>
-            <Template>RandomIsland</Template>
-            <Values>
-                <Standard>
-                    <GUID>142004</GUID>
-                    <Name>colony01_l_01_river_01</Name>
-                </Standard>
-                <RandomIsland>
-                    <FilePath>data/taludas/sessions/islands/pool/colony01_expanded/colony01_l_01/colony01_l_01_river_01.a7m</FilePath>
-                    <IslandRegion>Colony01</IslandRegion>
-                    <IslandDifficulty>Hard</IslandDifficulty>
-                    <IslandType>Normal;Starter</IslandType>
-                    <IslandBaseName>colony01_l_01</IslandBaseName>
-                </RandomIsland>
-            </Values>
-        </Asset>
-        <Asset>
-            <Template>RandomIsland</Template>
-            <Values>
-                <Standard>
-                    <GUID>142005</GUID>
-                    <Name>colony01_l_02_river_01</Name>
-                </Standard>
-                <RandomIsland>
-                    <FilePath>data/taludas/sessions/islands/pool/colony01_expanded/colony01_l_02/colony01_l_02_river_01.a7m</FilePath>
-                    <IslandRegion>Colony01</IslandRegion>
-                    <IslandDifficulty>Hard;Normal</IslandDifficulty>
-                    <IslandType>Normal;Starter</IslandType>
-                    <IslandBaseName>colony01_l_02</IslandBaseName>
-                </RandomIsland>
-            </Values>
-        </Asset>
-        <Asset>
-            <Template>RandomIsland</Template>
-            <Values>
-                <Standard>
-                    <GUID>142130</GUID>
-                    <Name>colony01_l_03_river_01</Name>
-                </Standard>
-                <RandomIsland>
-                    <FilePath>data/taludas/sessions/islands/pool/colony01_expanded/colony01_l_03/colony01_l_03_river_01.a7m</FilePath>
-                    <IslandRegion>Colony01</IslandRegion>
-                    <IslandDifficulty>Hard</IslandDifficulty>
-                    <IslandType>Normal;Starter</IslandType>
-                    <IslandBaseName>colony01_l_03</IslandBaseName>
-                </RandomIsland>
-            </Values>
-        </Asset>
-        <Asset>
-            <Template>RandomIsland</Template>
-            <Values>
-                <Standard>
-                    <GUID>142006</GUID>
-                    <Name>colony01_l_04_river_01</Name>
-                </Standard>
-                <RandomIsland>
-                    <FilePath>data/taludas/sessions/islands/pool/colony01_expanded/colony01_l_04/colony01_l_04_river_01.a7m</FilePath>
-                    <IslandRegion>Colony01</IslandRegion>
-                    <IslandDifficulty>Hard</IslandDifficulty>
-                    <IslandType>Normal;Starter</IslandType>
-                    <IslandBaseName>colony01_l_04</IslandBaseName>
-                </RandomIsland>
-            </Values>
-        </Asset>
-        <Asset>
-            <Template>RandomIsland</Template>
-            <Values>
-                <Standard>
-                    <GUID>142007</GUID>
-                    <Name>colony01_l_05_river_01</Name>
-                </Standard>
-                <RandomIsland>
-                    <FilePath>data/taludas/sessions/islands/pool/colony01_expanded/colony01_l_05/colony01_l_05_river_01.a7m</FilePath>
-                    <IslandRegion>Colony01</IslandRegion>
-                    <IslandDifficulty>Normal;Hard</IslandDifficulty>
-                    <IslandType>Normal;Starter</IslandType>
-                    <IslandBaseName>colony01_l_05</IslandBaseName>
-                </RandomIsland>
-            </Values>
-        </Asset>
-        <Asset>
-            <Template>RandomIsland</Template>
-            <Values>
-                <Standard>
-                    <GUID>6077</GUID>
-                    <Name>colony01_l_06_river_01</Name>
-                </Standard>
-                <RandomIsland>
-                    <FilePath>data/taludas/sessions/islands/pool/colony01_expanded/colony01_l_06/colony01_l_06_river_01.a7m</FilePath>
-                    <IslandRegion>Colony01</IslandRegion>
-                    <IslandDifficulty>Hard</IslandDifficulty>
-                    <IslandType>Normal;Starter</IslandType>
-                    <IslandBaseName>colony01_l_06</IslandBaseName>
-                </RandomIsland>
-            </Values>
-        </Asset>
-        <Asset>
-            <Template>RandomIsland</Template>
-            <Values>
-                <Standard>
-                    <GUID>6079</GUID>
-                    <Name>colony01_l_08_river_01</Name>
-                </Standard>
-                <RandomIsland>
-                    <FilePath>data/taludas/sessions/islands/pool/colony01_expanded/colony01_l_08/colony01_l_08_river_01.a7m</FilePath>
-                    <IslandRegion>Colony01</IslandRegion>
-                    <IslandDifficulty>Normal;Hard</IslandDifficulty>
-                    <IslandType>Normal;Starter</IslandType>
-                    <IslandBaseName>colony01_l_08</IslandBaseName>
-                </RandomIsland>
-            </Values>
-        </Asset>
-        <Asset>
-            <Template>RandomIsland</Template>
-            <Values>
-                <Standard>
-                    <GUID>142001</GUID>
-                    <Name>colony01_m_03_river_01</Name>
-                </Standard>
-                <RandomIsland>
-                    <FilePath>data/taludas/sessions/islands/pool/colony01_expanded/colony01_m_03/colony01_m_03_river_01.a7m</FilePath>
-                    <IslandRegion>Colony01</IslandRegion>
-                    <IslandDifficulty>Normal;Hard</IslandDifficulty>
-                    <IslandType>Normal;Starter</IslandType>
-                    <IslandBaseName>colony01_m_03</IslandBaseName>
-                </RandomIsland>
-            </Values>
-        </Asset>
-        <Asset>
-            <Template>RandomIsland</Template>
-            <Values>
-                <Standard>
-                    <GUID>142003</GUID>
-                    <Name>colony01_m_06_river_01</Name>
-                </Standard>
-                <RandomIsland>
-                    <FilePath>data/taludas/sessions/islands/pool/colony01_expanded/colony01_m_06/colony01_m_06_river_01.a7m</FilePath>
-                    <IslandRegion>Colony01</IslandRegion>
-                    <IslandDifficulty>Normal;Hard</IslandDifficulty>
-                    <IslandType>Normal;Starter</IslandType>
-                    <IslandBaseName>colony01_m_06</IslandBaseName>
-                </RandomIsland>
-            </Values>
-        </Asset>
-        <Asset>
-            <Template>RandomIsland</Template>
-            <Values>
-                <Standard>
-                    <GUID>6071</GUID>
-                    <Name>colony01_m_08_river_01</Name>
-                </Standard>
-                <RandomIsland>
-                    <FilePath>data/taludas/sessions/islands/pool/colony01_expanded/colony01_m_08/colony01_m_08_river_01.a7m</FilePath>
-                    <IslandRegion>Colony01</IslandRegion>
-                    <IslandDifficulty>Hard</IslandDifficulty>
-                    <IslandType>Normal;Starter</IslandType>
-                    <IslandBaseName>colony01_m_08</IslandBaseName>
-                </RandomIsland>
-            </Values>
-        </Asset>
-    </ModOp>
+        <ModOp Type="replace" GUID="142005" Path="/Values/RandomIsland/FilePath">
+            <FilePath>data/taludas/sessions/islands/pool/colony01_expanded/colony01_l_02/colony01_l_02_river_01.a7m</FilePath>
+        </ModOp>
 
-    <ImyaExpose Path="self" ModOpID="ReplaceMuddyRiverIslandswithClear" ExposeID="Replace Muddy River Islands with Clear" Description="Toggle on to replace the normal muddy river islands with versions with clear, blue rivers." Kind="SkipToggle" />
+        <ModOp Type="replace" GUID="142130" Path="/Values/RandomIsland/FilePath">
+            <FilePath>data/taludas/sessions/islands/pool/colony01_expanded/colony01_l_03/colony01_l_03_river_01.a7m</FilePath>
+        </ModOp>
+
+        <ModOp Type="replace" GUID="142006" Path="/Values/RandomIsland/FilePath">
+            <FilePath>data/taludas/sessions/islands/pool/colony01_expanded/colony01_l_04/colony01_l_04_river_01.a7m</FilePath>
+        </ModOp>
+
+        <ModOp Type="replace" GUID="142007" Path="/Values/RandomIsland/FilePath">
+            <FilePath>data/taludas/sessions/islands/pool/colony01_expanded/colony01_l_05/colony01_l_05_river_01.a7m</FilePath>
+        </ModOp>
+
+        <ModOp Type="replace" GUID="6077" Path="/Values/RandomIsland/FilePath">
+            <FilePath>data/taludas/sessions/islands/pool/colony01_expanded/colony01_l_06/colony01_l_06_river_01.a7m</FilePath>
+        </ModOp>
+
+        <ModOp Type="replace" GUID="6079" Path="/Values/RandomIsland/FilePath">
+            <FilePath>data/taludas/sessions/islands/pool/colony01_expanded/colony01_l_08/colony01_l_08_river_01.a7m</FilePath>
+        </ModOp>
+
+        <ModOp Type="replace" GUID="142001" Path="/Values/RandomIsland/FilePath">
+            <FilePath>data/taludas/sessions/islands/pool/colony01_expanded/colony01_m_03/colony01_m_03_river_01.a7m</FilePath>
+        </ModOp>
+
+        <ModOp Type="replace" GUID="142003" Path="/Values/RandomIsland/FilePath">
+            <FilePath>data/taludas/sessions/islands/pool/colony01_expanded/colony01_m_06/colony01_m_06_river_01.a7m</FilePath>
+        </ModOp>
+
+        <ModOp Type="replace" GUID="6071" Path="/Values/RandomIsland/FilePath">
+            <FilePath>data/taludas/sessions/islands/pool/colony01_expanded/colony01_m_08/colony01_m_08_river_01.a7m</FilePath>
+        </ModOp>
+    </Group>
+
+    <ImyaExpose Path="*" ModOpID="ReplaceMuddyRiverIslandswithClear" ExposeID="Replace Muddy River Islands with Clear" Description="Toggle on to replace the normal muddy river islands with versions with clear, blue rivers." Kind="SkipToggle" />
 
 </ModOps>
