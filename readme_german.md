@@ -10,6 +10,7 @@
 
 ## How to use
 
+- Automatische Installation über den Anno-Mod-Browser, der über das Hauptmenü des Anno 1800-Spiels erreichbar ist.
 - Verwende entweder den [iModYourAnno](https://github.com/anno-mods/iModYourAnno/releases) Mod-Manager oder weiß [wie man Mods manuell installiert](https://github.com/jakobharder/anno1800-mod-loader#mods).
 - Wenn du die Mod manuell herunterlädst, verwende das Archiv von [GitHub releases] (https://github.com/Taludas/NewWorldExpanded/releases). Lade nicht das gesamte Repo herunter! Es werden dann mesh-files der Inseln fehlen (durchsichtige Inseln)!
 
