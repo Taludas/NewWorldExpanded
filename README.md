@@ -24,6 +24,19 @@ If you want to get a taste of what content is in the pipeline, have a look into 
 [![Crown Falls in the New World?!](https://user-images.githubusercontent.com/64583643/189425612-91673a91-7dad-4fa3-8a97-8a10d0888cd6.jpg)](https://youtu.be/wSqFEBe8ZmY)
 
 ## Changelog
+
+<details>
+    <summary>Patch Notes Version 2.0.0</summary>
+
+* Updates:
+    - Adjusted the mod for GU18:
+      - Make compatible for usage via mod.io (previously island textures were missing)
+      - Drastically reduce file size with the new possibilities of Loader11.
+
+* Adjustments:
+    - Made a version available which uses a randomized map template for the New World (primarily for usage with mod.io, advanced users may use iMYA for more tweakability)
+ 
+</details>
 <details>
     <summary>Patch Notes Version 1.2.0</summary>
 

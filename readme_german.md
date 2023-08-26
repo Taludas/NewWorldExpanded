@@ -23,6 +23,18 @@ Wenn du einen Vorgeschmack auf die geplanten Inhalte bekommen möchtest, schau d
 
 ## Changelog
 <details>
+    <summary>Patch Notes Version 2.0.0</summary>
+
+* Updates:
+    - Die Mod wurde für GU18 angepasst:
+      - Anpassungen für die alleinige Nutzung über mod.io (vorher fehlten Inseltexturen).
+      - Drastische Reduzierung der Dateigröße mit den neuen Möglichkeiten von Loader11.
+
+* Adjustments:
+    - Ich habe eine Version zur Verfügung gestellt, die eine randomisierte Kartenvorlage für die Neue Welt verwendet (hauptsächlich für die Verwendung mit mod.io, fortgeschrittene Benutzer können iMYA für mehr Anpassungsmöglichkeiten verwenden)
+ 
+</details>
+<details>
     <summary>Patch Notes Version 1.2.0</summary>
 
 * Anpassungen:
