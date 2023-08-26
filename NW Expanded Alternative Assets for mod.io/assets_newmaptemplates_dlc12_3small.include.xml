@@ -1,0 +1,25 @@
+<ModOps>
+
+    <!-- #small map size -->
+    <!-- add used map templates from pre DLC12 with the corner variant -->
+    <Group>
+        <ModOp Type="replace" GUID="141379" Path="/Values/MapTemplate/EnlargedTemplateFilename">
+            <EnlargedTemplateFilename>data/taludas/sessions/maps/pool/colony01_expanded/colony01_s_01_corners_dlc12enlarged/colony01_s_01_corners_dlc12enlarged.a7t</EnlargedTemplateFilename>
+        </ModOp>
+    </Group>
+
+    <!-- add used map templates from pre DLC12 with the island arch variant -->
+    <Group>
+        <ModOp Type="replace" GUID="142488" Path="/Values/MapTemplate/EnlargedTemplateFilename">
+            <EnlargedTemplateFilename>data/taludas/sessions/maps/pool/colony01_expanded/colony01_s_02_islandarch_dlc12enlarged/colony01_s_02_islandarch_dlc12enlarged.a7t</EnlargedTemplateFilename>
+        </ModOp>
+    </Group>
+
+    <!-- add used map templates from pre DLC12 with the pirates den variant -->
+    <Group>
+        <ModOp Type="replace" GUID="142489" Path="/Values/MapTemplate/EnlargedTemplateFilename">
+            <EnlargedTemplateFilename>data/taludas/sessions/maps/pool/colony01_expanded/colony01_s_03_piratesden_dlc12enlarged/colony01_s_03_piratesden_dlc12enlarged.a7t</EnlargedTemplateFilename>
+        </ModOp>
+    </Group>
+
+</ModOps>
