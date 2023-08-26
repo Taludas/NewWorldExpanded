@@ -1,0 +1,194 @@
+<ModOps> 
+ 
+    <ModOp Type="add" Path = "//SlotObjects/None[None/ObjectGuid='100849']">
+        <None>
+            <ObjectId>-9215490733211912019</ObjectId>
+            <ObjectGuid>100849</ObjectGuid>
+            <Position>286,5 18,8135 229,5</Position>
+        </None>
+
+        <None>
+            <ObjectId>-9215490733211912020</ObjectId>
+            <ObjectGuid>100849</ObjectGuid>
+            <Position>284,5 18,5672 238,5</Position>
+        </None>
+
+        <None>
+            <ObjectId>-9215490733211912021</ObjectId>
+            <ObjectGuid>100849</ObjectGuid>
+            <Position>278,500000 18,093487 226,500000</Position>
+        </None>
+
+        <None>
+            <ObjectId>-9215490733211912022</ObjectId>
+            <ObjectGuid>100849</ObjectGuid>
+            <Position>282,500000 18,572271 219,500000</Position>
+        </None>
+
+        <None>
+            <ObjectId>-9215490733211912023</ObjectId>
+            <ObjectGuid>100849</ObjectGuid>
+            <Position>287,500000 19,115204 214,500000</Position>
+        </None>
+
+        <None>
+            <ObjectId>-9215490733211912024</ObjectId>
+            <ObjectGuid>100849</ObjectGuid>
+            <Position>267,500000 17,058079 221,500000</Position>
+        </None>
+
+        <None>
+            <ObjectId>-9215490733211912025</ObjectId>
+            <ObjectGuid>100849</ObjectGuid>
+            <Position>289,500000 19,157919 222,500000</Position>
+        </None>
+
+        <None>
+            <ObjectId>-9215490733211912026</ObjectId>
+            <ObjectGuid>100849</ObjectGuid>
+            <Position>269,500000 17,233274 230,500000</Position>
+        </None>
+
+        <None>
+            <ObjectId>-9215490733211912027</ObjectId>
+            <ObjectGuid>100849</ObjectGuid>
+            <Position>278,500000 18,051592 234,500000</Position>
+        </None>
+
+        <None>
+            <ObjectId>-9215490733211912028</ObjectId>
+            <ObjectGuid>100849</ObjectGuid>
+            <Position>115,500000 5,165682 199,500000</Position>
+        </None>
+
+        <None>
+            <ObjectId>-9215490733211912029</ObjectId>
+            <ObjectGuid>100849</ObjectGuid>
+            <Position>113,500000 4,876918 208,500000</Position>
+        </None>
+
+        <None>
+            <ObjectId>-9215490733211912030</ObjectId>
+            <ObjectGuid>100849</ObjectGuid>
+            <Position>107,091988 5,034467 195,500000</Position>
+        </None>
+
+        <None>
+            <ObjectId>-9215490733211912031</ObjectId>
+            <ObjectGuid>100849</ObjectGuid>
+            <Position>111,500000 5,065300 189,500000</Position>
+        </None>
+
+        <None>
+            <ObjectId>-9215490733211912032</ObjectId>
+            <ObjectGuid>100849</ObjectGuid>
+            <Position>101,500000 4,794553 191,500000</Position>
+        </None>
+
+        <None>
+            <ObjectId>-9215490733211912033</ObjectId>
+            <ObjectGuid>100849</ObjectGuid>
+            <Position>118,500000 5,246163 192,500000</Position>
+        </None>
+
+        <None>
+            <ObjectId>-9215490733211912034</ObjectId>
+            <ObjectGuid>100849</ObjectGuid>
+            <Position>98,500000 5,000384 200,500000</Position>
+        </None>
+
+        <None>
+            <ObjectId>-9215490733211912035</ObjectId>
+            <ObjectGuid>100849</ObjectGuid>
+            <Position>107,500000 5,036109 204,500000</Position>
+        </None>
+
+        <None>
+            <ObjectId>-9215490733211912036</ObjectId>
+            <ObjectGuid>100849</ObjectGuid>
+            <Position>121,500000 5,107200 202,500000</Position>
+        </None>
+
+        <None>
+            <ObjectId>-9215490733211912037</ObjectId>
+            <ObjectGuid>100849</ObjectGuid>
+            <Position>107,500000 4,818652 183,500000</Position>
+        </None>
+    </ModOp>
+    
+    <ModOp Type="add" Path = "//SlotObjects/None[None/ObjectGuid='100419']">
+        <None>
+            <ObjectId>-9215490733211911042</ObjectId>
+            <ObjectGuid>1999002336</ObjectGuid>
+            <Position>219,5 12,159 176,5</Position>
+        </None>
+        <None>
+            <ObjectId>-9215490733211911044</ObjectId>
+            <ObjectGuid>1999002336</ObjectGuid>
+            <Position>200,5 10,663 181,5</Position>
+        </None>
+        <None>
+            <ObjectId>-9215490733211911046</ObjectId>
+            <ObjectGuid>1999002336</ObjectGuid>
+            <Position>169,5 2,7816 222,5</Position>
+        </None>
+        <None>
+            <ObjectId>-9215490733211911048</ObjectId>
+            <ObjectGuid>1999002336</ObjectGuid>
+            <Position>163,5 1,4860 240,5</Position>
+        </None>
+        <None>
+            <ObjectId>-9215490733211911050</ObjectId>
+            <ObjectGuid>1999002336</ObjectGuid>
+            <Position>100,5 1,9274 114,5</Position>
+        </None>
+        <None>
+            <ObjectId>-9215490733211911052</ObjectId>
+            <ObjectGuid>1999002336</ObjectGuid>
+            <Position>106,5 0,7541 88,5</Position>
+        </None>
+        <None>
+            <ObjectId>-9215490733211911054</ObjectId>
+            <ObjectGuid>1999002336</ObjectGuid>
+            <Position>81,5 3,4012 176,5</Position>
+        </None>
+    </ModOp>
+    <ModOp Type="add" Path = "//SlotObjects/None[None/ObjectGuid='1000253']">
+        <None>
+            <ObjectId>-9215490733211911043</ObjectId>
+            <ObjectGuid>1999002337</ObjectGuid>
+            <Position>218,5 12,375 185,5</Position>
+        </None>
+        <None>
+            <ObjectId>-9215490733211911045</ObjectId>
+            <ObjectGuid>1999002337</ObjectGuid>
+            <Position>199,5 10,860 189,5</Position>
+        </None>
+        <None>
+            <ObjectId>-9215490733211911047</ObjectId>
+            <ObjectGuid>1999002337</ObjectGuid>
+            <Position>168,5 2,2384 230,5</Position>
+        </None>
+        <None>
+            <ObjectId>-9215490733211911049</ObjectId>
+            <ObjectGuid>1999002337</ObjectGuid>
+            <Position>155,5 1,6696 239,5</Position>
+        </None>
+        <None>
+            <ObjectId>-9215490733211911051</ObjectId>
+            <ObjectGuid>1999002337</ObjectGuid>
+            <Position>92,5 1,3873 113,5</Position>
+        </None>
+        <None>
+            <ObjectId>-9215490733211911053</ObjectId>
+            <ObjectGuid>1999002337</ObjectGuid>
+            <Position>98,5 0,7324 87,5</Position>
+        </None>
+        <None>
+            <ObjectId>-9215490733211911055</ObjectId>
+            <ObjectGuid>1999002337</ObjectGuid>
+            <Position>80,5 4,0679 184,5</Position>
+        </None>
+    </ModOp>
+
+</ModOps> 
