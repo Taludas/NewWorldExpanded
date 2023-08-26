@@ -18,10 +18,7 @@
         </ModOp>
     </Group>
 
-    <ImyaExpose Path="*" ModOpID="ToggleIslandArchMap_NW_small_DLC12" ExposeID="[DLC12] small 'Island Arch'" Kind="SkipToggle">
-        <AltValue>
-        </AltValue>
-    </ImyaExpose>
+    <ImyaExpose Path="*" ModOpID="ToggleIslandArchMap_NW_small_DLC12" ExposeID="[DLC12] small 'Island Arch'" Kind="SkipToggle"></ImyaExpose>
 
     <!-- add used map templates from pre DLC12 with the pirates den variant -->
     <Group ModOpID="TogglePiratesDenMap_NW_small_DLC12">
