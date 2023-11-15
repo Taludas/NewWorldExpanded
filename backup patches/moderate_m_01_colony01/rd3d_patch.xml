@@ -1,7 +1,7 @@
 <ModOps>
 
     <ModOp Type="addPrevSibling" Path="//MaterialIDs2">
-        <MaterialSetFileName>mods/[Map] New World Expanded/data/taludas/sessions/islands/pool/colony01_expanded/ow_for_southamerica.xml</MaterialSetFileName>
+        <MaterialSetFileName>data/config/engine/material_sets/southamerica_test.xml</MaterialSetFileName>
     </ModOp>
 
     <ModOp Type="replace" Path="//PropGrid/FileNames">
