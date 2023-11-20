@@ -2,19 +2,19 @@
   <ModOp Type="add" Path="/TextExport/Texts">
     <Text>
       <GUID>1999002336</GUID>
-      <Text>River Slot</Text>
+      <Text>강 슬롯</Text>
     </Text>
     <Text>
       <GUID>1999002337</GUID>
-      <Text>River Slot</Text>
+      <Text>강 슬롯</Text>
     </Text>
     <Text>
       <GUID>1999002338</GUID>
-      <Text>Establish a river building on this site to utilise the power of the rushing current.</Text>
+      <Text>강류의 힘을 활용하기 위해 이 부지에 하천 건물을 건설합니다.</Text>
     </Text>
     <Text>
       <GUID>1999002339</GUID>
-      <Text>Establish a river building on this site to utilise the power of the rushing current.</Text>
+      <Text>강류의 힘을 활용하기 위해 이 부지에 하천 건물을 건설합니다.</Text>
     </Text>
   </ModOp>
 </ModOps>
