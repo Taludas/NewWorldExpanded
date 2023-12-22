@@ -1,0 +1,29 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+		<Text>
+			<!-- TODO translation -->
+			<GUID>1500301994</GUID>
+			<Text>工會/港務總管辦公室</Text>
+		</Text>
+		<Text>
+			<!-- TODO translation -->
+			<GUID>1500301995</GUID>
+			<Text>工會/市政廳</Text>
+		</Text>
+		<Text>
+			<!-- TODO translation -->
+			<GUID>1500301991</GUID>
+			<Text>北極小屋/港務總管辦公室</Text>
+		</Text>
+		<Text>
+			<!-- TODO translation -->
+			<GUID>1500301992</GUID>
+			<Text>北極小屋/工會</Text>
+		</Text>
+		<Text>
+			<!-- TODO translation -->
+			<GUID>1500301993</GUID>
+			<Text>北極小屋/市政廳</Text>
+		</Text>
+	</ModOp>
+</ModOps>

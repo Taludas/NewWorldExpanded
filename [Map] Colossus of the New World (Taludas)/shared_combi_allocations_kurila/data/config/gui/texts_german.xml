@@ -1,0 +1,25 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+		<Text>
+			<GUID>1500301994</GUID>
+			<Text>Handelskammer/Hafenmeisterei</Text>
+		</Text>
+		<Text>
+			<!-- TODO translation -->
+			<GUID>1500301995</GUID>
+			<Text>Handelskammer/Rathaus</Text>
+		</Text>
+		<Text>
+			<GUID>1500301991</GUID>
+			<Text>Quartier/Hafenmeisterei</Text>
+		</Text>
+		<Text>
+			<GUID>1500301992</GUID>
+			<Text>Quartier/Handelskammer</Text>
+		</Text>
+		<Text>
+			<GUID>1500301993</GUID>
+			<Text>Quartier/Rathaus</Text>
+		</Text>
+	</ModOp>
+</ModOps>

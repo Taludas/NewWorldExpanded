@@ -1,0 +1,1174 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1999003005</GUID>
+      <Text>Mayabeque</Text>
+    </Text>
+    <Text>
+      <GUID>1999003010</GUID>
+      <Text>"Mayabeque" betreten</Text>
+    </Text>
+    <Text>
+      <GUID>1999003014</GUID>
+      <Text>Santa Cruz</Text>
+    </Text>
+    <Text>
+      <GUID>1999003015</GUID>
+      <Text>Pinchacantis</Text>
+    </Text>
+    <Text>
+      <GUID>1999003016</GUID>
+      <Text>Aviara</Text>
+    </Text>
+    <Text>
+      <GUID>1999003023</GUID>
+      <Text>Weg nach Mayabeque</Text>
+    </Text>
+    <Text>
+      <GUID>1999003024</GUID>
+      <Text>Finding Mayabeque</Text>
+    </Text>
+    <Text>
+      <GUID>1999003025</GUID>
+      <Text>Nachdem Ihr die von Vasco bereitgestellten Seekarten genau studiert habt, beschließt Ihr, in das Land der vergessenen Kolonie von La Corona aufzubrechen.</Text>
+    </Text>
+    <Text>
+      <GUID>1999003027</GUID>
+      <Text>Weg nach Mayabeque</Text>
+    </Text>
+
+    <Text>
+      <GUID>1999003030</GUID>
+      <Text>Die geheimnisvolle Geschichte eines alten Kapitäns</Text>
+    </Text>
+    <Text>
+      <GUID>1999003035</GUID>
+      <Text>Der geheimnisvolle Kapitän des kürzlich eingetroffenen Trampschiffs schlägt ein ungestörtes Gespräch unter vier Augen vor.</Text>
+    </Text>
+    <Text>
+      <GUID>1999003036</GUID>
+      <Text>Die Geschichte ist wahr! Aber ich bin nur der Bote von Vasco Oliveira. Er weiß alles, muss aber vor der Königin unentdeckt bleiben. Ich bin hier, um ein Treffen zu arrangieren.</Text>
+    </Text>
+    <Text>
+      <GUID>1999003034</GUID>
+      <Text>Vor einiger Zeit erwähnte einer Eurer Plantagenarbeiter eine vergessene und ziemlich abgelegene Region, die einst eine blühende Kolonie von La Corona war und nun in Ruinen einer einst glorreichen Vergangenheit liegt. Da Euch nie zuvor von einem solchen Land berichtet wurde und keine Karte eine Schiffslinie zu dieser Region zeigt, habt Ihr dies als Unsinn abgetan, der im Rausch entstanden ist. Kürzlich habt Ihr jedoch von einem geheimnisvollen alten Kapitän gehört, der ein abgewracktes Schiff in eine Eurer wohlhabenden Hafenstädte führte und eine ähnliche Geschichte unter denen verbreitete, die zuhören wollten. Da Ihr nicht an einen Zufall glaubt, macht Ihr euch auf den Weg, um den seltsamen Mann zu finden und seine Geschichte ein für alle Mal zu überprüfen. Da er sich Euch nicht in aller Öffentlichkeit anvertrauen will, schlägt er ein privates Gespräch in einer der belebten Hafentavernen in dieser Nacht vor. Beeilt Euch und sucht ihn, bevor er die Stadt wieder verlässt!</Text>
+    </Text>
+    <Text>
+      <GUID>1999003033</GUID>
+      <Text>Besucht heute Abend einen örtlichen Pub. Der geheimnisvolle Kapitän möchte Euch eine interessante Geschichte aus seiner Vergangenheit erzählen.</Text>
+    </Text>
+
+    <Text>
+      <GUID>1999003037</GUID>
+      <Text>Brief des Kapitäns</Text>
+    </Text>
+    <Text>
+      <GUID>1999003038</GUID>
+      <Text>Lieber Freund!
+
+Wenn ich Sie richtig eingeschätzt habe, haben Sie soeben diesen Brief von meinem alten Freund erhalten, einem der besten Kapitäne aus meiner Zeit bei der großen Flotte von La Corona.
+
+Viel Zeit ist seit unserer ersten Begegnung und meiner Schmach in Kap Trelawney vergangen. Die Zeit im Exil hat ihren Tribut gefordert, aber ich bin dem Zahn der Zeit noch nicht ganz erlegen.
+
+Nach der Demütigung durch meine Arbeit im Exil will ich mich an dem ach so großen König João von A Coroa rächen, dem ich einst treu gedient habe und unter dessen Führung ich hoffte, La Corona zu einer neuen Großmacht aufzubauen.
+
+Nichts als Illusionen. Das Reich bricht unter dem enormen Berg an Bürokratie, den es verschlingt, zusammen. Jetzt ist meine Zeit für Rache gekommen. Ich kenne das Gebiet einer alten Kolonie von La Corona, einst ein blühendes Zentrum des Exporthandels, heute durch Misswirtschaft völlig ruiniert. Aber das Land ist fruchtbar und reich an natürlichen Ressourcen. Mein Plan ist es, dieses Land unter der Nase von König João wegzuschnappen und es zu seinem früheren Ruhm wieder aufzubauen.
+
+Aber dazu brauche ich Ihre Hilfe. Sie sind als hervorragender Städtebaumeister bekannt, während mir derzeit die Mittel fehlen, um ein solches Projekt zu verwirklichen. Bitte treffen Sie mich auf meinem Flaggschiff, der Grande do Império, um das weitere Vorgehen zu besprechen. Aber kommen Sie unerkannt, ich möchte keinen diplomatischen Zwischenfall mit Ihrer Königin verursachen. Das wäre das Letzte, was wir im Moment brauchen.
+
+Mit den allerbesten Grüßen
+Vasco Olivera
+
+      </Text>
+    </Text>
+    <Text>
+      <GUID>1999003039</GUID>
+      <Text>Das Hilfegesuch eines neuen Freundes</Text>
+    </Text>
+
+    <Text>
+      <GUID>1999003041</GUID>
+      <Text>Treffen der Verschwörer</Text>
+    </Text>
+    <Text>
+      <GUID>1999003042</GUID>
+      <Text>Ah, sehr gut, Ihr habt meinen Brief erhalten. Kommt schnell zu mir auf mein Schiff, bevor Eure neugierige Königin etwas von unseren geheimen Unternehmungen mitbekommt.</Text>
+    </Text>
+    <Text>
+      <GUID>1999003045</GUID>
+      <Text>Seht, dies ist eine umfangreiche Karte der Region. Jetzt, wo es keinen aktiven Schiffsverkehr mehr gibt, kann man die Einfahrt in die Bucht leicht übersehen.</Text>
+    </Text>
+    <Text>
+      <GUID>1999003043</GUID>
+      <Text>Vasco Olivera ist zurück aus dem Exil! Mit Eurer Hilfe will er ein ehemaliges Koloniegebiet von La Corona wieder aufbauen und mit seinem König um die wirtschaftliche und militärische Vorherrschaft in diesem Gebiet konkurrieren. Er plant nun ein Treffen mit Euch auf seinem Flaggschiff, um die nächsten Schritte zu besprechen.</Text>
+    </Text>
+
+    <Text>
+      <GUID>1999003046</GUID>
+      <Text>Oliveras Karte nach Mayabeque</Text>
+    </Text>
+    <Text>
+      <GUID>1999003047</GUID>
+      <Text>Eine leicht beschädigte Seekarte von einer der ehemaligen Kolonien von La Corona.</Text>
+    </Text>
+    <Text>
+      <GUID>1999003048</GUID>
+      <Text>Der Weg nach Mayabeque</Text>
+    </Text>
+    <Text>
+      <GUID>1999003333</GUID>
+      <Text>Vasco lädt Euch ein, ihm in seine Kapitänskajüte zu folgen. Er breitet eine große Karte der Region aus, die er Mayabeque nennt. Hier zeigt er Euch einen Weg durch die Meerenge, die zu dieser Region führt und die leicht zu übersehen ist, da es dort keinen Schiffsverkehr mehr gibt. Er vertraut Euch die Karte an, damit er diese Region unbemerkt von der Königin verlassen und Euren Empfang in Mayabeque vorbereiten kann. Er zählt auf Eure Unterstützung!</Text>
+    </Text>
+    <Text>
+      <GUID>1999003049</GUID>
+      <Text>Begutachtet die Karte zusammen mit Eurem Kapitän, indem Ihr sie in einem Eurer Schiffsslots anklickt.</Text>
+    </Text>
+    <Text>
+      <GUID>1999003050</GUID>
+      <Text>Überprüft die Seekarte</Text>
+    </Text>
+
+    <Text>
+      <GUID>1999003056</GUID>
+      <Text>Das sind alle Informationen, die Ihr für eine sichere Passage braucht. Wir sehen uns in Mayabeque. Ich zähle auf Ihre Unterstützung, also lasst mich nicht zu lange warten!</Text>
+    </Text>
+    <Text>
+      <GUID>1999003059</GUID>
+      <Text>Das sind alle Informationen, die Ihr für eine sichere Passage braucht. Wir sehen uns in Mayabeque. Ich zähle auf Ihre Unterstützung, also lasst mich nicht zu lange warten!</Text>
+    </Text>
+
+    <Text>
+      <GUID>1999003051</GUID>
+      <Text>Den Weg nach Mayabeque finden</Text>
+    </Text>
+    <Text>
+      <GUID>1999003052</GUID>
+      <Text>Nachdem Ihr die von Vasco zur Verfügung gestellten Karten studiert habt, seid Ihr Euch mit Eurem Kapitän über die beste Route in das unbekannte Gebiet einig geworden. Rüstet eines Eurer besten Schiffe gut aus, denn die Reise scheint lang und beschwerlich zu sein und wer weiß, was Euch auf dem Weg dorthin alles zustoßen könnte?</Text>
+    </Text>
+    <Text>
+      <GUID>1999003053</GUID>
+      <Text>Um die Expedition zu starten, geht auf die Weltkarte und wählt die Mayabeque-Expedition aus.</Text>
+    </Text>
+
+    <Text>
+      <GUID>1999003060</GUID>
+      <Text>Ah, willkommen, mein Freund, im Land meiner einst blühenden Kolonie. Wir nennen diese Region Mayabeque. Sehen Sie sich gut um, bevor Eure Verfolger versuchen, dieses fruchtbare Land ebenso wie wir zu besiedeln.</Text>
+    </Text>
+    
+    <Text>
+      <GUID>1999003001</GUID>
+      <Text>Ruinen des Schlosses Santa Cruz</Text>
+    </Text>
+    <Text>
+      <GUID>1999003004</GUID>
+      <Text>Hoch oben in den Bergen der Insel Santa Cruz baute La Corona eine prächtige Schlossanlage, um die Region vor Feinden zu schützen. Nach ihrem Untergang wurde das Schloss verlassen. Doch dank Ihres Engagements kann das Schloss nun in neuem Glanz erstrahlen!</Text>
+    </Text>
+    <Text>
+      <GUID>1999003003</GUID>
+      <Text>Schloss von La Corona</Text>
+    </Text>
+
+    <Text>
+      <GUID>1999003061</GUID>
+      <Text>Schloss Santa Cruz: Gerüstbau</Text>
+    </Text>
+    <Text>
+      <GUID>1999003062</GUID>
+      <Text>Talentierte Künstler wuseln auf der Baustelle herum, beschaffen Materialien und beginnen dann, das Äußere und Innere des Schlosses so originalgetreu wie möglich nach den Vorgaben von Vasco nachzubauen.</Text>
+    </Text>
+    <Text>
+      <GUID>1999003063</GUID>
+      <Text>Schloss Santa Cruz: Gerüstbau</Text>
+    </Text>
+
+    <Text>
+      <GUID>1999003190</GUID>
+      <Text>Schloss Santa Cruz: Gerüstbau</Text>
+    </Text>
+    <Text>
+      <GUID>1999003326</GUID>
+      <Text>Santa Cruz Grand Hotel</Text>
+    </Text>
+    <Text>
+      <GUID>1999003327</GUID>
+      <Text>Durch die harte Arbeit Ihrer talentierten Künstler ist es Euch gelungen, die alten Schlossruinen in ein luxuriöses Grandhotel zu verwandeln, das zwischen den Hügeln von Santa Cruz hervorsticht. Dies wird sicherlich eine der meistbesuchten Touristenattraktionen in der Neuen Welt sein.</Text>
+    </Text>
+
+    <Text>
+      <GUID>1999003188</GUID>
+      <Text>Komme in der Story voran, um den nächsten Bauabschnitt freizuschalten.</Text>
+    </Text>
+
+    <Text>
+      <GUID>1999003064</GUID>
+      <Text>Militärakademie von Santa Cruz</Text>
+    </Text>
+    <Text>
+      <GUID>1999003066</GUID>
+      <Text>Militärakademie von Santa Cruz</Text>
+    </Text>
+    <Text>
+      <GUID>1999003065</GUID>
+      <Text>Büro des Direktors betreten</Text>
+    </Text>
+    <Text>
+      <GUID>1999003067</GUID>
+      <Text>Ausbildungskurs: Militärisches Personal</Text>
+    </Text>
+    <Text>
+      <GUID>1999003068</GUID>
+      <Text>Ausbildungskurs: Handelsexperten</Text>
+    </Text>
+    <Text>
+      <GUID>1999003070</GUID>
+      <Text>Große Austellung: Neues Equipment</Text>
+    </Text>
+
+    <Text>
+      <GUID>1999003071</GUID>
+      <Text>Ausbildungskurs: Militärisches Personal</Text>
+    </Text>
+    <Text>
+      <GUID>1999003072</GUID>
+      <Text>Eine Gruppe hochqualifizierter Offiziere</Text>
+    </Text>
+    <Text>
+      <GUID>1999003073</GUID>
+      <Text>Mit der neuen Ausbildungsdoktrin, die von Vasco Olivera selbst überprüft wurde, wird die Ausbildung neuer Fachkräfte für Ihr Militär möglich sein.</Text>
+    </Text>
+
+    <Text>
+      <GUID>1999003074</GUID>
+      <Text>Ausbildungskurs: Handelsexperten</Text>
+    </Text>
+    <Text>
+      <GUID>1999003075</GUID>
+      <Text>Eine Gruppe hochqualifizierter Händler</Text>
+    </Text>
+    <Text>
+      <GUID>1999003076</GUID>
+      <Text>Mit dem neuen und äußerst spezialisierten Rhetorik-Kurs können eure neuen Händler astronomische Preise erzielen, wenn sie ihre Waren in fremden Häfen verkaufen.</Text>
+    </Text>
+
+    <Text>
+      <GUID>1999003077</GUID>
+      <Text>Große Austellung: Neues Equipment</Text>
+    </Text>
+    <Text>
+      <GUID>1999003078</GUID>
+      <Text>Eine Sammlung neuer Ausrüstungsgegenstände für Schiffe</Text>
+    </Text>
+    <Text>
+      <GUID>1999003079</GUID>
+      <Text>Hier stellen die besten Erfinder der Neuen Welt ihre Maschinen aus, die es Euch sicher leichter machen werden, Eure Marine zu führen.</Text>
+    </Text>
+
+    <Text>
+      <GUID>1999003080</GUID>
+      <Text>Eine gute Auswahl an Rekruten ist bereits eingetroffen.</Text>
+    </Text>
+    <Text>
+      <GUID>1999003081</GUID>
+      <Text>Pst! Unterbrich nicht das Studium der neuen Kadetten!</Text>
+    </Text>
+    <Text>
+      <GUID>1999003082</GUID>
+      <Text>Die neue Klasse von Offizieren ist nun bereit und hat den Amtseid abgelegt.</Text>
+    </Text>
+    <Text>
+      <GUID>1999003083</GUID>
+      <Text>3 neue Offiziere für Euer Militär</Text>
+    </Text>
+    <Text>
+      <GUID>1999003084</GUID>
+      <Text>Offiziers-Kurs</Text>
+    </Text>
+    <Text>
+      <GUID>1999003085</GUID>
+      <Text>Gut ausgebildetes Landpersonal</Text>
+    </Text>
+    <Text>
+      <GUID>1999003086</GUID>
+      <Text>Hervorragend ausgebildetes Landpersonal</Text>
+    </Text>
+    <Text>
+      <GUID>1999003087</GUID>
+      <Text>Gut ausgebildete Marine-Offiziere</Text>
+    </Text>
+    <Text>
+      <GUID>1999003088</GUID>
+      <Text>Hervorragend ausgebildete Marine-Offiziere</Text>
+    </Text>
+    <Text>
+      <GUID>1999003089</GUID>
+      <Text>Luftschiffkapitäne und -ausrüstung</Text>
+    </Text>
+    <Text>
+      <GUID>1999003090</GUID>
+      <Text>Mitglieder des Offiziers-Kurses, die in ihren Abschlussprüfungen leider nicht so gut abgeschnitten haben.</Text>
+    </Text>
+    <Text>
+      <GUID>1999003094</GUID>
+      <Text>Mitglieder des Offiziers-Kurses, die in der Abschlussprüfung die besten Noten erhalten haben.</Text>
+    </Text>
+    <Text>
+      <GUID>1999003102</GUID>
+      <Text>Mitglieder des Offiziers-Kurses, die in der Abschlussprüfung die besten Noten erhalten haben.</Text>
+    </Text>
+    <Text>
+      <GUID>1999003106</GUID>
+      <Text>Eine vielfältige Auswahl von Mitgliedern des Luftfahrt-Kurses und ihren Erfindungen.</Text>
+    </Text>
+    
+    <Text>
+      <GUID>1999003110</GUID>
+      <Text>Eine gute Auswahl an neuen Mitgliedern der Handelsgilde ist bereits eingetroffen.</Text>
+    </Text>
+    <Text>
+      <GUID>1999003111</GUID>
+      <Text>Pst! Unterbrich nicht das Studium der neuen Handelsmeister!</Text>
+    </Text>
+    <Text>
+      <GUID>1999003112</GUID>
+      <Text>Die neue Klasse von Händlern ist nun bereit und hat bereits mit dem Geschäft auf den lokalen Märkten begonnen.</Text>
+    </Text>
+    <Text>
+      <GUID>1999003113</GUID>
+      <Text>3 neue Handelsexperten für Eure Handelsflotte</Text>
+    </Text>
+    <Text>
+      <GUID>1999003114</GUID>
+      <Text>Händler-Kurs</Text>
+    </Text>
+    <Text>
+      <GUID>1999003115</GUID>
+      <Text>Unbeholfene Händler</Text>
+    </Text>
+    <Text>
+      <GUID>1999003116</GUID>
+      <Text>Gewissenhafte Händler</Text>
+    </Text>
+    <Text>
+      <GUID>1999003117</GUID>
+      <Text>Anständige Händler</Text>
+    </Text>
+    <Text>
+      <GUID>1999003118</GUID>
+      <Text>Ausgezeichnete Händler</Text>
+    </Text>
+    <Text>
+      <GUID>1999003119</GUID>
+      <Text>Meister-Händler</Text>
+    </Text>
+
+    <Text>
+      <GUID>1999003120</GUID>
+      <Text>Eine Gruppe von höchst unerfahrenen Handelsschulabsolventen</Text>
+    </Text>
+    <Text>
+      <GUID>1999003122</GUID>
+      <Text>Eine Gruppe mittelmäßiger Handelsschulabsolventen</Text>
+    </Text>
+    <Text>
+      <GUID>1999003124</GUID>
+      <Text>Eine Gruppe erfahrener Handelsschulabsolventen</Text>
+    </Text>
+    <Text>
+      <GUID>1999003126</GUID>
+      <Text>Eine Gruppe hochqualifizierter Handelsschulabsolventen</Text>
+    </Text>
+    <Text>
+      <GUID>1999003128</GUID>
+      <Text>Eine Gruppe äußerst talentierter Handelsschulabsolventen</Text>
+    </Text>
+
+    <Text>
+      <GUID>1999003130</GUID>
+      <Text>Die Mitglieder der Klasse diskutieren bereits über einige interessante Ideen für neue Schiffsausrüstungen.</Text>
+    </Text>
+    <Text>
+      <GUID>1999003131</GUID>
+      <Text>Pst! Unterbrecht nicht die Arbeit Eurer Erfinder!</Text>
+    </Text>
+    <Text>
+      <GUID>1999003132</GUID>
+      <Text>Eure Erfinder haben einige neue Gegenstände entwickelt, um eure Schiffe zu stärken.</Text>
+    </Text>
+    <Text>
+      <GUID>1999003133</GUID>
+      <Text>3 neue Ausrüstungsgegenstände für Eure Schiffe</Text>
+    </Text>
+    <Text>
+      <GUID>1999003134</GUID>
+      <Text>Innovationszentrum</Text>
+    </Text>
+    <Text>
+      <GUID>1999003135</GUID>
+      <Text>3 abgelehnte Forschungsideen</Text>
+    </Text>
+    <Text>
+      <GUID>1999003136</GUID>
+      <Text>3 Forschungsideen in der Prototypen-Phase</Text>
+    </Text>
+    <Text>
+      <GUID>1999003137</GUID>
+      <Text>3 Forschungsideen für die Serienreife</Text>
+    </Text>
+    <Text>
+      <GUID>1999003138</GUID>
+      <Text>3 hervorragende Forschungsideen</Text>
+    </Text>
+    <Text>
+      <GUID>1999003139</GUID>
+      <Text>3 weltverändernde Forschungsideen</Text>
+    </Text>
+    <Text>
+      <GUID>1999003140</GUID>
+      <Text>Die verworfenen Pläne Ihrer überambitionierten Forscher</Text>
+    </Text>
+    <Text>
+      <GUID>1999003142</GUID>
+      <Text>Zumindest ein Prototyp wurde fertiggestellt...</Text>
+    </Text>
+    <Text>
+      <GUID>1999003144</GUID>
+      <Text>Die Serienproduktion dieser Teile kann jederzeit beginnen!</Text>
+    </Text>
+    <Text>
+      <GUID>1999003146</GUID>
+      <Text>Diese Innovationen werden Ihre Flotte erheblich stärken!</Text>
+    </Text>
+    <Text>
+      <GUID>1999003148</GUID>
+      <Text>Mit diesen Innovationen auf Eurer Seite werden Eure Feinde keine Chance haben, Euch zu besiegen!</Text>
+    </Text>
+
+    <Text>
+      <GUID>1999003156</GUID>
+      <Text>Santa Cruz Grand Hotel</Text>
+    </Text>
+    <Text>
+      <GUID>1999003158</GUID>
+      <Text>Hoch oben in den Bergen der Insel Santa Cruz baute La Corona eine prächtige Schlossanlage, um die Region vor Feinden zu schützen. Nach ihrem Untergang wurde das Schloss verlassen. Doch dank Ihres Engagements kann das Schloss nun in neuem Glanz erstrahlen!</Text>
+    </Text>
+    <Text>
+      <GUID>1999003157</GUID>
+      <Text>Santa Cruz Grand Hotel</Text>
+    </Text>
+    <Text>
+      <GUID>1999003326</GUID>
+      <Text>Santa Cruz Grand Hotel</Text>
+    </Text>
+    <Text>
+      <GUID>1999003327</GUID>
+      <Text>Durch die harte Arbeit Ihrer talentierten Künstler ist es Euch gelungen, die alten Schlossruinen in ein luxuriöses Grandhotel zu verwandeln, das zwischen den Hügeln von Santa Cruz hervorsticht. Dies wird sicherlich eine der meistbesuchten Touristenattraktionen in der Neuen Welt sein.</Text>
+    </Text>
+
+    <Text>
+      <GUID>1999003159</GUID>
+      <Text>Santa Cruz Grand Hotel: Touristen-Magnet</Text>
+    </Text>
+    <Text>
+      <GUID>1999003328</GUID>
+      <Text>Aufgrund der großen Beliebtheit des Hotels Santa Cruz übernachten immer mehr Touristen in Ihren Hotels vor Ort, um das wiederauferstandene Denkmal zu besuchen!</Text>
+    </Text>
+
+    <Text>
+      <GUID>1999003162</GUID>
+      <Text>Santa Cruz Grand Hotel: Besucher-Magnet</Text>
+    </Text>
+    <Text>
+      <GUID>1999003329</GUID>
+      <Text>Aufgrund der großen Beliebtheit des Santa Cruz Hotels kommen immer mehr exklusive Besucher an Eurem lokalen Besucherpier an!</Text>
+    </Text>
+
+    <Text>
+      <GUID>1999003160</GUID>
+      <Text>Santa Cruz Grand Hotel: Künstler-Magnet</Text>
+    </Text>
+    <Text>
+      <GUID>1999003161</GUID>
+      <Text>Santa Cruz Grand Hotel: Künstler-Magnet</Text>
+    </Text>
+    <Text>
+      <GUID>1999003330</GUID>
+      <Text>Aufgrund der großen Beliebtheit des Santa Cruz Hotels kommen immer mehr erfahrene Künstler in Eure Stadt und füllen all die leeren Artista-Ateliers, um ein einzigartiges Kunstwerk der Silhouette des Hotels in der Abenddämmerung zu schaffen!</Text>
+    </Text>
+
+
+    <Text>
+      <GUID>1999003164</GUID>
+      <Text>Vasco's Willkommensgruß</Text>
+    </Text>
+    <Text>
+      <GUID>1999003165</GUID>
+      <Text>Nachdem Ihr trotz aller Schwierigkeiten den Weg in das fruchtbare Land von Mayabeque gefunden habt, empfängt Euch Vasco in den Ländereien seiner ehemaligen Kolonialverwaltung. Aufgrund seines Exils und der Misswirtschaft seines Nachfolgers ist das Land heute unfruchtbar und die einst prächtige Schlossanlage von Santa Cruz, Vascos ehemaliger Gouverneurssitz, liegt in Trümmern auf dem markantesten Hügel der Insel. Vasco würde sicherlich gerne über weitere Schritte diskutieren, um seiner Kolonie zu ihrem früheren Ruhm zu verhelfen!</Text>
+    </Text>
+
+    <Text>
+      <GUID>1999003166</GUID>
+      <Text>Die Gründung der Neuen Kolonie</Text>
+    </Text>
+    <Text>
+      <GUID>1999003167</GUID>
+      <Text>Mit den von Vasco bereitgestellten Baumaterialien könnt Ihr nun die Insel Santa Cruz besiedeln und eine neue Kolonie gründen. Da diese Materialien nicht ewig halten, solltet Ihr Euch so schnell wie möglich einen ausreichenden Vorrat anlegen. Der Wiederaufbau der Stadt wird große Mengen davon benötigen!</Text>
+    </Text>
+
+    <Text>
+      <GUID>1999003168</GUID>
+      <Text>Aufstieg der Neuen Kolonie: Ein Neuanfang</Text>
+    </Text>
+    <Text>
+      <GUID>1999003169</GUID>
+      <Text>Möge es uns besser ergehen als denen, die vor uns kamen. Wir müssen so schnell wie möglich billige Arbeitskräfte finden, um die Kolonie mit allem zu versorgen, was sie braucht!</Text>
+    </Text>
+    <Text>
+      <GUID>1999003170</GUID>
+      <Text>Die ersten Schritte zu Eurem neuen Kolonialreich sind getan. Aber was wäre eine Hauptstadt ohne Einwohner? Sie sollten sich beeilen, Arbeiter anzuwerben, um die ersten Industrien auszubauen und sicherzustellen, dass alle Bedürfnisse Eurer neuen Bevölkerung befriedigt werden können.</Text>
+    </Text>
+
+    <Text>
+      <GUID>1999003171</GUID>
+      <Text>Aufstieg der Neuen Kolonie: Die Ruinen von Santa Cruz</Text>
+    </Text>
+    <Text>
+      <GUID>1999003172</GUID>
+      <Text>Wir sollten die Bewohner des nahe gelegenen Forschungsinstituts fragen, wie wir die Renovierung der alten Schlossruine am besten angehen können.</Text>
+    </Text>
+    <Text>
+      <GUID>1999003173</GUID>
+      <Text>Die Schlossruine Santa Cruz ist ein echter Schandfleck für jeden, der Eure neue Hauptstadt besucht. Vasco schlägt vor, so bald wie möglich mit den Renovierungsarbeiten an dem Gebäude zu beginnen. Doch ohne das entsprechende Fachwissen zur Beurteilung der Schäden, die dem historischen Gebäude im Laufe der Zeit zugefügt wurden, kann eine Renovierung ernsthaft schief gehen. Vasco verweist auf ein lokales Forschungsinstitut, das sich mit historischer mesoianischer Architektur beschäftigt. Es kann sicherlich einige Hinweise geben, wie die gewaltige Aufgabe, das Schloss in seinem früheren Glanz wiederherzustellen, so effizient wie möglich angegangen werden kann.
+
+Die Leiterin des Forschungsinstituts - Yaosca Rodriguez - erklärt sich bereit, eine Gruppe renommierter Architekturexperten zu entsenden, um die Schäden an den alten Mauern zu begutachten und gemeinsam mit Euren Mitarbeitern einen Sanierungsplan für das Schloss Santa Cruz zu entwickeln.
+      </Text>
+    </Text>
+    <Text>
+      <GUID>1999003175</GUID>
+      <Text>Yaosca's Gruppe von Architekturexperten</Text>
+    </Text>
+    <Text>
+      <GUID>1999003176</GUID>
+      <Text>Klar, dass wir Euer Vorhaben, die alten Ruinen zu restaurieren, unterstützen werden! Wir werden ein einzigartiges Stück lokaler Geschichte für unsere Nachkommen bewahren. Nehmt meine besten Männer mit, sie werden einen detaillierten Plan für die Renovierung des Schlosses ausarbeiten.</Text>
+    </Text>
+    <Text>
+      <GUID>1999003177</GUID>
+      <Text>Sehr gut, genau das, was wir brauchen, um dieses Projekt in Gang zu bringen! Lasst uns an die Arbeit gehen!</Text>
+    </Text>
+    <Text>
+      <GUID>1999003178</GUID>
+      <Text>Schickt ein Schiff zum Hafen von Yaosca, um die Architekturexperten abzuholen!</Text>
+    </Text>
+    <Text>
+      <GUID>1999003179</GUID>
+      <Text>Bringt die Experten zu Vasco's Flagship, um den Renovierungsprozess zu beginnen.</Text>
+    </Text>
+
+    <Text>
+      <GUID>1999003181</GUID>
+      <Text>Aufstieg der Neuen Kolonie: Die erste Renovierung</Text>
+    </Text>
+    <Text>
+      <GUID>1999003182</GUID>
+      <Text>Fangen wir mit der Renovierung an. Ich kann es kaum erwarten, die alten Ruinen in neuem Glanz erstrahlen zu sehen!</Text>
+    </Text>
+    <Text>
+      <GUID>1999003183</GUID>
+      <Text>Nachdem die Experten ihre Arbeit getan haben, habt Ihr nun einen detaillierten Plan, wie Ihr mit der Renovierung beginnen könnt. Eure Arbeiter müssen dazu ein großes Gerüst aufstellen, um die Mauerreste vor weiteren Schäden zu schützen. Außerdem müsst Ihr viele Baumaterialien besorgen, um mit den Arbeiten am Fundament des Gebäudes zu beginnen. Es besteht die Gefahr, dass die Außenmauern des Gebäudes weiter absacken und ins Meer stürzen.
+
+Um mit der Renovierung zu beginnen, solltet Ihr die notwendigen Baumaterialien in Eurem Handelsposten auf Santa Cruz einlagern und das Gebäude dann aus dem Ruinen-Status zum normalen Gebäude aufwerten.
+      </Text>
+    </Text>
+    
+    <Text>
+      <GUID>1999003185</GUID>
+      <Text>Aufstieg der Neuen Kolonie: Die Restaurations-Taskforce</Text>
+    </Text>
+    <Text>
+      <GUID>1999003186</GUID>
+      <Text>Wir brauchen mehr qualifizierte Handwerker, um das Schloss in seinem ursprünglichen Zustand wiederherzustellen!</Text>
+    </Text>
+    <Text>
+      <GUID>1999003187</GUID>
+      <Text>Nun, da die ersten wichtigen Schritte zur Restaurierung des Schlosses abgeschlossen sind, müssen talentierte Künstler gefunden werden, die die Räume und Böden wieder in ihren ursprünglichen Zustand versetzen können. Vasco möchte so originalgetreu wie möglich arbeiten, um seine ehemalige Residenz in ein neues und attraktives Ausbildungszentrum für neue Militärkräfte zu verwandeln. Diese werden dringend benötigt, um die aufstrebende Kolonialflotte zu verstärken.</Text>
+    </Text>
+
+    <Text>
+      <GUID>1999003191</GUID>
+      <Text>Aufstieg der Neuen Kolonie: 
+Das Schicksal von Schloss Santa Cruz</Text>
+    </Text>
+    <Text>
+      <GUID>1999003192</GUID>
+      <Text>Vasco besteht darauf, dass die letzten Arbeiten an der neuen Militärakademie so schnell wie möglich beginnen!</Text>
+    </Text>
+    <Text>
+      <GUID>1999003331</GUID>
+      <Text>Yaosca ruft dazu auf, das Schloss für ein wohltätiges Projekt zu nutzen, damit die einzigartigen Traditionen dieser Region nicht in Vergessenheit geraten.</Text>
+    </Text>
+    <Text>
+      <GUID>1999003193</GUID>
+      <Text>Es ist ein Dilemma. Durch die Beteiligung von Yaoscas Geschichtsexperten hat sie von unserem Vorhaben erfahren, das Schloss in eine Militärakademie umzuwandeln. Sie verurteilt dies aufs Schärfste; die Welt braucht keine weitere Großmacht in dieser Region! Nun möchte sie die ehrwürdigen Traditionen dieser Region bewahren und sie der ganzen Welt zugänglich machen. Ziel ist es, der Region neuen Glanz zu verleihen und Touristen aus aller Welt anzuziehen, die neuen Wohlstand für diese verlassene Region schaffen können.
+
+Es liegt nun an Euch zu entscheiden, wessen Pläne wir in der Endphase des Restaurierungsprojekts berücksichtigen!
+                              
+(Hinweis: Um Yaoscas Quest bis zum Ende zu verfolgen, werden sowohl die Mod "New World Tourism" als auch der DLC "Aufstieg der Neuen Welt" und "Reisezeit" benötigt).</Text>
+    </Text>
+    <Text>
+      <GUID>1999003194</GUID>
+      <Text>Es ist ein Dilemma. Durch die Beteiligung von Yaoscas Geschichtsexperten hat sie von unserem Vorhaben erfahren, das Schloss in eine Militärakademie umzuwandeln. Sie verurteilt dies aufs Schärfste. Nun möchte sie die ehrwürdigen Traditionen dieser Region bewahren und sie Touristen aus der ganzen Welt zugänglich machen.
+
+Es liegt nun an Euch zu entscheiden, wessen Pläne wir in der Endphase des Restaurierungsprojekts berücksichtigen!
+                        
+(Hinweis: Um Yaoscas Quest bis zum Ende zu verfolgen, werden sowohl die Mod "New World Tourism" als auch die DLCs "Aufstieg der Neuen Welt" und "Reisezeit" benötigt).</Text>
+    </Text>
+    <Text>
+      <GUID>1999003195</GUID>
+      <Text>Berücksichtigt die Pläne von Vasco, das Schloss in eine Militärakademie zu verwandeln.</Text>
+    </Text>
+    <Text>
+      <GUID>1999003196</GUID>
+      <Text>Berücksichtigt die Pläne von Yaosca, das Schloss in ein Grand Hotel zu verwandeln.</Text>
+    </Text>
+    <Text>
+      <GUID>1999003334</GUID>
+      <Text>Vasco dankt Euch, dass Ihr Euch gegen diese indigenen Menschenfreunde behauptet habt! Möge Santa Cruz die berühmte Hauptstadt eines großen Kolonialreiches werden!</Text>
+    </Text>
+    <Text>
+      <GUID>1999003335</GUID>
+      <Text>Yaosca dankt Euch, dass Ihr Euch Eurer Verantwortung gestellt habt! Die erste Phase des Projekts ist nun abgeschlossen. Ein vielversprechender Anfang!</Text>
+    </Text>
+
+    <Text>
+      <GUID>1999003197</GUID>
+      <Text>Aufstieg der Neuen Kolonie: Die Militär-Akademie</Text>
+    </Text>
+    <Text>
+      <GUID>1999003198</GUID>
+      <Text>Vasco freut sich, dass Ihr seine Pläne unterstützt und bittet Euch, endlich die letzten Handgriffe auszuführen, damit die Ausbildung der neuen Rekruten endlich beginnen und die neue Kolonialflotte mobilisiert werden kann.</Text>
+    </Text>
+
+    <Text>
+      <GUID>1999003300</GUID>
+      <Text>Aufstieg der Neuen Kolonie: Das koloniale Export-Imperium</Text>
+    </Text>
+    <Text>
+      <GUID>1999003301</GUID>
+      <Text>Vasco ist froh, dass das Schloss endlich seiner neuen Bestimmung zugeführt wurde. Nun will er die Region sowohl wirtschaftlich als auch militärisch ausbauen.</Text>
+    </Text>
+    <Text>
+      <GUID>1999003302</GUID>
+      <Text>Nachdem das Schloss auf den Hügeln von Santa Cruz in neuem Glanz erstrahlt, will Vasco die neu gegründete Kolonie auf der Weltbühne zur Anerkennung bringen. Um dies zu erreichen, muss der Exporthandel in neue Höhen getrieben werden. Kaffee, Baumwolle, Tabak, Rum und Gold sind in der Alten Welt heiß begehrt. Mit den Gewinnen aus den Exporten können neue militärische Projekte in Angriff genommen werden, die die Kolonie auch in dieser Hinsicht wieder zu alter Größe führen werden.</Text>
+    </Text>
+    <Text>
+      <GUID>1999003306</GUID>
+      <Text>Erhöht die Produktion der folgenden Kolonialwaren in der Neuen Welt - Region gleichzeitig über den angegebenen Schwellenwert (Mayabeque und Neue Welt Session werden zusammengezählt):
+        Kaffee: 50 t/min
+        Baumwolle: 50 t/min
+        Zigarren: 50 t/min
+        Rum: 50 t/Min.
+        Schokolade: 50 t/min
+        Golderz: 25 t/min
+        Jaguarfelle: 15 t/min</Text>
+    </Text>
+    <Text>
+      <GUID>1999003308</GUID>
+      <Text>Baut neue Produktionsketten oder verwendet Gegenstände oder Boost-Items, um die Produktion der benötigten Güter in Mayabeque zu steigern. Ihr könnt den Fortschritt im Statistikmenü verfolgen.</Text>
+    </Text>
+
+    <Text>
+      <GUID>1999003303</GUID>
+      <Text>Aufstieg der Neuen Kolonie: Militärische Vorherrschaft</Text>
+    </Text>
+    <Text>
+      <GUID>1999003332</GUID>
+      <Text>Baut neue Militärschiffe in Schiffswerften vor Ort.</Text>
+    </Text>
+    <Text>
+      <GUID>1999003307</GUID>
+      <Text>Verstärkt Eure militärische Präsenz in dieser Region:
+        Besitzt mindestens [Conditions QuestCondition Amount] Militärschiffe in Mayabeque</Text>
+    </Text>
+
+    <Text>
+      <GUID>1999003310</GUID>
+      <Text>Vasco ist hocherfreut, dass Ihr die Kolonie zu unübertroffener Stärke gebracht habt. Seine Rache an König João ist vollbracht, und hochzufrieden vertraut er Euch sein Flaggschiff an und zieht sich auf seinen Landsitz in Santa Cruz zurück.</Text>
+    </Text>
+    <Text>
+      <GUID>1999003311</GUID>
+      <Text>Yaosca ist enttäuscht, dass Ihr die Kolonie in ein repressives Imperium verwandelt habt, das sein Volk und sein ehemaliges Land ausbeutet.</Text>
+    </Text>
+
+    <Text>
+      <GUID>1999003312</GUID>
+      <Text>Aufstieg der Neuen Kolonie: Das Grand Hotel</Text>
+    </Text>
+    <Text>
+      <GUID>1999003313</GUID>
+      <Text>Yaosca freut sich, dass Ihr ihren Vorschlag, das Schloss zu einem Touristenmagneten zu machen, weiterverfolgen wollt.</Text>
+    </Text>
+    <Text>
+      <GUID>1999003314</GUID>
+      <Text>Yaosca fordert Euch auf, endlich die letzten Renovierungsarbeiten durchzuführen, um das Schloss in seinem historisch genauen Zustand zu erhalten. Die einzigartigen Stuckarbeiten, die Mosaike am Boden und die Gestaltung des Innenhofs als Markt, auf dem regionale Spezialitäten verkauft werden, werden Menschen aus der ganzen Welt anziehen, die ein großes Verlangen danach haben, mehr über die Besonderheiten der lokalen Kultur zu erfahren.
+
+Treibt Palomas Quest zu den Klippeninseln in der Region voran, um die benötigten Jaguar-Felle für die Renovierung zu beschaffen.        
+      </Text>
+    </Text>
+    <Text>
+      <GUID>1999003336</GUID>
+      <Text>Vasco ist entsetzt über Euren Vertrauensbruch und zieht sich verärgert aus dem Projekt zurück.</Text>
+    </Text>
+
+    <Text>
+      <GUID>1999003315</GUID>
+      <Text>Aufstieg der Neuen Kolonie: Das Touristen-Imperium</Text>
+    </Text>
+    <Text>
+      <GUID>1999003316</GUID>
+      <Text>Yaosca freut sich, dass das Schloss endlich seiner neuen Bestimmung zugeführt wurde. Jetzt möchte sie, dass Ihr Touristen aus der ganzen Welt anlockt, um die ehemalige Kolonie in einem neuen und modernen Licht zu zeigen.</Text>
+    </Text>
+    <Text>
+      <GUID>1999003317</GUID>
+      <Text>Nachdem das Schloss auf dem Hügel von Santa Cruz in neuem Glanz erstrahlt, möchte Yaosca Touristen aus aller Welt anziehen, um die ehemalige Kolonie in einem neuen und modernen Licht zu zeigen. Um den Touristen einen angenehmen Aufenthalt zu bieten, muss noch einiges an Personal eingestellt werden, das der Region auch zu neuem künstlerischen Ruhm verhelfen soll. Allerdings werden die Neuankömmlinge nicht kommen, wenn nicht jede Ecke der Insel auf Hochglanz poliert ist!</Text>
+    </Text>
+    <Text>
+      <GUID>1999003318</GUID>
+      <Text>Aufstieg der Neuen Kolonie: Shine bright like a Diamond</Text>
+    </Text>
+    <Text>
+      <GUID>1999003319</GUID>
+      <Text>Nachdem das Schloss auf dem Hügel von Santa Cruz in neuem Glanz erstrahlt, möchte Yaosca Touristen aus aller Welt anziehen, um die ehemalige Kolonie in einem neuen und modernen Licht zu zeigen. Um den Touristen einen angenehmen Aufenthalt zu bieten, muss noch einiges an Personal eingestellt werden, das der Region auch zu neuem künstlerischen Ruhm verhelfen soll. Allerdings werden die Neuankömmlinge nicht kommen, wenn nicht jede Ecke der Insel auf Hochglanz poliert ist!</Text>
+    </Text>
+    <Text>
+      <GUID>1999003321</GUID>
+      <Text>Steigert die Attraktivität von Santa Cruz und erreicht eine "Exquisit"- Bewertung in allen renommierten Reiseführern!</Text>
+    </Text>
+
+    <Text>
+      <GUID>1999003323</GUID>
+      <Text>Vasco ist enttäuscht über Eure Entscheidung, sein ehemaliges Kolonialreich für einen solchen Zweck aufzugeben, und verlässt die Region in Empörung.</Text>
+    </Text>
+    <Text>
+      <GUID>1999003324</GUID>
+      <Text>Yaosca freut sich, dass Ihr die Region zu einem touristischen Highlight ausgebaut habt, das ihre Kultur und die historischen Werke ihrer Vorfahren ehrt.</Text>
+    </Text>
+    <Text>
+      <GUID>1999003338</GUID>
+      <Text>Vom Stress des Projekts erschöpft, beschließt Yaosca, Euch die Leitung des neuen Hotels in Santa Cruz zu überlassen und sich wieder ihrer Forschung zu widmen.</Text>
+    </Text>
+
+    <Text>
+      <GUID>1999003339</GUID>
+      <Text>Santa Cruz Grand Hotel</Text>
+    </Text>
+
+    <Text>
+      <GUID>1999003341</GUID>
+      <Text>Santa Cruz Grand Hotel: Große Attraktion</Text>
+    </Text>
+    <Text>
+      <GUID>1999003342</GUID>
+      <Text>Aufgrund der großen Beliebtheit des Grand Hotels in Santa Cruz kommen immer mehr exklusive Besucher auf Eure Insel und füllen die örtlichen Hotels bis zum Anschlag!</Text>
+    </Text>
+    <Text>
+      <GUID>1999003343</GUID>
+      <Text>Santa Cruz Grand Hotel: Große Attraktion</Text>
+    </Text>
+    <Text>
+      <GUID>1999003344</GUID>
+      <Text>Touristen</Text>
+    </Text>
+
+    <Text>
+      <GUID>1999003345</GUID>
+      <Text>Königliche Intervention</Text>
+    </Text>
+    <Text>
+      <GUID>1999003346</GUID>
+      <Text>Euer Ausguck meldet, dass sich eine Galeone langsam am Horizont nähert. Das Schiff segelt unter königlicher Flagge und Euch schwant Böses. Die Königin hat wahrscheinlich von Vascos Plänen erfahren und versucht nun, Eure Abreise zu verhindern, um den Aufstieg einer neuen Kolonialmacht zu verhindern.
+        
+Euer Zweiter Offizier kommt auf Euch zu: „Admiral, es sieht so aus, als wären es Söldner, die unserem Kurs folgen! Wie sollen wir mit dem Verfolger umgehen?“ &lt;b&gt;Versuchen wir, eine diplomatische Delegation zu entsenden und zu verhandeln&lt;/b&gt;, &lt;b&gt;versuchen wir, sie abzuschütteln&lt;/b&gt; oder &lt;b&gt;versuchen, wir sie zu versenken&lt;/b&gt;?</Text>
+    </Text>
+    <Text>
+      <GUID>1999003347</GUID>
+      <Text>Schickt eine diplomatische Delegation zum Schiff</Text>
+    </Text>
+    <Text>
+      <GUID>1999003348</GUID>
+      <Text>Euer geschäftstüchtiger Diplomat ist erfolgreich. Er hat die Söldner leicht davon überzeugt, dass Euer Schiff auf dem Weg in die Neue Welt ist, um einen Neffen der Königin zu besuchen, der dort Gouverneur einer Kolonie ist.</Text>
+    </Text>
+    <Text>
+      <GUID>1999003349</GUID>
+      <Text>Beim Anblick der wilden Freibeutermeute beginnt Euer Diplomat zu stammeln: „W...W..Wir sind auf dem Weg ins Taka-Tuka-Land, um einen sagenumwobenen Piratenschatz zu heben!“
+
+Lautes Gelächter bricht aus. Niemand glaubt die Geschichte. Vielleicht kann etwas anderes die Menge von unseren tadellosen Absichten überzeugen?</Text>
+    </Text>
+    <Text>
+      <GUID>1999003350</GUID>
+      <Text>Bietet ein Bestechungsgeld an, damit die Söldner die Begegnung vergessen.</Text>
+    </Text>
+    <Text>
+      <GUID>1999003351</GUID>
+      <Text>„Sie wurden dabei beobachtet, wie Sie gemeinsame Anstrengungen mit dem Feind unternahmen, als Sie sich mit ihm auf seinem Flaggschiff trafen. Was auch immer Sie besprochen haben, dies gilt als Hochverrat und ist daher vor Ihrer Majestät inakzeptabeles Verhalten. Es sei denn…“ er zwinkert Euch zu, „…wir können uns irgendwie einigen?“</Text>
+    </Text>
+    <Text>
+      <GUID>1999003352</GUID>
+      <Text>Annehmen</Text>
+    </Text>
+    <Text>
+      <GUID>1999003353</GUID>
+      <Text>Die Menge an angebotenem Gold lässt die Augen der Freibeuter funkeln. Ihr Anführer leckt sich die Lippen und schneller als man es für möglich gehalten hätte, kommt man zu einer Einigung. Die Delegation wird zurückgeschickt und das Schiff, das Eure Pläne für eine eigene Kolonialmacht beinahe zunichte gemacht hätte, verschwindet friedlich im Sonnenuntergang. Jetzt schnell weiter, bevor andere auf die gleiche Idee kommen.</Text>
+    </Text>
+    <Text>
+      <GUID>1999003354</GUID>
+      <Text>Abbrechen</Text>
+    </Text>
+    <Text>
+      <GUID>1999003355</GUID>
+      <Text>Die Menge des angebotenen Goldes ist dürftig. Ein Raunen geht durch die Gruppe der Freibeuter. Der Anführer leckt sich die Lippen und schneller als irgendjemand es für möglich gehalten hätte, setzt er Ihrem Diplomaten eine Pistole auf die Brust. Die Delegation wird festgenommen und das Schiff fährt nach Crown Falls, um die Delegation zu übergeben. Zumindest seid Ihr ungeschoren davongekommen, aber der Verlust einiger Eurer besten Männer drückt schnell die Stimmung der Crew.</Text>
+    </Text>
+    <Text>
+      <GUID>1999003356</GUID>
+      <Text>Lasst einen Mann mit der besonderen Fähigkeit, seinen Willen sehr regelmäßig anderen gegenüber durchzusetzen, einen Versuch unternehmen.</Text>
+    </Text>
+    <Text>
+      <GUID>1999003357</GUID>
+      <Text>„Das sind nicht die Matrosen, die Sie suchen!“ wiederholt der Hypnotiseur immer und immer wieder, während er eine Taschenuhr vor dem Gesicht des Freibeuterführers hin und her schwingt. Die Umstehenden hängen buchstäblich an seinen Lippen. Schließlich sagt der Anführer: „Das sind nicht die Matrosen, die wir suchen! Lasst sie gehen, sie handeln mit edlen Absichten.“
+
+Euren Männern muss man es nicht zweimal sagen und sie rennen davon. Sobald sie wieder an Deck sind, setzt Ihr sofort die Segel und das andere Schiff verschwindet langsam am Horizont. Wir sind der völligen Katastrophe nur knapp entgangen.
+      </Text>
+    </Text>
+
+    <Text>
+      <GUID>1999003358</GUID>
+      <Text>Hisst die Segel und verschwindet so schnell und unbemerkt wie möglich</Text>
+    </Text>
+    <Text>
+      <GUID>1999003359</GUID>
+      <Text>Eure Männer arbeiten hart und Euer Steuermann leistet hervorragende Arbeit. Der Wind ist günstig und das verfolgende Schiff am Horizont schrumpft schnell auf die Größe eines Stecknadelkopfes. „Wir haben sie abgeschüttelt!“ frohlockt Euer Zweiter Offizier. „Hoffentlich das letzte Mal, dass wir so eine Begegnung haben“, antwortet Ihr, „wir können keine weiteren Verzögerungen gebrauchen!“</Text>
+    </Text>
+    <Text>
+      <GUID>1999003360</GUID>
+      <Text>Trotz Eures schnellen Handelns und der passablen Fähigkeiten Eures Steuermanns hat sich der Wind gegen Euch gerichtet. Das Schiff am Horizont wird immer größer und wird bald längsseits gehen. "Wir müssen schnell eine alternative Lösung finden, sonst sitzen wir morgen schon in den Kerkern von Crown Falls!"</Text>
+    </Text>
+    <Text>
+      <GUID>1999003361</GUID>
+      <Text>Versucht, das Schiff so zu tarnen, dass es wie ein verlassenes Geisterschiff aussieht.</Text>
+    </Text>
+    <Text>
+      <GUID>1999003362</GUID>
+      <Text>Eure Schreiner machen sich schnell an die Arbeit. Hier ein Loch im Rumpf und dort ein zerrissenes Segel. Dazu ein abgebrochener Mast und viel grüner Nebel auf Deck, von dem niemand so recht weiß, wo er herkommt, der Euren Männern aber so sehr in Augen und Lunge brennt, dass sie sich freiwillig unter Deck zurückziehen.
+
+Die Tarnung als Geisterschiff ist perfekt und das gegnerische Schiff nähert sich tatsächlich nur sehr zögerlich. Kein einziger Matrose wagt es, das Deck zu betreten. Eure Verfolger haben Mühe, ihr Schiff schnell genug auf Gegenkurs zu steuern, um dem gruseligen Monster nicht zu nahe zu kommen.
+        
+Nach einigen Aufräumarbeiten könnt Ihr die Reise unbehelligt fortsetzen.</Text>
+    </Text>
+    <Text>
+      <GUID>1999003363</GUID>
+      <Text>Eure Männer sind zu langsam. Das feindliche Schiff kommt schnell näher und erwischt Euch dabei, es als Geisterschiff zu tarnen.
+
+"Was soll das werden?" Der feindliche Anführer schreit dich spöttisch an. „Wir haben keine Angst vor Geistern! Aber Ihr sollter Angst vor der geballten Macht des königlichen Imperiums haben. Morgen werdet Ihr alle wegen Hochverrats in Crown Falls ins Loch geworfen.“</Text>
+    </Text>
+    <Text>
+      <GUID>1999003364</GUID>
+      <Text>Haltet an Eurem Plan fest, dem Verfolger rechtzeitig zu entkommen, und betet zu Gott, dass der Wind stärker wird</Text>
+    </Text>
+    <Text>
+      <GUID>1999003365</GUID>
+      <Text>Gott sei Dank nimmt der Wind zu und Ihr lasst alle Segel setzen, die Ihr an Deck finden könnt. Euer Schiff nimmt schnell Fahrt auf und aufgrund der schieren Überlegenheit der Segelfläche Eures Schiffes schrumpft der Verfolger schnell zu einem kleinen Punkt am Horizont zusammen.</Text>
+    </Text>
+    <Text>
+      <GUID>1999003366</GUID>
+      <Text>Gott hat Euch verlassen, das Segel flattert immer noch schlaff im Wind, kein Lüftchen weht. Überraschenderweise hat Euer Verfolger perfekte Bedingungen und holt Euch schnell ein.
+
+„Was für eine lahme Ente sehe ich hier? Genau das richtige Fressen für unsere hungrige Meute. Ihr kommt nicht weit, dafür sorgen wir. Ihr steht von nun an unter Hausarrest.“</Text>
+    </Text>
+    
+    <Text>
+      <GUID>1999003367</GUID>
+      <Text>Lasst den Verfolger näher kommen und eröffnet unerwartet das Feuer auf ihn</Text>
+    </Text>
+    <Text>
+      <GUID>1999003368</GUID>
+      <Text>Nichtsahnend kommt das Schiff näher heran. Als es sich längsseits begibt, schreit Ihr „Feuer!“ und eine volle Breitseite zerfetzt den Rumpf des Feindes. Schnell beginnt das Meerwasser in den Rumpf einzudringen und schon nach wenigen Minuten neigt sich der Kiel in Richtung Meeresboden und die Rettungsboote werden ins Wasser gelassen.
+
+"Verdammt sollt Ihr sein!" ruft ein Matrose zu Euch herüber. Ihr hofft, dass es kein schlechtes Omen ist und setzt Euren Weg unverfolgt fort. Es wird ewig dauern, bis die Schiffbrüchigen nach Crown Falls zurück kommen.</Text>
+    </Text>
+    <Text>
+      <GUID>1999003369</GUID>
+      <Text>Als das Schiff längsseits kommt, eröffnet Ihr das Feuer. Aber Eure Kanoniere müssen heute Morgen zu viel von dem vergorenen Fisch gegessen haben, denn kein einziger Schuss trifft das Ziel. Das feindliche Schiff kommt immer näher. Was sollen wir jetzt machen?</Text>
+    </Text>
+    <Text>
+      <GUID>1999003370</GUID>
+      <Text>Versucht, mit Euren Männern das feindliche Schiff zu entern und die Besatzung gefangen zu nehmen.</Text>
+    </Text>
+    <Text>
+      <GUID>1999003371</GUID>
+      <Text>Eure Leute brecehn in Kampfgeschrei aus, während sie über lange Taue zum feindlichen Deck übersetzen. Es kommt zu einem kurzen Handgemenge, doch die feindliche Besatzung ist durch Euer Verhalten völlig demoralisiert und wird zähneknirschend gefangen genommen. Sie können Eure Reise unbehelligt fortsetzen.</Text>
+    </Text>
+    <Text>
+      <GUID>1999003372</GUID>
+      <Text>Ersetzt die Kanoniere durch erfahrene Schiffsjäger und feuert schnell eine zweite Salve ab, in der Hoffnung, mehr Schaden anzurichten.</Text>
+    </Text>
+    <Text>
+      <GUID>1999003373</GUID>
+      <Text>Endlich ein Treffer! Der Rumpf bricht und Wasser flutet das feindliche Schiff. Schon nach wenigen Minuten neigt sich der Kiel in Richtung Meeresboden und die Rettungsboote werden ins Wasser gelassen.
+
+"Verdammt sollt Ihr sein!" ruft ein Matrose zu Euch herüber. Ihr hofft, dass es kein schlechtes Omen ist und setzt Euren Weg unverfolgt fort. Es wird ewig dauern, bis die Schiffbrüchigen nach Crown Falls zurück kommen.</Text>
+    </Text>
+    <Text>
+      <GUID>1999003374</GUID>
+      <Text>Nichts scheint zu helfen. Trotz der veränderten Besatzung platschen die Kanonenkugeln immer noch meterweit entfernt vom Bug des feindlichen Schiffes ins Wasser.
+
+Das Schiff kommt ohne Zögern längsseits und die Söldner umzingeln Eure Mannschaft. „Ihr werdet nicht weit kommen, dafür sorgen wir. Ihr stehst ab sofort unter Hausarrest.“</Text>
+    </Text>
+    <Text>
+      <GUID>1999003375</GUID>
+      <Text>Gebt auf und stellt euch den Verfolgern</Text>
+    </Text>
+    <Text>
+      <GUID>1999003376</GUID>
+      <Text>"Ihr kommt nicht weit, dafür sorgen wir. Ihr steht von nun an unter Hausarrest!"</Text>
+    </Text>
+
+    <Text>
+      <GUID>1999003377</GUID>
+      <Text>Aufstieg der Neuen Kolonie: König João's Intervention</Text>
+    </Text>
+    <Text>
+      <GUID>1999003378</GUID>
+      <Text>Seit vorsichtig, König João hat seine Royal Navy in die Region geschickt, um unsere Kolonie zu zerstören. Verteidigt uns!</Text>
+    </Text>
+    <Text>
+      <GUID>1999003379</GUID>
+      <Text>Seit vorsichtig, König João hat unsere aufstrebenden Kolonialambitionen satt und hat seinen Vertreter Edmundo Vara geschickt, um unsere Kolonie ein für alle Mal von der Landkarte zu tilgen. Eure neue Kolonialflotte sollte mittlerweile stark genug sein, um den Gegner mit Leichtigkeit auszulöschen. Verteidigt Euer neues Imperium gegen die Ansprüche von König João und besiegen Sie sein letztes Aufgebot. Eure Kolonialansprüche werden dadurch gesichert und König João's Imperium an den Rande des Kolapps geführt.</Text>
+    </Text>
+
+
+    <Text>
+      <GUID>1999003387</GUID>
+      <Text>Erdgas-Vorkommen</Text>
+    </Text>
+    <Text>
+      <GUID>1999003388</GUID>
+      <Text>Eine unterirdische Ansammlung von Erdgas. Baut ein Extraktionsmodul auf der Lagerstätte, um deren Vorräte auszubeuten.</Text>
+    </Text>
+    <Text>
+      <GUID>1999003390</GUID>
+      <Text>Luftschiffkontor</Text>
+    </Text>
+    <Text>
+      <GUID>1999003391</GUID>
+      <Text>Neue Welt-Gasförderstätte</Text>
+    </Text>
+    <Text>
+      <GUID>1999003392</GUID>
+      <Text>Gaspumpe</Text>
+    </Text>
+    <Text>
+      <GUID>1999003393</GUID>
+      <Text>Elektrizität</Text>
+    </Text>
+    <Text>
+      <GUID>191042</GUID>
+      <Text>Alle Bohrtürme</Text>
+    </Text>
+    <Text>
+      <GUID>112706</GUID>
+      <Text>Erdgas</Text>
+    </Text>
+
+    <Text>
+      <GUID>1999003394</GUID>
+      <Text>Jaguar-Vorkommen</Text>
+    </Text>
+    <Text>
+      <GUID>1999003396</GUID>
+      <Text>Jaguar-Jagdhütte</Text>
+    </Text>
+    <Text>
+      <GUID>1999003397</GUID>
+      <Text>Jaguarfell</Text>
+    </Text>
+    <Text>
+      <GUID>1999003398</GUID>
+      <Text>Das Fell eines Jaguars. Sehr selten, sehr wertvoll, aber leider verliert es beim Transport die Farbe.</Text>
+    </Text>
+
+    <Text>
+      <GUID>1999003402</GUID>
+      <Text>Die Klippeninseln</Text>
+    </Text>
+    <Text>
+      <GUID>1999003403</GUID>
+      <Text>Paloma weist auf die 5 Klippeninseln in Mayabeque hin, die nur per Luftschiff besiedelt werden können.</Text>
+    </Text>
+    <Text>
+      <GUID>1999003404</GUID>
+      <Text>In Mayabeque gibt es fünf Klippeninseln, die nur per Luftschiff besiedelt werden können. Paloma möchte Euch die Vorteile zeigen, die der Besitz einer dieser Inseln mit sich bringt. Trefft sie an ihrem Außenposten in dieser Region, um mehr über die einzigartigen Besonderheiten der Inseln zu erfahren.</Text>
+    </Text>
+
+    <Text>
+      <GUID>1999003405</GUID>
+      <Text>Cliffhanger</Text>
+    </Text>
+    <Text>
+      <GUID>1999003406</GUID>
+      <Text>Paloma stellt Euch gerne eines ihrer Luftschiffe zur Verfügung, um den Prozess der Kolonisierung der Region zu beschleunigen.</Text>
+    </Text>
+    <Text>
+      <GUID>1999003407</GUID>
+      <Text>Nachdem Paloma Euch nun eines ihrer Luftschiffe geschenkt hat, liegt es an Euch, zu entscheiden, welche der fünf Inseln zuerst besiedelt wird. Steuert einfach Euer Luftschiff über eine der Inseln und bringt die üblichen Baumaterialien mit, um mit der Besiedlung des unbekannten Landes zu beginnen.</Text>
+    </Text>
+    <Text>
+      <GUID>1999003409</GUID>
+      <Text>Baut eine Luftschiff-Landeplattform auf einer der fünf Klippeninseln in Mayabeque</Text>
+    </Text>
+    <Text>
+      <GUID>1999003410</GUID>
+      <Text>Das ist nur eine einzige Insel – aber wenn wir wirklich etwas bewegen wollen, brauchen wir eine Luftschiffplattform auf allen Klippeninseln!</Text>
+    </Text>
+
+    <Text>
+      <GUID>1999003411</GUID>
+      <Text>Paloma geht fremd</Text>
+    </Text>
+    <Text>
+      <GUID>1999003412</GUID>
+      <Text>Paloma macht Euch auf die Vorkommen von Erdgas aufmerksam, die sie als Füllmaterial für ihr neuestes Luftschiffexperiment nutzen möchte.</Text>
+    </Text>
+    <Text>
+      <GUID>1999003413</GUID>
+      <Text>Jede Klippeninsel verfügt über einige Erdgasvorkommen, wie man sie aus der Arktis kennt, die Ihr nun nutzen könnt, um Eure Energieversorgung in der Alten Welt zu verbessern. Beachtet, dass einige Items, die bisher auf die Arktis-Region beschränkt waren, jetzt zur Verbesserung der Klippen-Produktionsgebäude in der Neuen Welt verwendet werden können.</Text>
+    </Text>
+
+    <Text>
+      <GUID>1999003414</GUID>
+      <Text>Das Bärenfellproblem</Text>
+    </Text>
+    <Text>
+      <GUID>1999003415</GUID>
+      <Text>Paloma weist auf die seltenen Jaguarpopulationen auf den isolierten Klippeninseln hin.</Text>
+    </Text>
+    <Text>
+      <GUID>1999003416</GUID>
+      <Text>Aufgrund ihrer isolierten Lage gibt es auf den Klippeninseln noch immer eine beträchtliche Population von Jaguaren. Aber wer würde schon jemals daran denken, das Fell eines so majestätischen Tieres als Kaminvorleger zu verwenden?
+
+Nun denn, solltet Ihr trotz aller Bedenken beschließen, die Jaguarpopulation auf den Klippeninseln zu "dezimieren" und die Felle in die Alte Welt zu transportieren, können Eure Investoren davon profitieren. Leider verlieren die Felle über den langen Transportweg etwas an Farbe, aber ich denke, dass man sie problemlos als Eisbärenfelle an ihre leichtgläubigen Investoren verkaufen kann.
+        
+Beachtet, dass Jaguarfelle aufgrund ihres speziellen Herstellungsorts nur über eine Luftschiff-Handelsroute gehandelt werden können! Um eine solche Route einzurichten, müssen Sie ein Luftpostlager an jeder beteiligten Luftschiffplattform bauen.</Text>
+    </Text>
+
+    <Text>
+      <GUID>1999003417</GUID>
+      <Text>Paloma freut sich, dass ihre Luftschiffe Eurem Imperium erheblich zum Wachstum verhelfen konnten.</Text>
+    </Text>
+
+    <Text>
+      <GUID>1999003418</GUID>
+      <Text>Erreicht in Santa Cruz: 
+[Conditions QuestCondition CurrentAmount]/[Conditions QuestCondition Amount] [AssetData([Conditions QuestCondition Context]) Text]</Text>
+    </Text>
+    <Text>
+      <GUID>1999003420</GUID>
+      <Text>Transportiert Jaguarfelle mithilfe einer Luftschiffroute in die Alte Welt, um folgendes zu erhalten: 
+[Conditions QuestCondition CurrentAmount]/[Conditions QuestCondition Amount]t [AssetData([Conditions QuestCondition Context]) Text]</Text>
+    </Text>
+    <Text>
+      <GUID>1999003421</GUID>
+      <Text>Baut auf einer beliebigen Klippeninsel: 
+[Conditions QuestCondition CurrentAmount]/[Conditions QuestCondition Amount] Neue Welt-Gasförderstätte</Text>
+    </Text>
+    <Text>
+      <GUID>1999003423</GUID>
+      <Text>Ich danke Euch für Euren Beitrag zu meiner Forschung. Lasst uns dieses Luftschiff schnell für einen Test füllen und seine neuen Fahreigenschaften ausprobieren. Moment mal, was ist das? Ich höre Explosionen! Oh nein, überall Feuer! Schnell, holt die Feuerlöscher! Es scheint, dass dieses Gas für meine modernen Luftschiffe nicht geeignet ist. Viel zu explosiv. Ich bleibe vorerst bei Helium, auch wenn das neue Gas einige Vorteile haben mag, ist es für ein Unternehmen wie meines viel zu gefährlich. Ich werde nicht riskieren, noch mehr von meiner Flotte daran zu verlieren. Ihr könnt es behalten, ich habe keine weitere Verwendung dafür.</Text>
+    </Text>
+
+    <Text>
+      <GUID>1999003425</GUID>
+      <Text>Ruinen des Schlosses Santa Cruz</Text>
+    </Text>
+    <Text>
+      <GUID>1999003427</GUID>
+      <Text>Vorbereitende Aufgaben für die Renovierung</Text>
+    </Text>
+    <Text>
+      <GUID>1999003428</GUID>
+      <Text>Vorbereitende Aufgaben für die Renovierung</Text>
+    </Text>
+
+    <Text>
+      <GUID>114289</GUID>
+      <Text>Gewinnt Erdgas aus Gasvorkommen.</Text>
+    </Text>
+
+    <Text>
+      <GUID>1999003429</GUID>
+      <Text>Baut in Mayabeque:
+[Conditions QuestCondition CurrentAmount]/[Conditions QuestCondition Amount] [AssetData([Conditions QuestCondition Context]) Text]</Text>
+    </Text>
+    <Text>
+      <GUID>1999003430</GUID>
+      <Text>Das Bärenfellproblem</Text>
+    </Text>
+    <Text>
+      <GUID>1999003432</GUID>
+      <Text>Erstellt eine Luftpost-Handelsroute, die Jaguar-Felle von Mayabeque in die Alte Welt transportiert.</Text>
+    </Text>
+    <Text>
+      <GUID>1999003433</GUID>
+      <Text>Das Bärenfellproblem</Text>
+    </Text>
+    <Text>
+      <GUID>1999003435</GUID>
+      <Text>Um Bärenfelle aus Jaguarfellen zu erhalten, müssen Sie erstere über Luftpostlinien in die Alte Welt Regionen bringen. Richten Sie hier welche ein oder nutzen Sie dafür das Menü des Luftpostlagers.</Text>
+    </Text>
+    <Text>
+      <GUID>1999003436</GUID>
+      <Text>Hier können Sie eine neue Luftpostlinie einrichten. Luftpostrouten können nur zwischen Inseln angelegt werden, die über Lufthäfen inklusive Luftpostlager verfügen. Laden Sie Jaguarfelle auf die Luftpostlinie, damit sie automatisch zu Bärenfellen werden, sobald sie auf einer anderen Insel in der Alten Welt eintreffen.</Text>
+    </Text>
+   
+    <Text>
+      <GUID>1999003438</GUID>
+      <Text>Lieber Freund,
+vor kurzem bin ich auf einige alarmierende Untersuchungen über einen rapiden Rückgang der Jaguarpopulation in unserer Region gestoßen. Ich bin darauf aufmerksam geworden, dass Eure Jagdaktivitäten in den nicht dafür ausgewiesenen Gebieten leider eine wichtige Rolle in dieser beunruhigenden Situation gespielt haben.
+        
+Die Forschung zeigt, dass die Jaguar-Population in naher Zukunft ernsthaft vom Aussterben bedroht ist, wenn wir so weitermachen wie bisher. Ich weiß, wie sehr Ihnen unsere einheimischen Wildtiere am Herzen liegen, und ich glaube, dass wir unbedingt sofort etwas unternehmen müssen, um dieses Problem zu lösen.
+        
+Im Interesse der Bewahrung unseres besonderen Ökosystems, hielt ich es für notwendig, diejenigen Jaguar-Jagdhütten in der Region aufzulösen, die ausßerhalb der zugewiesenen Jagdgebiete liegen. Ich verstehe, dass dies vielleicht überraschend kommt, und ich möchte Euch versichern, dass es mir nicht darum geht, ein Urteil zu fällen, sondern vielmehr darum, das empfindliche Gleichgewicht unserer Umwelt zu schützen.
+        
+Mit der Entfernung dieser Jagdhütten setzen wir ein klares Zeichen, dass wir uns für den Erhalt der natürlichen Lebensräume in unserer Region einsetzen. Ich hoffe, dass Ihr die Dringlichkeit der Situation versteht und diese Bemühungen unterstützt, um den Trend des Rückgangs der Jaguarbestände umzukehren. Gemeinsam können wir dafür sorgen, dass auch künftige Generationen die Möglichkeit haben, die Schönheit und Majestät dieser unglaublichen Geschöpfe zu erleben.
+        
+Mit freundlichen Grüßen,
+        
+Yaosca Rodriguez
+      </Text>
+    </Text>
+    <Text>
+      <GUID>1999003440</GUID>
+      <Text>Jaguar-Jagdhütte</Text>
+    </Text>
+    <Text>
+      <GUID>1999003442</GUID>
+      <Text>Jaguar-Jagdhütte</Text>
+    </Text>
+
+    <Text>
+      <GUID>1999003445</GUID>
+      <Text>Luftschiffkontor</Text>
+    </Text>
+    <Text>
+      <GUID>1999003446</GUID>
+      <Text>Luftschiffkontor</Text>
+    </Text>
+
+    <Text>
+      <GUID>1999003450</GUID>
+      <Text>Aufstieg der Neuen Kolonie: Das koloniale Export-Imperium</Text>
+    </Text>
+
+    <Text>
+      <GUID>1999003453</GUID>
+      <Text>Santa Cruz Grand Hotel: Große Attraktion</Text>
+    </Text>
+  </ModOp>
+</ModOps>

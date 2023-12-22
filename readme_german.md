@@ -2,9 +2,9 @@
 
 ![Thumbnail](https://user-images.githubusercontent.com/64583643/189413460-86d79429-272c-4c3a-b243-3733c109e044.png)
 
- Diese Mod erweitert die New World Map Generation mit neu gestalteten OW-Inseln und neuen Kartenvorlagen für mehr Abwechslung und Wiederspielbarkeit des Spiels.
+ Diese Mod erweitert die New World Map Generation mit neu gestalteten OW-Inseln und neuen Kartenvorlagen für mehr Abwechslung und Wiederspielbarkeit des Spiels. Außerdem findet ihr hier die Mod "Koloss der Neuen Welt: Expedition nach Mayabeque", das die Region der Neuen Welt um eine völlig neue Session erweitert, die nur darauf wartet erkundet zu werden.
  
- Wenn dir diese Mod gefällt und du mich unterstützen möchtest, kannst du sie gerne mit deinen Freunden teilen. Ihr könnt mir auch einen Kaffee bei Ko-Fi ausgeben (ja, ich möchte meinen Kaffeekonsum auf die Höhe der Investoren bringen!)
+ Wenn dir diese Mods gefallen und du mich unterstützen möchtest, kannst du sie gerne mit deinen Freunden teilen. Ihr könnt mir auch einen Kaffee bei Ko-Fi ausgeben!
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W8L558T)
 
@@ -14,12 +14,18 @@
 - Verwende entweder den [iModYourAnno](https://github.com/anno-mods/iModYourAnno/releases) Mod-Manager oder weiß [wie man Mods manuell installiert](https://github.com/jakobharder/anno1800-mod-loader#mods).
 - Wenn du die Mod manuell herunterlädst, verwende das Archiv von [GitHub releases] (https://github.com/Taludas/NewWorldExpanded/releases). Lade nicht das gesamte Repo herunter! Es werden dann mesh-files der Inseln fehlen (durchsichtige Inseln)!
 
-**DAMIT DIESE MOD RICHTIG FUNKTIONIERT, MÜSST IHR EINEN NEUEN SPIELSTAND LADEN/STARTEN (ODER ZUMINDEST EINEN WO IHR DIE NW NICHT ENTDECKT HABT)!!! Ich schlage vor, dass du eine Mod wie "Easy seed search" von [Spice it up] (https://github.com/anno-mods/Spice-it-Up) zum Testen verwendest, bevor du viel Zeit in einen neuen Durchlauf investierst.**
-
-Wenn du einen Vorgeschmack auf die geplanten Inhalte bekommen möchtest, schau dir dieses Teaser-Video an:
-[![Crown Falls in the New World?!](https://user-images.githubusercontent.com/64583643/189425612-91673a91-7dad-4fa3-8a97-8a10d0888cd6.jpg)](https://youtu.be/wSqFEBe8ZmY)
-
 ## Changelog
+<details>
+    <summary>Patch Notes Version 3.0.0</summary>
+
+* Neue Mod:
+    - Hinzufügen von "Koloss der Neuen Welt: Expedition nach Mayabeque". Für weitere Informationen über diese Mod besucht bitte die Mod-Seite auf [mod.io](https://mod.io/g/anno-1800/m/colossus-of-the-new-world-finding-mayabeque)
+
+* Updates:
+    - Die Mod "Muddy Rivers Removed" wurde für GU18 angepasst:
+      - Drastische Reduzierung der Dateigröße mit den neuen Möglichkeiten von Loader11.
+
+</details>
 <details>
     <summary>Patch Notes Version 2.0.0</summary>
 
@@ -28,7 +34,7 @@ Wenn du einen Vorgeschmack auf die geplanten Inhalte bekommen möchtest, schau d
       - Anpassungen für die alleinige Nutzung über mod.io (vorher fehlten Inseltexturen).
       - Drastische Reduzierung der Dateigröße mit den neuen Möglichkeiten von Loader11.
 
-* Adjustments:
+* Anpassungen:
     - Ich habe eine Version zur Verfügung gestellt, die eine randomisierte Kartenvorlage für die Neue Welt verwendet (hauptsächlich für die Verwendung mit mod.io, fortgeschrittene Benutzer können iMYA für mehr Anpassungsmöglichkeiten verwenden)
  
 </details>
@@ -104,3 +110,20 @@ Dieses Modul enthält 3 neue Kartenvorlagen für jede Regionsgröße (groß, mit
 ![banner_rivercolour](https://user-images.githubusercontent.com/64583643/189413458-592e3a64-f896-42ed-a016-98c2d7551e0b.png)
 ## New World Expanded: River Colour
 Mit diesem Modul wird lediglich die Farbe der Flüsse auf den Vanilla-NW-Inseln von schlammigem Braun auf Blau geändert, so dass man eher ein Gefühl von tropischem Paradies als von Amazonas-Regenwald bekommt.
+
+-----
+
+![banner_colossus](https://github.com/Taludas/NewWorldExpanded/assets/64583643/c4aaa035-478a-49c6-9db0-7f7abbabac12)
+## "Koloss der Neuen Welt: Expedition nach Mayabeque"
+
+Folgt Vasco Oliveira in die Länder seiner ehemaligen Kolonialverwaltung! Nach seiner demütigenden Niederlage in Crown Falls und seiner Rehabilitierung im "Silbernen Käfig" sinnt er nun auf Rache an seinem ehemaligen Herrn: König Joao von La Corona. Da die vorangegangenen Ereignisse an seiner Verfassung gezehrt haben, bittet er Euch um Hilfe: Nehmt seine Einladung an und findet einen Weg in die vergessenen Kolonien von Mayabeque (sprich: "Majabek"). Unterstützt ihn in seinem Bestreben, die untergegangene Kolonialmacht zu neuem Ruhm zu führen! Aber seid vorsichtig, eure Reise wird nicht unbemerkt bleiben und nicht jeder wird eure Pläne für die Landstriche Mayabeques unterstützen...
+
+Eine Mod in DLC-Größe, die dem Spiel eine zweite Session in der Neuen Welt hinzufügt, einschließlich einer 15 Quests langen Story mit zwei verschiedenen Enden, einer umgewandelten Kontinentalinsel Crown Falls und einigen anderen ausgefallenen Dingen wie zwei neuen Monumenten mit einzigartigen Effekten, zwei neuen Händlern und einer weiteren neuen Möglichkeit, mehr "arktisches Gas" und "Bärenfelle" zu erzeugen.
+
+Die wichtigste Neuerung von "Colossus of the New World" ist eine neue Region namens Mayabeque, die nach dem Abschluss einer Reihe von Quests und einer Expedition freigeschaltet wird, die verfügbar ist, sobald man 1 Investor besitzt. Die Expedition bietet auch ein komplett eigenes Expeditionsereignis. (Wenn ihr alle Entscheidungen des Ereignisses erkunden wollt, nehmt ein mittelmäßiges Schiff und nicht die besten Items mit, sonst könnt ihr das Ereignis bei den ersten Entscheidungen vielleicht überspringen. Speichert auch vor dem Ereignis, um alle Enden zu erforschen.)
+
+Es ist eine zweite Session in der Neuen Welt und besteht aus einer Mischung verschiedener Inselgrößen, von denen eine einzigartig ist, nämlich die große Kontinentalinsel "Santa Cruz", die sich im östlichen Teil der Region befindet. Einige von euch werden Crown Falls vielleicht wiedererkennen, aber sie wurde mit angepassten Texturen und Props vollständig in das Neue-Welt-Setting konvertiert. Die Session enthält auch eine Reihe von fünf einzigartigen küstenfreien Inseln, die aus dem Szenario "Der Postpokal" bekannt sind. Diese Klippeninseln können nur per Luftschiff besiedelt werden (wenn ihr das volle Potenzial dieser Klippeninseln ausschöpfen wollt, müsst ihr den DLC "Reich der Lüfte" aktivieren, um sie zu besiedeln) und verfügen über einige seltene Ressourcen, die ihr sicherlich nutzen wollt, um eure Investoren mit ihren anspruchsvollen Bedürfnissen zu versorgen. Um die lokale Wirtschaft zu unterstützen, haben zwei neue Händler Warenlager in der Region errichtet. Ansonsten ist das Gameplay in dieser Session, einschließlich der verfügbaren Bevölkerung, Gebäude, Waren, Ressourcen und Fruchtbarkeiten etc. das gleiche wie im Rest der Neuen Welt. 
+
+Der DLC enthält eine 15 Quests lange Storyline, die sich um den Aufbau der neuen Kolonialmacht dreht, die von einem bekannten Charakter aus einem anderen DLC unterstützt wird. Um alle Möglichkeiten der Geschichte zu erkunden, solltet ihr ein zweites Spiel beginnen, um herauszufinden, welches Ende am besten zu eurem Spielstil passt. (oder ladet den Save vor der DecisionQuest) Während ihr der Questlinie folgt, habt ihr die Möglichkeit, eine von zwei Versionen eines einzigartigen Monuments auf der Insel Santa Cruz zu errichten, das entweder eurem Militär und eurer Handelsflotte zugute kommt oder euer Tourismusimperium ine eine neue Dimension befördert (um diesen Teil der Questlinie abzuschließen, müsst ihr die DLCs "Aufstieg der Neuen Welt" und "Reisezeit" sowie die Mod "New World Tourism" aktivieren).
+
+Für weitere Informationen und Bilder, besucht die Mod-Website auf [mod.io](https://mod.io/g/anno-1800/m/colossus-of-the-new-world-finding-mayabeque)

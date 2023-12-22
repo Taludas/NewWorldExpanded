@@ -1,0 +1,1186 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1999003005</GUID>
+      <Text>玛雅贝克</Text>
+    </Text>
+    <Text>
+      <GUID>1999003010</GUID>
+      <Text>进入“玛雅贝克”</Text>
+    </Text>
+    <Text>
+      <GUID>1999003014</GUID>
+      <Text>圣克鲁兹</Text>
+    </Text>
+    <Text>
+      <GUID>1999003015</GUID>
+      <Text>品察坎蒂斯</Text>
+    </Text>
+    <Text>
+      <GUID>1999003016</GUID>
+      <Text>维亚拉</Text>
+    </Text>
+    <Text>
+      <GUID>1999003023</GUID>
+      <Text>寻找玛雅贝克</Text>
+    </Text>
+    <Text>
+      <GUID>1999003024</GUID>
+      <Text>发现玛雅贝克</Text>
+    </Text>
+    <Text>
+      <GUID>1999003025</GUID>
+      <Text>沿着瓦斯科的航海图，你决定前往那片被拉科罗纳帝国遗忘的殖民地。</Text>
+    </Text>
+    <Text>
+      <GUID>1999003027</GUID>
+      <Text>寻找玛雅贝克</Text>
+    </Text>
+
+    <Text>
+      <GUID>1999003030</GUID>
+      <Text>一个老船长讲述的神秘故事</Text>
+    </Text>
+    <Text>
+      <GUID>1999003035</GUID>
+      <Text>一位神秘的船长前不久驾驶一艘杂货轮抵达，他希望与你私下聊聊。
+</Text>
+    </Text>
+    <Text>
+      <GUID>1999003036</GUID>
+      <Text>传说是真的！但我只是瓦斯科·奥利维拉的信使。细节只有他本人知道，必须得到女王的承诺才会吐露！我可以为你们双方安排一场会面。</Text>
+    </Text>
+    <Text>
+      <GUID>1999003034</GUID>
+      <Text>不久前，你种植园的一位工人向你说起了一个被遗忘的桃花源，那里曾是拉科罗纳帝国在新世界的一颗明珠，但现在曾经的辉煌已成过眼云烟，一切繁荣已经化为废墟。因为以前从没有人向你说起过那片的土地，也没有地图记录过去往这个地区的航线，所以你认为这只是醉酒工人的胡编乱造。然而，最近你听说一个神秘的老船长驾驶着一艘几近沉没的探险船，进入了你治下的一个港口，向那些愿意聆听的人传播着一个类似的故事。你不相信这是一个巧合，立刻动身出发去找那个陌生人，并证实他故事的真伪。由于他不想在公开场合向你吐露心事，他建议今晚在拥挤的海港小酒馆里私下谈谈。在他再次离开之前，快去找他！</Text>
+    </Text>
+    <Text>
+      <GUID>1999003033</GUID>
+      <Text>今晚去当地的酒吧。这位神秘的船长想告诉你一段他亲身经历过的有趣传奇。</Text>
+    </Text>
+
+    <Text>
+      <GUID>1999003037</GUID>
+      <Text>船长的信</Text>
+    </Text>
+    <Text>
+      <GUID>1999003038</GUID>
+      <Text>亲爱的朋友！
+
+如果一切顺利，您刚刚收到了我的老朋友的来信，他是我在拉科罗纳帝国的舰队中最优秀的船长之一。
+
+距离我们的初见，也是我在崔老妮海角的大败，已经过去很久了。我的流亡生活给我带来了很多折磨，但我还没有完全屈服于时光的摧残。
+
+在经历了流放生涯的耻辱之后，我一直在设法对那位自命不凡的若奥国王进行报复。我曾经忠实地为他服务，并希望辅佐他将拉科罗纳建设成为一个复兴的伟大帝国。
+
+然而现在一切都已成泡影。这个帝国正在崩溃，臃肿无能的官僚集团搞砸了一切。现在是我复仇的时候了。
+
+我知道拉科罗纳的一片旧日殖民地，她曾经是一个繁荣的贸易节点，现在完全因管理不善而衰败。然而那里土地肥沃，自然资源丰富。我的计划是把这片土地从若奥国王的鼻子底下夺过来并重建她，恢复她昔日的辉煌。
+
+但为此我需要你的帮助。您是一位优秀的城市建筑师，而我目前急需您这样可以帮助实现我伟大计划的人才。请在我的旗舰——伟大帝国号上与我会面，并讨论下一步的行动。但请低调行动，我不想和您的女王产生任何外交纠纷。这是我们现在最不需要的。
+
+致以最谦卑的问候
+瓦斯科·奥利维拉
+
+      </Text>
+    </Text>
+    <Text>
+      <GUID>1999003039</GUID>
+      <Text>新朋友的求助</Text>
+    </Text>
+
+    <Text>
+      <GUID>1999003041</GUID>
+      <Text>阴谋家会议</Text>
+    </Text>
+    <Text>
+      <GUID>1999003042</GUID>
+      <Text>啊，太好了，你收到了我的信。快到我的船上来，免得那爱管闲事的女王发现我们的计划。</Text>
+    </Text>
+    <Text>
+      <GUID>1999003045</GUID>
+      <Text>看，这是该地区的粗略地图。现在这片海域已经没有多少航运，甚至鲜有人知还有这条通往这片海域的海峡。</Text>
+    </Text>
+    <Text>
+      <GUID>1999003043</GUID>
+      <Text>瓦斯科·奥利维拉结束流放回来了！在你的帮助下，他想要重建拉科罗纳的前殖民地，并与他的国王争夺该地区的经济和军事霸权。他现在正计划在他的旗舰上与你会面，讨论下一步的行动。</Text>
+    </Text>
+
+    <Text>
+      <GUID>1999003046</GUID>
+      <Text>奥利维拉提供的通往玛雅贝克的地图</Text>
+    </Text>
+    <Text>
+      <GUID>1999003047</GUID>
+      <Text>一张稍微损坏的海图，通往拉科罗纳的一个前殖民地。</Text>
+    </Text>
+    <Text>
+      <GUID>1999003048</GUID>
+      <Text>通往玛雅贝克之路</Text>
+    </Text>
+    <Text>
+      <GUID>1999003333</GUID>
+      <Text>瓦斯科邀请你跟他去他的船长舱。在那里，他向你了一幅详细的区域地图，他称那里为玛雅贝克。他向你展示了通往这片海域的海峡，那里鲜有人知，因为玛雅贝克已经不再有任何航运价值。他现在把地图托付给你，这样他就能不被女王发现地离开你的地区，并准备在玛雅贝克迎接你。他非常期待你的帮助！</Text>
+    </Text>
+    <Text>
+      <GUID>1999003049</GUID>
+      <Text>与你的船长一起检查地图，它在你的船上，请点击阅读它。</Text>
+    </Text>
+    <Text>
+      <GUID>1999003050</GUID>
+      <Text>检查探险地图</Text>
+    </Text>
+
+    <Text>
+      <GUID>1999003056</GUID>
+      <Text>这就是你安全抵达那里所需要的所有信息了。玛雅贝克见。我就指望你的帮助了，别让我等太久！</Text>
+    </Text>
+    <Text>
+      <GUID>1999003059</GUID>
+      <Text>这就是你安全抵达那里所需要的所有信息了。玛雅贝克见。我就指望你的帮助了，别让我等太久！</Text>
+    </Text>
+
+    <Text>
+      <GUID>1999003051</GUID>
+      <Text>寻找通往玛雅贝克的路</Text>
+    </Text>
+    <Text>
+      <GUID>1999003052</GUID>
+      <Text>在研究了瓦斯科给你的地图之后，你和你的船长就通往那片未知海域的最佳路线达成了一致。请适当地装备你最好的一艘探险船，因为旅程似乎漫长而艰难，谁知道一路上会发生什么呢？</Text>
+    </Text>
+    <Text>
+      <GUID>1999003053</GUID>
+      <Text>要开始这段探险，请转到世界地图并选择玛雅贝克远征。</Text>
+    </Text>
+
+    <Text>
+      <GUID>1999003060</GUID>
+      <Text>啊，欢迎你，我的朋友，来到我这片曾经繁荣的殖民地。我们称这个地区为玛雅贝克。好好看看宁静的这片土地吧，在那些你远征陆上的尾巴试图来此争夺这片殖民地之前。</Text>
+    </Text>
+    
+    <Text>
+      <GUID>1999003001</GUID>
+      <Text>圣克鲁兹堡的废墟</Text>
+    </Text>
+    <Text>
+      <GUID>1999003004</GUID>
+      <Text>在圣克鲁兹岛的高山上，拉科罗纳帝国建造了一座宏伟的城堡，以保护该地区免受敌人的攻击。这片区域没落后，这座城堡就被废弃了。但多亏了你的承诺，城堡现在可能会焕发出新的光彩！</Text>
+    </Text>
+    <Text>
+      <GUID>1999003003</GUID>
+      <Text>拉科罗纳帝国的城堡</Text>
+    </Text>
+
+    <Text>
+      <GUID>1999003061</GUID>
+      <Text>圣克鲁兹堡：脚手架</Text>
+    </Text>
+    <Text>
+      <GUID>1999003062</GUID>
+      <Text>熟练的艺术家在施工现场忙碌，采购材料，然后开始尽可能忠实地按照瓦斯科提供的说明重建城堡外内。</Text>
+    </Text>
+    <Text>
+      <GUID>1999003063</GUID>
+      <Text>圣克鲁兹堡：脚手架</Text>
+    </Text>
+
+    <Text>
+      <GUID>1999003190</GUID>
+      <Text>圣克鲁兹堡：脚手架</Text>
+    </Text>
+    <Text>
+      <GUID>1999003326</GUID>
+      <Text>圣克鲁兹大酒店</Text>
+    </Text>
+    <Text>
+      <GUID>1999003327</GUID>
+      <Text>通过你熟练的艺术家的辛勤工作，你已经成功地把古老的城堡废墟变成了一个豪华的大酒店，像一颗钻石一样闪耀在圣克鲁斯的山上。这里肯定会成为新大陆最受欢迎的旅游景点之一。</Text>
+    </Text>
+
+    <Text>
+      <GUID>1999003188</GUID>
+      <Text>推进故事解锁下一个建设阶段。</Text>
+    </Text>
+
+    <Text>
+      <GUID>1999003064</GUID>
+      <Text>圣克鲁兹军事学院</Text>
+    </Text>
+    <Text>
+      <GUID>1999003066</GUID>
+      <Text>圣克鲁兹</Text>
+    </Text>
+    <Text>
+      <GUID>1999003065</GUID>
+      <Text>进入主任办公室</Text>
+    </Text>
+    <Text>
+      <GUID>1999003067</GUID>
+      <Text>培训课程：军事人员</Text>
+    </Text>
+    <Text>
+      <GUID>1999003068</GUID>
+      <Text>培训课程：贸易专家</Text>
+    </Text>
+    <Text>
+      <GUID>1999003070</GUID>
+      <Text>宏大展览：新鲜设备</Text>
+    </Text>
+
+    <Text>
+      <GUID>1999003071</GUID>
+      <Text>培训课程：军事人员</Text>
+    </Text>
+    <Text>
+      <GUID>1999003072</GUID>
+      <Text>一群技术高超的军官</Text>
+    </Text>
+    <Text>
+      <GUID>1999003073</GUID>
+      <Text>有了瓦斯科·奥利维拉亲自审定的新训练大纲，将有可能为您的军队训练新的专业人员。</Text>
+    </Text>
+
+    <Text>
+      <GUID>1999003074</GUID>
+      <Text>培训课程：贸易专家</Text>
+    </Text>
+    <Text>
+      <GUID>1999003075</GUID>
+      <Text>一群经验丰富的交易员</Text>
+    </Text>
+    <Text>
+      <GUID>1999003076</GUID>
+      <Text>这门崭新而又极其复杂的雄辩课程，你的新贸易专家在国外港口销售货物时可以获得天文数字般的利益。</Text>
+    </Text>
+
+    <Text>
+      <GUID>1999003077</GUID>
+      <Text>宏大展览：新鲜设备</Text>
+    </Text>
+    <Text>
+      <GUID>1999003078</GUID>
+      <Text>一组用于你船只的崭新设备</Text>
+    </Text>
+    <Text>
+      <GUID>1999003079</GUID>
+      <Text>这里是整个新世界发明家们展示他们新发明的最佳场所，这肯定会帮助你在未来更好地领导你的海军。</Text>
+    </Text>
+
+    <Text>
+      <GUID>1999003080</GUID>
+      <Text>一批优秀的新兵已经到了。</Text>
+    </Text>
+    <Text>
+      <GUID>1999003081</GUID>
+      <Text>嘘！不要打扰新学员的学习！</Text>
+    </Text>
+    <Text>
+      <GUID>1999003082</GUID>
+      <Text>新一届的军官已经准备好了，他们已经向你宣誓效忠了。</Text>
+    </Text>
+    <Text>
+      <GUID>1999003083</GUID>
+      <Text>为您的军队提供三位新军官</Text>
+    </Text>
+    <Text>
+      <GUID>1999003084</GUID>
+      <Text>军官训练班</Text>
+    </Text>
+    <Text>
+      <GUID>1999003085</GUID>
+      <Text>训练有素的在岸作业员</Text>
+    </Text>
+    <Text>
+      <GUID>1999003086</GUID>
+      <Text>顶尖精锐的在岸作业员</Text>
+    </Text>
+    <Text>
+      <GUID>1999003087</GUID>
+      <Text>训练有素的海军军官</Text>
+    </Text>
+    <Text>
+      <GUID>1999003088</GUID>
+      <Text>顶尖精锐的海军军官</Text>
+    </Text>
+    <Text>
+      <GUID>1999003089</GUID>
+      <Text>飞艇船长及其装备</Text>
+    </Text>
+    <Text>
+      <GUID>1999003090</GUID>
+      <Text>很不幸，军官班学员在期末考试中表现欠佳。</Text>
+    </Text>
+    <Text>
+      <GUID>1999003094</GUID>
+      <Text>在期末考试中取得最高分的军官班学员。</Text>
+    </Text>
+    <Text>
+      <GUID>1999003102</GUID>
+      <Text>在期末考试中取得最高分的军官班学员。</Text>
+    </Text>
+    <Text>
+      <GUID>1999003106</GUID>
+      <Text>形形色色航空班学员和他们的发明。</Text>
+    </Text>
+    
+    <Text>
+      <GUID>1999003110</GUID>
+      <Text>一大批新的贸易工会成员已经到达。</Text>
+    </Text>
+    <Text>
+      <GUID>1999003111</GUID>
+      <Text>嘘！不要打断新贸易员的学习！</Text>
+    </Text>
+    <Text>
+      <GUID>1999003112</GUID>
+      <Text>新一代的商人已经准备好了，他们已经开始在当地市场讨价还价了。</Text>
+    </Text>
+    <Text>
+      <GUID>1999003113</GUID>
+      <Text>为您的贸易船队提供三位新贸易专家</Text>
+    </Text>
+    <Text>
+      <GUID>1999003114</GUID>
+      <Text>贸易员训练班</Text>
+    </Text>
+    <Text>
+      <GUID>1999003115</GUID>
+      <Text>庸碌的贸易员</Text>
+    </Text>
+    <Text>
+      <GUID>1999003116</GUID>
+      <Text>能干的贸易员</Text>
+    </Text>
+    <Text>
+      <GUID>1999003117</GUID>
+      <Text>称职的贸易员</Text>
+    </Text>
+    <Text>
+      <GUID>1999003118</GUID>
+      <Text>优秀的贸易员</Text>
+    </Text>
+    <Text>
+      <GUID>1999003119</GUID>
+      <Text>大师级贸易员</Text>
+    </Text>
+
+    <Text>
+      <GUID>1999003120</GUID>
+      <Text>一群不学无术的商学院毕业生</Text>
+    </Text>
+    <Text>
+      <GUID>1999003122</GUID>
+      <Text>一群及格线上的商学院毕业生</Text>
+    </Text>
+    <Text>
+      <GUID>1999003124</GUID>
+      <Text>一群经验丰富的商学院毕业生</Text>
+    </Text>
+    <Text>
+      <GUID>1999003126</GUID>
+      <Text>一群高素质的商学院毕业生</Text>
+    </Text>
+    <Text>
+      <GUID>1999003128</GUID>
+      <Text>一群见多识广的商学院毕业生</Text>
+    </Text>
+
+    <Text>
+      <GUID>1999003130</GUID>
+      <Text>班级学员们已经在讨论一些关于新型船舶装备的有趣想法。</Text>
+    </Text>
+    <Text>
+      <GUID>1999003131</GUID>
+      <Text>嘘！不要打断你的发明家们的工作！</Text>
+    </Text>
+    <Text>
+      <GUID>1999003132</GUID>
+      <Text>你的发明家想出了一些新设计的物品来加强你的船。</Text>
+    </Text>
+    <Text>
+      <GUID>1999003133</GUID>
+      <Text>为您的船舶提供三个崭新设备</Text>
+    </Text>
+    <Text>
+      <GUID>1999003134</GUID>
+      <Text>创新中心</Text>
+    </Text>
+    <Text>
+      <GUID>1999003135</GUID>
+      <Text>三个备受质疑的研究方向</Text>
+    </Text>
+    <Text>
+      <GUID>1999003136</GUID>
+      <Text>三个尚需深化的研究方向</Text>
+    </Text>
+    <Text>
+      <GUID>1999003137</GUID>
+      <Text>三个准备充分的研究方向</Text>
+    </Text>
+    <Text>
+      <GUID>1999003138</GUID>
+      <Text>三个充满希望的研究方向</Text>
+    </Text>
+    <Text>
+      <GUID>1999003139</GUID>
+      <Text>三个万众瞩目的研究方向</Text>
+    </Text>
+    <Text>
+      <GUID>1999003140</GUID>
+      <Text>那些最野心勃勃的研究人员可能也要放弃的计划</Text>
+    </Text>
+    <Text>
+      <GUID>1999003142</GUID>
+      <Text>至少完成了个原型机……</Text>
+    </Text>
+    <Text>
+      <GUID>1999003144</GUID>
+      <Text>这些机器的批量生产可随时开始！</Text>
+    </Text>
+    <Text>
+      <GUID>1999003146</GUID>
+      <Text>这些创新将大大加强你的船队！</Text>
+    </Text>
+    <Text>
+      <GUID>1999003148</GUID>
+      <Text>拥有这些发明，你的敌人将没有任何获胜的机会！</Text>
+    </Text>
+
+    <Text>
+      <GUID>1999003156</GUID>
+      <Text>圣克鲁兹大酒店</Text>
+    </Text>
+    <Text>
+      <GUID>1999003158</GUID>
+      <Text>在圣克鲁兹岛的高山上，拉科罗纳帝国建造了一座宏伟的城堡，以保护该地区免受敌人的攻击。这片区域没落后，这座城堡就被废弃了。但多亏了你的承诺，城堡现在可能会焕发出新的光彩！</Text>
+    </Text>
+    <Text>
+      <GUID>1999003157</GUID>
+      <Text>圣克鲁兹大酒店</Text>
+    </Text>
+    <Text>
+      <GUID>1999003326</GUID>
+      <Text>圣克鲁兹大酒店</Text>
+    </Text>
+    <Text>
+      <GUID>1999003327</GUID>
+      <Text>通过你熟练的艺术家的辛勤工作，你已经成功地把古老的城堡废墟变成了一个豪华的大酒店，像一颗钻石一样闪耀在圣克鲁斯的山上。这里肯定会成为新大陆最受欢迎的旅游景点之一。</Text>
+    </Text>
+
+    <Text>
+      <GUID>1999003159</GUID>
+      <Text>圣克鲁兹大酒店：旅游热点</Text>
+    </Text>
+    <Text>
+      <GUID>1999003328</GUID>
+      <Text>由于圣克鲁兹大酒店的高知名度，越来越多的游客慕名而来参观这座象征着区域复兴的纪念碑！</Text>
+    </Text>
+
+    <Text>
+      <GUID>1999003162</GUID>
+      <Text>圣克鲁兹大酒店：旅游热点</Text>
+    </Text>
+    <Text>
+      <GUID>1999003329</GUID>
+      <Text>由于圣克鲁兹大酒店的高知名度，越来越多的独特游客抵达您当地的游客码头！</Text>
+    </Text>
+
+    <Text>
+      <GUID>1999003160</GUID>
+      <Text>圣克鲁兹大酒店：艺术圣地</Text>
+    </Text>
+    <Text>
+      <GUID>1999003161</GUID>
+      <Text>圣克鲁兹大酒店：艺术圣地</Text>
+    </Text>
+    <Text>
+      <GUID>1999003330</GUID>
+      <Text>由于圣克鲁兹大酒店的高知名度，越来越多技巧娴熟的艺术家到达你的城市，并入住所有空置的艺术家工作室，旧日城堡的轮廓在黄昏中勾勒出一幅独特盛景！</Text>
+    </Text>
+
+
+    <Text>
+      <GUID>1999003164</GUID>
+      <Text>瓦斯科的欢迎辞</Text>
+    </Text>
+    <Text>
+      <GUID>1999003165</GUID>
+      <Text>尽管一路上困难重重，你还是找到了通往玛雅贝克这片沃地的道路，瓦斯科欢迎你来到他曾经殖民政府的土地上。由于他的流放和他的继任者管理不善，这片土地现在变得贫瘠，曾经宏伟的圣克鲁兹城堡，瓦斯科前总督的住所，在岛上最高的山上化为了一片废墟。瓦斯科当然愿意讨论进一步的措施来帮助他的殖民地恢复昔日的辉煌！</Text>
+    </Text>
+
+    <Text>
+      <GUID>1999003166</GUID>
+      <Text>建立新殖民地</Text>
+    </Text>
+    <Text>
+      <GUID>1999003167</GUID>
+      <Text>有了瓦斯科提供的建筑材料，你现在可以在圣克鲁兹岛定居，并建立一个新的殖民地。但材料无法永远持续供应下去，所以要确保你尽快建立足够的供应链。城市的重建将消耗天量的建材！</Text>
+    </Text>
+
+    <Text>
+      <GUID>1999003168</GUID>
+      <Text>重振殖民地：一个新起点</Text>
+    </Text>
+    <Text>
+      <GUID>1999003169</GUID>
+      <Text>愿我们比之前来的人过得更好。我们需要尽快找到一些廉价劳动力来供应殖民地的所有需求！</Text>
+    </Text>
+    <Text>
+      <GUID>1999003170</GUID>
+      <Text>迈向新殖民帝国的第一步已经迈出。但是，没有居民的首都成何体统？你应该尽快吸引工人来发展产业，并确保你的新人口的所有需求都能得到满足。</Text>
+    </Text>
+
+    <Text>
+      <GUID>1999003171</GUID>
+      <Text>重振殖民地：圣克鲁兹堡</Text>
+    </Text>
+    <Text>
+      <GUID>1999003172</GUID>
+      <Text>我们应该咨询研究所附近居民的意见，我们如何才能最好地处理旧城堡遗址的修复。</Text>
+    </Text>
+    <Text>
+      <GUID>1999003173</GUID>
+      <Text>圣克鲁兹堡的废墟对于任何到访你的新首都的人来说都是一道真正的风景线。瓦斯科建议尽快开始对这栋建筑进行翻新。但是，如果没有适当的专业知识来评估历史建筑被时光损伤的情况，翻新反而可能会造成严重问题。瓦斯科告诉你，当地有一家研究古代马赛克风格古建筑的研究机构。他们当然可以提供一些指导，说明如何以最有效的方式完成修复城堡昔日辉煌的艰巨任务。
+
+研究所的负责人约斯卡·罗德里格斯同意派遣一组著名建筑专家来评估古建筑的破损情况，并与您的工人一起制定圣克鲁兹堡的修复计划。
+      </Text>
+    </Text>
+    <Text>
+      <GUID>1999003175</GUID>
+      <Text>约斯卡的建筑师小组</Text>
+    </Text>
+    <Text>
+      <GUID>1999003176</GUID>
+      <Text>我们一定会支持你修复古遗址的计划！我们将为后来者保留一段独特的当地历史。我将带上最优秀的专家，他们会起草一份详细的城堡修复计划。</Text>
+    </Text>
+    <Text>
+      <GUID>1999003177</GUID>
+      <Text>非常好，这正是我们推进这个项目进行所需要的！我们开始工作吧！</Text>
+    </Text>
+    <Text>
+      <GUID>1999003178</GUID>
+      <Text>派一艘船到约斯卡的港口，去接上建筑专家!</Text>
+    </Text>
+    <Text>
+      <GUID>1999003179</GUID>
+      <Text>把专家带到瓦斯科的旗舰，以开始翻新过程。</Text>
+    </Text>
+
+    <Text>
+      <GUID>1999003181</GUID>
+      <Text>重振殖民地：修缮第一步</Text>
+    </Text>
+    <Text>
+      <GUID>1999003182</GUID>
+      <Text>让我们从整修开始吧。我迫不及待地想看到这片废墟焕发出新的光彩！</Text>
+    </Text>
+    <Text>
+      <GUID>1999003183</GUID>
+      <Text>在专家完成他们的工作后，你现在就有了一个如何开始修缮圣克鲁兹堡的详细计划。你的工人必须搭建巨大的脚手架来保护残砖断瓦免受进一步的破坏。你还需要许多建筑材料，以便开始建筑的基建工程。建筑物的外缘可能会继续坍塌并坠入大海。
+
+要开始修复，你需要在圣克鲁兹的贸易站储存足够的建筑材料，然后像修复火灾后的废墟一样修复建筑。
+      </Text>
+    </Text>
+    
+    <Text>
+      <GUID>1999003185</GUID>
+      <Text>重振殖民地：修缮特遣队</Text>
+    </Text>
+    <Text>
+      <GUID>1999003186</GUID>
+      <Text>我们需要更多合格的艺术家来恢复城堡的旧日风貌！</Text>
+    </Text>
+    <Text>
+      <GUID>1999003187</GUID>
+      <Text>现在，修复城堡的第一个重要步骤已经完成，必须招募有才华的艺术家来将房间和地板恢复到原来的状态。瓦斯科希望尽可能忠实原貌地把他的故居变成一个崭新的、有吸引力的新式军校。这是加强新兴殖民舰队的迫切需要。</Text>
+    </Text>
+
+    <Text>
+      <GUID>1999003191</GUID>
+      <Text>重振殖民地：未来的争论</Text>
+    </Text>
+    <Text>
+      <GUID>1999003192</GUID>
+      <Text>瓦斯科坚持认为，新军事学院的收尾工作应该尽快开始！</Text>
+    </Text>
+    <Text>
+      <GUID>1999003331</GUID>
+      <Text>约斯卡呼吁将这座城堡用于慈善项目，这样该地区独特的传统文化就不会被遗忘。</Text>
+    </Text>
+    <Text>
+      <GUID>1999003193</GUID>
+      <Text>这是一个两难的选择。经过参与工作的专家学者的介绍，约斯卡知道了我们将城堡改造成军事学院的计划。她强烈谴责这种行为：世界不需要这个地区再出现一个强权！她现在热衷于保护这个地区的宝贵文化传统，并让全世界都能接触到它们。其目的是为该地区带来新的辉煌，吸引来自世界各地的人，他们可为这个被遗弃的地区创造新的财富。
+
+现在由我们来决定，在修缮工程的最后阶段执行谁的计划！
+        
+注：选择约斯卡的任务线，需要MOD“新世界旅游”（译者注：Nexusmods网搜索“New World Tourism”）和DLC“新世界的崛起”。</Text>
+    </Text>
+    <Text>
+      <GUID>1999003194</GUID>
+      <Text>这是一个两难的选择。经过参与工作的专家学者的介绍，约斯卡知道了我们将城堡改造成军事学院的计划。她强烈谴责这种行为：世界不需要这个地区再出现一个强权！她现在热衷于保护这个地区的宝贵文化传统，并让全世界都能接触到它们。其目的是为该地区带来新的辉煌，吸引来自世界各地的人，他们可为这个被遗弃的地区创造新的财富。
+        
+注：选择约斯卡的任务线，需要MOD“新世界旅游”（译者注：Nexusmods网搜索“New World Tourism”）和DLC“新世界的崛起”。
+      </Text>
+    </Text>
+    <Text>
+      <GUID>1999003195</GUID>
+      <Text>遵从瓦斯科的计划，把城堡变成军事学院。</Text>
+    </Text>
+    <Text>
+      <GUID>1999003196</GUID>
+      <Text>遵从约斯卡的计划，把城堡变成大酒店。</Text>
+    </Text>
+    <Text>
+      <GUID>1999003334</GUID>
+      <Text>瓦斯科感谢你坚定反对那些地方保护主义者！愿圣克鲁兹成长为一个伟大殖民帝国的首都永耀世间！</Text>
+    </Text>
+    <Text>
+      <GUID>1999003335</GUID>
+      <Text>约斯卡感谢你勇于承担责任！该工程的第一阶段现已完成。这是一个充满希望的起点。</Text>
+    </Text>
+
+    <Text>
+      <GUID>1999003197</GUID>
+      <Text>重振殖民地：新军事学院</Text>
+    </Text>
+    <Text>
+      <GUID>1999003198</GUID>
+      <Text>瓦斯科很高兴你支持他的计划，并敦促你最后进行最后的修改，以便终于可以开始整训新军，动员其新的殖民舰队。</Text>
+    </Text>
+
+    <Text>
+      <GUID>1999003300</GUID>
+      <Text>重振殖民地：原材料强国</Text>
+    </Text>
+    <Text>
+      <GUID>1999003301</GUID>
+      <Text>瓦斯科很高兴这座城堡终于有了新的用途。现在他想在经济和军事上提升该地区竞争力。</Text>
+    </Text>
+    <Text>
+      <GUID>1999003302</GUID>
+      <Text>在圣克鲁兹山上的城堡焕发出新的光彩之后，瓦斯科想让这个新建立的殖民地在世界舞台上占有一席之地。为实现这一目标，有必要将出口贸易推向新的高度。咖啡、棉花、烟草、朗姆酒和黄金在旧世界受到热捧。出口的利润可以用来进行新的军事计划，这也将使这片殖民地恢复其以前的繁荣。</Text>
+    </Text>
+    <Text>
+      <GUID>1999003306</GUID>
+      <Text>同时增加下列新世界商品的产量至超过指定的阈值：
+        咖啡: 50 t/min
+        棉花: 50 t/min
+        雪茄: 50 t/min
+        朗姆酒: 50 t/min
+        巧克力: 50 t/min
+        金矿石: 25 t/min</Text>
+    </Text>
+    <Text>
+      <GUID>1999003308</GUID>
+      <Text>建立新的生产建筑、使用工会或其他增益机制来增加目标商品的产量。您可以在统计菜单中跟踪您的进度。</Text>
+    </Text>
+
+    <Text>
+      <GUID>1999003303</GUID>
+      <Text>重振殖民地：军事新霸权</Text>
+    </Text>
+    <Text>
+      <GUID>1999003332</GUID>
+      <Text>从你当地的造船厂建造新的军舰。</Text>
+    </Text>
+    <Text>
+      <GUID>1999003307</GUID>
+      <Text>加强你在该地区的军事存在：
+在玛雅贝克地区至少拥有 [Conditions QuestCondition Amount] 艘军舰</Text>
+    </Text>
+
+    <Text>
+      <GUID>1999003310</GUID>
+      <Text>瓦斯科很高兴看到你把这片殖民地建设得无比强大。他对若奥国王的报复已经完成，他非常满意，把他的旗舰托付给你，然后回到了他在圣克鲁兹的乡间庄园。</Text>
+    </Text>
+    <Text>
+      <GUID>1999003311</GUID>
+      <Text>约斯卡很失望，认为你把这里变成了一个压迫人民的帝国，剥削这里的人民和这片历史悠久的土地。</Text>
+    </Text>
+
+    <Text>
+      <GUID>1999003312</GUID>
+      <Text>重振殖民地：山巅大酒店</Text>
+    </Text>
+    <Text>
+      <GUID>1999003313</GUID>
+      <Text>约斯卡很高兴你愿意按照她的建议把城堡重建成一个吸引游客的景观。</Text>
+    </Text>
+    <Text>
+      <GUID>1999003314</GUID>
+      <Text>约斯卡敦促你最终执行最后的任务，以将城堡准确地修复到历史上的状态。独特的粉刷工作，地板上的马赛克地砖和独特设计的内庭，作为当地特产市场，将吸引来自世界各地的人们，他们有强烈的愿望了解更多的当地文化历史。</Text>
+    </Text>
+    <Text>
+      <GUID>1999003336</GUID>
+      <Text>瓦斯科对你的失信感到震惊愤怒地退出了这个项目。</Text>
+    </Text>
+
+    <Text>
+      <GUID>1999003315</GUID>
+      <Text>重振殖民地：新旅游大国</Text>
+    </Text>
+    <Text>
+      <GUID>1999003316</GUID>
+      <Text>约斯卡很高兴这座城堡终于实现了新的用途。现在她想让你吸引来自世界各地的游客，以新的现代方式展示这片殖民地的新风貌。</Text>
+    </Text>
+    <Text>
+      <GUID>1999003317</GUID>
+      <Text>在圣克鲁兹山上的城堡焕发出新的光彩之后，约斯卡希望您吸引来自世界各地的游客，以新的现代方式展示这片殖民地的新风貌。为了给你的游客一个愉快的旅程，需要雇用一些工作人员，这应该也可以帮助该地区获得一个新的艺术声望。然而，除非这个岛被打磨得非常有吸引力，否则新来者不会大量到来！</Text>
+    </Text>
+    <Text>
+      <GUID>1999003318</GUID>
+      <Text>重振殖民地：钻石般闪耀</Text>
+    </Text>
+    <Text>
+      <GUID>1999003319</GUID>
+      <Text>在圣克鲁兹山上的城堡焕发出新的光彩之后，约斯卡希望您吸引来自世界各地的游客，以新的现代方式展示这片殖民地的新风貌。为了给你的游客一个愉快的旅程，需要雇用一些工作人员，这应该也可以帮助该地区获得一个新的艺术声望。然而，除非这个岛被打磨得非常有吸引力，否则新来者不会大量到来！</Text>
+    </Text>
+    <Text>
+      <GUID>1999003321</GUID>
+      <Text>增加圣克鲁兹的吸引力，在最著名的旅游指南中获得“精致的大城市”评级！</Text>
+    </Text>
+
+    <Text>
+      <GUID>1999003323</GUID>
+      <Text>瓦斯科对你放弃他的殖民帝国规划，转而支持这样规划的决定感到失望，并带着耻辱离开了这个地区。</Text>
+    </Text>
+    <Text>
+      <GUID>1999003324</GUID>
+      <Text>约斯卡很高兴你把这个地区建成了一个旅游胜地，以纪念她的文化和她祖先的历史艺术品。</Text>
+    </Text>
+    <Text>
+      <GUID>1999003338</GUID>
+      <Text>由于项目的压力，约斯卡决定让你负责新的圣克鲁兹大酒店，回到她的学术研究中。</Text>
+    </Text>
+
+    <Text>
+      <GUID>1999003339</GUID>
+      <Text>圣克鲁兹大酒店</Text>
+    </Text>
+
+    <Text>
+      <GUID>1999003341</GUID>
+      <Text>圣克鲁兹大酒店：高吸引力</Text>
+    </Text>
+    <Text>
+      <GUID>1999003342</GUID>
+      <Text>由于圣克鲁斯酒店的高知名度，越来越多的独家游客抵达您的岛屿住满了当地的每一家酒店！</Text>
+    </Text>
+    <Text>
+      <GUID>1999003343</GUID>
+      <Text>圣克鲁兹大酒店：高吸引力</Text>
+    </Text>
+    <Text>
+      <GUID>1999003344</GUID>
+      <Text>游客</Text>
+    </Text>
+
+    <Text>
+      <GUID>1999003345</GUID>
+      <Text>来自皇家的干预</Text>
+    </Text>
+    <Text>
+      <GUID>1999003346</GUID>
+      <Text>你的瞭望台报告一艘大帆船在地平线上缓慢靠近。这艘船悬挂着皇家旗帜，你预感到一些危机的到来。女王可能已经知道了瓦斯科的计划，现在正试图阻止你离开，以防止一个新的殖民大国的崛起。
+        
+你的二副走近你“将军，看起来有巡逻队在跟踪我们！我们应该如何对付他们？” 我们应该 &lt;b&gt;试着派一个代表团去谈判&lt;/b&gt;, &lt;b&gt;试着摆脱他们&lt;/b&gt; or &lt;b&gt;试着击沉他们&lt;/b&gt;？</Text>
+    </Text>
+    <Text>
+      <GUID>1999003347</GUID>
+      <Text>派一个代表团去谈判</Text>
+    </Text>
+    <Text>
+      <GUID>1999003348</GUID>
+      <Text>你那精明的外交家是成功的。他轻易地让雇佣兵们相信你的船正在去新大陆的路上去拜访女王的侄子，他是我们在当地殖民地的总督。</Text>
+    </Text>
+    <Text>
+      <GUID>1999003349</GUID>
+      <Text>看到这群吵吵闹闹的士兵，你的外交官开始结结巴巴地说：“哇…哇…我们要去塔卡土卡岛，去偷传说中的海盗宝藏！”
+
+一阵哄堂大笑。没有人相信他的话。也许还有别的办法能让大家相信你的行为是合理合法的？</Text>
+    </Text>
+    <Text>
+      <GUID>1999003350</GUID>
+      <Text>贿赂巡逻队，让他们忘记与你的遭遇。</Text>
+    </Text>
+    <Text>
+      <GUID>1999003351</GUID>
+      <Text>“有人看到你在旗舰上与敌人会面并与敌人密谋。无论你们讨论什么，这都被认为是叛国罪！这在女王陛下的海域是不可接受的。除非……”他古怪地眨着眼睛，“……我们可以协商一下?”</Text>
+    </Text>
+    <Text>
+      <GUID>1999003352</GUID>
+      <Text>接受</Text>
+    </Text>
+    <Text>
+      <GUID>1999003353</GUID>
+      <Text>所提供的财物让海盗们的眼睛明显睁大了。他们的领袖舔了舔嘴唇，比你想象的要快得多，你们达成了协议。代表团被送回，那艘差点毁了你殖民计划的船平静地消失在日落中。在别人有同样的想法之前，赶快行动吧。</Text>
+    </Text>
+    <Text>
+      <GUID>1999003354</GUID>
+      <Text>取消</Text>
+    </Text>
+    <Text>
+      <GUID>1999003355</GUID>
+      <Text>提供的财物微不足道。一阵窃窃私语传遍了海盗群。这位领导人舔了舔嘴唇，比任何人想象的都快，他把手枪对准了你的外交官的胸膛。代表团被扣留，船驶向皇家瀑布，以便移交代表团。至少你没有受到惩罚，但你失去了一些好手，很快影响了船员的情绪。</Text>
+    </Text>
+    <Text>
+      <GUID>1999003356</GUID>
+      <Text>让你手下的一个特殊人才把自己的意志强加于人。</Text>
+    </Text>
+    <Text>
+      <GUID>1999003357</GUID>
+      <Text>“这些不是你要找的水手!”催眠师一边在头目的脸上来回挥动怀表，一边一遍又一遍地重复。旁观者听着他说的每一句话。最后，领导说：“这些不是我们要找的水手！让他们去吧，他们的目的是高尚的。”
+
+        不等那头目重复确认，你的人就逃之夭夭了。他们一回到甲板上，你就立即起航，另一艘船慢慢地消失在海天线上。我们侥幸避免了一场大危机。
+      </Text>
+    </Text>
+
+    <Text>
+      <GUID>1999003358</GUID>
+      <Text>扬起帆，尽快离开那里，尽量别引起他人注意</Text>
+    </Text>
+    <Text>
+      <GUID>1999003359</GUID>
+      <Text>你的船员工作很努力，你的舵手工作很出色。风向很好，在地平线上追赶的船只迅速缩小到针尖大小。“我们把他们甩掉了！”你的二副欢呼道。“希望这是最后一次这样的相遇，”你回答到，“我们不能再耽搁了！”</Text>
+    </Text>
+    <Text>
+      <GUID>1999003360</GUID>
+      <Text>尽管你行动迅速，舵手技术也还过得去，但风向对你不利。地平线上的船越来越大，很快就要靠边了。我们必须尽快找到替代方案，否则我们明天就会被关在皇家瀑布的地牢里。</Text>
+    </Text>
+    <Text>
+      <GUID>1999003361</GUID>
+      <Text>试着做一个伪装，让这艘船看起来像一艘废弃的幽灵船。</Text>
+    </Text>
+    <Text>
+      <GUID>1999003362</GUID>
+      <Text>你的木匠很快就开始工作。他在船身这边钻个洞，那边挂个破帆。此外，桅杆弯了，甲板上有很多绿雾，谁也不知道是从哪里来的，但这些雾会灼伤你的眼睛和肺，而且它们很快弥散到了下层甲板。
+
+幽灵船伪装是完美的，敌舰实际上非常犹豫地接近，没有一个侦察兵敢踏上甲板。你的追击者很快就艰难地把船转向相反的方向，以免太靠近可怕的怪物。
+
+清理工作完成后，你就可以不受干扰地继续你的旅程了。</Text>
+    </Text>
+    <Text>
+      <GUID>1999003363</GUID>
+      <Text>你的人太慢了。敌人的船很快靠近，在你把它变成幽灵船的过程中抓住了你。
+
+“那是什么东西？”敌军首领嘲弄地对你喊道。“我们不怕鬼！但你应该害怕王权的力量。明天你们将因叛国罪被关进皇家瀑布监狱。”</Text>
+    </Text>
+    <Text>
+      <GUID>1999003364</GUID>
+      <Text>坚持你的计划，及时逃离追捕者，祈祷上帝让风起。</Text>
+    </Text>
+    <Text>
+      <GUID>1999003365</GUID>
+      <Text>感谢上帝，风起了，你把所有能找到的帆都挂在甲板上。你的船迅速加速，由于船帆面积的绝对优势，追赶者迅速缩小到地平线上的一个小点。</Text>
+    </Text>
+    <Text>
+      <GUID>1999003366</GUID>
+      <Text>上帝已经抛弃了你，风帆还在风中懒散地飘扬，没有一丝微风吹过。令人惊讶的是，你的追捕者有完美的条件，很快就赶上了你。
+
+“我看到的是什么样的大肥羊？对我们这群饥饿的人来说，你们正好是一顿美餐。你跑不远的，我们会确保这一点。从现在起，你被逮捕了。”</Text>
+    </Text>
+    
+    <Text>
+      <GUID>1999003367</GUID>
+      <Text>让追击者靠近，出人意料地向他开火</Text>
+    </Text>
+    <Text>
+      <GUID>1999003368</GUID>
+      <Text>追击者毫无防备地向你靠近。当它开始靠近时，你大喊：“开火！”然后一整个的舷侧的火力撕碎了敌人的船体。海水很快就开始涌入，几分钟后，他们的龙骨就向海底倾斜，并开始释放救生艇。
+
+“该死！”一个水手对你喊道。你希望这不是一个放虎归山的错误，继续你的旅程。毕竟幸存者要花很长时间才能回到皇家瀑布。</Text>
+    </Text>
+    <Text>
+      <GUID>1999003369</GUID>
+      <Text>当船靠近时，你下令开火。但你的士兵今天早上肯定吃了太多沙丁鱼，火力全部脱靶。敌舰越来越近了。我们现在该怎么办？</Text>
+    </Text>
+    <Text>
+      <GUID>1999003370</GUID>
+      <Text>试着带着你的人登上敌舰，俘虏船员</Text>
+    </Text>
+    <Text>
+      <GUID>1999003371</GUID>
+      <Text>当你的人用长绳转跳上敌人甲板上时，他们欢呼庆祝。一场短暂的混战爆发了，但敌人的船员被你的行为完全击溃了信心，在巨大压力下，他们被俘虏了。你可以不受干扰地继续你的旅程。</Text>
+    </Text>
+    <Text>
+      <GUID>1999003372</GUID>
+      <Text>用精锐炮手替换执勤舰员，进行第二发齐射，希望能造成更大的伤害</Text>
+    </Text>
+    <Text>
+      <GUID>1999003373</GUID>
+      <Text>终于击中了！船壳裂开，水淹没了敌舰。几分钟后，他们的龙骨就向海底倾斜，并开始释放救生艇。
+
+“该死！”一个水手对你喊道。你希望这不是一个放虎归山的错误，继续你的旅程。毕竟幸存者要花很长时间才能回到皇家瀑布。</Text>
+    </Text>
+    <Text>
+      <GUID>1999003374</GUID>
+      <Text>似乎没有什么用。尽管更换了操作人员，炮弹仍然落在距离敌舰艏几米远的地方。
+
+敌船毫不犹豫地驶来，士兵包围了你的船员。“你跑不掉的，我们会确保这一点。从现在起，你被逮捕了！”</Text>
+    </Text>
+    <Text>
+      <GUID>1999003375</GUID>
+      <Text>放弃逃跑，面对追捕你的人</Text>
+    </Text>
+    <Text>
+      <GUID>1999003376</GUID>
+      <Text>“你跑不掉的，我们会确保这一点。从现在起，你被逮捕了！”</Text>
+    </Text>
+
+    <Text>
+      <GUID>1999003377</GUID>
+      <Text>重振殖民地：若奥王干预</Text>
+    </Text>
+    <Text>
+      <GUID>1999003378</GUID>
+      <Text>小心，若奥王派出了他的皇家海军去玛雅贝克地区摧毁我们的殖民地。快快自卫！</Text>
+    </Text>
+    <Text>
+      <GUID>1999003379</GUID>
+      <Text>当心，若奥国王受够了我们野心勃勃的殖民计划，他派出了他的代表埃德蒙多·瓦拉来将我们的殖民地从地图上彻底抹去。你的新殖民舰队现在应该足够强大，可以轻松消灭对手。捍卫你的新兴帝国，对抗若奥国王的要求，并击败他的最后一支队伍。你的殖民主张因此得到了保障，他的大部分舰队的损失使国王若奥国王的帝国濒临崩溃的边缘。</Text>
+    </Text>
+
+
+    <Text>
+      <GUID>1999003387</GUID>
+      <Text>天然气矿床</Text>
+    </Text>
+    <Text>
+      <GUID>1999003388</GUID>
+      <Text>天然气在这里的地下积聚。在矿床上构建天然气抽取站模块以利用天然气。</Text>
+    </Text>
+    <Text>
+      <GUID>1999003390</GUID>
+      <Text>飞船月台</Text>
+    </Text>
+    <Text>
+      <GUID>1999003391</GUID>
+      <Text>新世界天然气矿</Text>
+    </Text>
+    <Text>
+      <GUID>1999003392</GUID>
+      <Text>天然气抽取站</Text>
+    </Text>
+    <Text>
+      <GUID>1999003393</GUID>
+      <Text>电力</Text>
+    </Text>
+    <Text>
+      <GUID>191042</GUID>
+      <Text>所有钻机</Text>
+    </Text>
+    <Text>
+      <GUID>112706</GUID>
+      <Text>天然气</Text>
+    </Text>
+
+    <Text>
+      <GUID>1999003394</GUID>
+      <Text>美洲虎猎捕量</Text>
+    </Text>
+    <Text>
+      <GUID>1999003396</GUID>
+      <Text>美洲虎狩猎小屋</Text>
+    </Text>
+    <Text>
+      <GUID>1999003397</GUID>
+      <Text>美洲虎毛皮</Text>
+    </Text>
+    <Text>
+      <GUID>1999003398</GUID>
+      <Text>美洲虎的毛皮。非常罕见，非常珍贵，但不幸的是，它在运输过程中失去了颜色。</Text>
+    </Text>
+
+    <Text>
+      <GUID>1999003402</GUID>
+      <Text>悬崖岛</Text>
+    </Text>
+    <Text>
+      <GUID>1999003403</GUID>
+      <Text>帕洛玛指出了玛雅贝克地区有5个悬崖岛，这些岛只能用飞艇来殖民。</Text>
+    </Text>
+    <Text>
+      <GUID>1999003404</GUID>
+      <Text>登山者有五个悬崖岛，只有飞艇才能到达。帕洛玛会向你展示拥有这些岛屿的优势。在她本区域的前哨中找到她，来了解更多关于这些岛的独特之处。</Text>
+    </Text>
+
+    <Text>
+      <GUID>1999003405</GUID>
+      <Text>登山者</Text>
+    </Text>
+    <Text>
+      <GUID>1999003406</GUID>
+      <Text>帕洛玛很乐意为你提供她的一艘飞艇来加速殖民该地区的进程。</Text>
+    </Text>
+    <Text>
+      <GUID>1999003407</GUID>
+      <Text>帕洛玛已经给了你一艘她的飞艇，现在由你来决定你想先殖民五个岛屿中的哪一个。只要带上常用的建筑材料，驾驶你的飞艇在其中一个岛屿上，就可以开始在那块未知的土地上殖民。</Text>
+    </Text>
+    <Text>
+      <GUID>1999003409</GUID>
+      <Text>在玛雅贝克地区的五个悬崖岛屿之一上建造一个飞船月台</Text>
+    </Text>
+    <Text>
+      <GUID>1999003410</GUID>
+      <Text>一个岛搞定了，但如果我们真的想发展起来，我们需要在所有的悬崖岛屿上都建立一个飞船月台。</Text>
+    </Text>
+
+    <Text>
+      <GUID>1999003411</GUID>
+      <Text>帕洛玛陷入骗局</Text>
+    </Text>
+    <Text>
+      <GUID>1999003412</GUID>
+      <Text>帕洛玛提到她想用固态天然气作为她最新的飞艇实验的填充材料，这吸引了你的注意力。</Text>
+    </Text>
+    <Text>
+      <GUID>1999003413</GUID>
+      <Text>每个悬崖岛都有一些来自北极的天然气储量，你现在可以利用这些天然气来改善旧世界的能源供应。注意，一些以前仅限于北极小屋的物品现在可以用来促进新世界的新悬崖岛屿上的生产建筑。</Text>
+    </Text>
+
+    <Text>
+      <GUID>1999003414</GUID>
+      <Text>熊毛皮问题</Text>
+    </Text>
+    <Text>
+      <GUID>1999003415</GUID>
+      <Text>帕洛玛指出，在孤立的悬崖岛屿上有罕见的美洲虎种群。</Text>
+    </Text>
+    <Text>
+      <GUID>1999003416</GUID>
+      <Text>由于地理位置偏僻，这些悬崖岛屿仍然拥有相当数量的美洲虎。但是，谁会想到用这种威严动物的皮毛来做壁炉地毯呢？
+
+好吧，实际上，如果你决定“耗尽”悬崖岛上的美洲虎种群，并将毛皮运往旧世界，你的投资者可以从中获利。不幸的是，毛皮在漫长的运输过程中会失去一些颜色，但我认为它们很容易被当作北极熊皮卖给容易上当受骗的投资者。
+
+注意，由于它们的生产地点，美洲虎毛皮只能通过飞艇贸易路线进行交易！</Text>
+    </Text>
+
+    <Text>
+      <GUID>1999003417</GUID>
+      <Text>帕洛玛很高兴她的飞艇能够帮助你的帝国快速成长。</Text>
+    </Text>
+
+    <Text>
+      <GUID>1999003418</GUID>
+      <Text>圣克鲁兹的建设：
+[Conditions QuestCondition CurrentAmount]/[Conditions QuestCondition Amount] [AssetData([Conditions QuestCondition Context]) Text]</Text>
+    </Text>
+    <Text>
+      <GUID>1999003420</GUID>
+      <Text>通过飞艇路线将美洲虎毛皮运送到旧大陆，以产生以下产品：
+[Conditions QuestCondition CurrentAmount]/[Conditions QuestCondition Amount]t [AssetData([Conditions QuestCondition Context]) Text]</Text>
+    </Text>
+    <Text>
+      <GUID>1999003421</GUID>
+      <Text>悬崖岛屿的建设：
+[Conditions QuestCondition CurrentAmount]/[Conditions QuestCondition Amount] 新世界天然气矿</Text>
+    </Text>
+    <Text>
+      <GUID>1999003423</GUID>
+      <Text>感谢您对我的研究所做的贡献。让我们快速填充这个飞艇进行测试，看看它的新功能。等等，那是什么？我听到了爆炸声！哦，不，到处都是火！快去拿灭火器！看来这种气体不适合我的现代飞艇。太不稳定了。我现在还是用氦吧，尽管这种新气体可能有一些优势。但对我的企业来说，它太危险了。我不能再冒险让我的舰队损失了。你留着吧，我用不着它了。</Text>
+    </Text>
+
+    <Text>
+      <GUID>1999003425</GUID>
+      <Text>圣克鲁兹堡的废墟</Text>
+    </Text>
+    <Text>
+      <GUID>1999003427</GUID>
+      <Text>完成翻新准备任务</Text>
+    </Text>
+    <Text>
+      <!-- TODO translation -->
+      <GUID>1999003428</GUID>
+      <Text>Preparation Quests for the Renovation</Text>
+    </Text>
+
+    <Text>
+      <!-- TODO translation -->
+      <GUID>114289</GUID>
+      <Text>Extracts natural gas from gas deposits.</Text>
+    </Text>
+
+    <Text>
+      <!-- TODO translation -->
+      <GUID>1999003429</GUID>
+      <Text>Build in Mayabeque:
+[Conditions QuestCondition CurrentAmount]/[Conditions QuestCondition Amount] [AssetData([Conditions QuestCondition Context]) Text]</Text>
+    </Text>
+    <Text>
+      <!-- TODO translation -->
+      <GUID>1999003430</GUID>
+      <Text>The Bear Fur Problem</Text>
+    </Text>
+    <Text>
+      <!-- TODO translation -->
+      <GUID>1999003432</GUID>
+      <Text>Create a mail traderoute transporting Jaguar Furs from Mayabeque to the Old World.</Text>
+    </Text>
+    <Text>
+      <!-- TODO translation -->
+      <GUID>1999003433</GUID>
+      <Text>The Bear Fur Problem</Text>
+    </Text>
+    <Text>
+      <!-- TODO translation -->
+      <GUID>1999003435</GUID>
+      <Text>To obtain bear furs from jaguar furs, you need to send them to the Old World region via a dedicated airmail route. You can establish these directly from here, or through the menu in the airmail sorting office.</Text>
+    </Text>
+    <Text>
+      <!-- TODO translation -->
+      <GUID>1999003436</GUID>
+      <Text>You can create a new airmail route from here. Airmail routes can only be established between islands that have airship platforms and mail sorting modules attached to them. Load jaguar furs on the trade route, and it will automatically become bear fur when arriving on an Old World island.</Text>
+    </Text>
+   
+    <Text>
+      <!-- TODO translation -->
+      <GUID>1999003438</GUID>
+      <Text>Dear Friend,
+Recently, I came across some alarming research regarding the rapidly declining jaguar population in certain parts of our region, and I felt compelled to share this information with you. It has come to my attention that, unfortunately, your hunting activities outside of the demarked terretories have played a significant role in this distressing situation.
+
+The research indicates that if we continue at this current rate, the jaguar population is at serious risk of extinction in the near future. I know how much you value our local wildlife, and I believe it's crucial for us to take immediate action to address this issue.
+
+Therefore I have taken it upon myself to act in the best interest of our ecosystem. As a first step, I felt that dismantling those jaguar hunting cabins in the region, that you have constructed outside of the specified territories, was necessary. I understand that this may come as a surprise, and I want to assure you that my intention is not to impose judgment but rather to protect the delicate balance of our local environment.
+
+I believe that by removing these hunting cabins, we send a clear message that we are committed to preserving the natural habitats of our region and safeguarding the jaguar population from further harm. I hope you understand the urgency of the situation and can support this effort to reverse the trend of declining jaguar numbers. Together, we can make a difference and ensure that future generations have the opportunity to witness the beauty and majesty of these incredible creatures.
+
+Best regards,
+
+Yaosca Rodriguez
+      </Text>
+    </Text>
+    <Text>
+      <!-- TODO translation -->
+      <GUID>1999003440</GUID>
+      <Text>Jaguar Hunting Cabin</Text>
+    </Text>
+    <Text>
+      <!-- TODO translation -->
+      <GUID>1999003442</GUID>
+      <Text>Jaguar Hunting Cabin</Text>
+    </Text>
+
+    <Text>
+      <!-- TODO translation -->
+      <GUID>1999003445</GUID>
+      <Text>Sky Trading Post</Text>
+    </Text>
+    <Text>
+      <!-- TODO translation -->
+      <GUID>1999003446</GUID>
+      <Text>Sky Trading Post</Text>
+    </Text>
+
+    <Text>
+      <!-- TODO translation -->
+      <GUID>1999003450</GUID>
+      <Text>Restoring the Colony: The Colonial Export Imperium</Text>
+    </Text>
+
+    <Text>
+      <!-- TODO translation -->
+      <GUID>1999003453</GUID>
+      <Text>Santa Cruz Grand Hotel: High Attraction</Text>
+    </Text>
+  </ModOp>
+</ModOps>

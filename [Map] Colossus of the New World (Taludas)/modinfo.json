@@ -1,0 +1,90 @@
+{
+  "Version": "1.0.11",
+  "ModID": "Taludas_NewWorldExpanded_Mayabeque",
+  "IncompatibleIds": [
+  ],
+  "LoadAfterIDs": [
+    "FamTaubeLexy_NewWorldHotels",
+    "jakob_new_world_cities",
+    "shared_combi_allocations_kurila"
+  ],
+  "ModDependencies": [
+    "shared_combi_allocations_kurila"
+  ],
+  "Category": {
+    "Chinese": "Map",
+    "English": "Map",
+    "French": "Map",
+    "German": "Map",
+    "Italian": "Map",
+    "Japanese": "Map",
+    "Korean": "Map",
+    "Polish": "Map",
+    "Russian": "Map",
+    "Spanish": "Map",
+    "Taiwanese": "Map"
+  },
+  "ModName": {
+    "Chinese": "Colossus of the New World: Finding Mayabeque (Taludas)",
+    "English": "Colossus of the New World: Finding Mayabeque (Taludas)",
+    "French": "Colossus of the New World: Finding Mayabeque (Taludas)",
+    "German": "Koloss der Neuen Welt: Expedition nach Mayabeque (Taludas)",
+    "Italian": "Colossus of the New World: Finding Mayabeque (Taludas)",
+    "Japanese": "Colossus of the New World: Finding Mayabeque (Taludas)",
+    "Korean": "Colossus of the New World: Finding Mayabeque (Taludas)",
+    "Polish": "Colossus of the New World: Finding Mayabeque (Taludas)",
+    "Russian": "Colossus of the New World: Finding Mayabeque (Taludas)",
+    "Spanish": "Colossus of the New World: Finding Mayabeque (Taludas)",
+    "Taiwanese": "Colossus of the New World: Finding Mayabeque (Taludas)"
+  },
+  "Description": {
+    "Chinese": null,
+    "English": "A DLC sized mod that adds a second New World session to the game, including a 15-quest long story with two different ends, a converted Crown Falls continental island and some other fancy stuff like two new Monuments with unique effects, two new Traders and another way to generate 'arctic gas' and 'bear furs'.",
+    "French": null,
+    "German": "Eine Mod in DLC-Größe, die dem Spiel eine zweite Neue Welt-Session hinzufügt, einschließlich einer 15 Quests langen Geschichte mit zwei verschiedenen Enden, einer retexturierten Crown Falls Kontinentalinsel und einigen anderen außergewöhnlichen Extras wie zwei neuen Monumenten mit einzigartigen Effekten, zwei neuen Händlern und einer weiteren Möglichkeit, 'arktisches Gas' und 'Bärenfelle' zu produzieren.",
+    "Italian": null,
+    "Japanese": null,
+    "Korean": null,
+    "Polish": null,
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  },
+  "KnownIssues": 
+  [
+    {
+      "Chinese": null,
+      "English": null,
+      "French": null,
+      "German": null,
+      "Italian": null,
+      "Japanese": null,
+      "Korean": null,
+      "Polish": null,
+      "Russian": null,
+      "Spanish": null,
+      "Taiwanese": null
+    }
+  ],
+  "DLCDependencies": [
+    {
+      "DLC": "ThePassage",
+      "Dependant": "partly"
+    },    
+    {
+      "DLC": "Tourism",
+      "Dependant": "partly"
+    },
+    {
+      "DLC": "EmpireOfTheSkies",
+      "Dependant": "partly"
+    },
+    {
+      "DLC": "NewWorldRising",
+      "Dependant": "partly"
+    }
+  ],
+  "CreatorName": "Taludas",
+  "CreatorContact": "https://github.com/Taludas/NewWorldExpanded",
+  "Image": null
+}

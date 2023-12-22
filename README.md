@@ -2,11 +2,11 @@
 
 ![Thumbnail](https://user-images.githubusercontent.com/64583643/189413460-86d79429-272c-4c3a-b243-3733c109e044.png)
 
- This mod enhances the New World map generation with reskinned OW Islands and fresh map templates for more variety and replayability of the game.
+ This mod enhances the New World map generation with reskinned OW Islands and fresh map templates for more variety and replayability of the game. There is also "Colossus of the New World: Finding Mayabeque" which adds a completely new session to the New World region for you to explore.
 
  Für die deutsche Version des readmes, bitte [hier](readme_german.md) klicken.
  
- If you like this mod and want to support me, feel free to share it with your friends. You can also buy me a coffee at Ko-Fi (yes, I want to raise my coffee consume to Investor's height!)
+ If you like this mod and want to support me, feel free to share it with your friends. You can also buy me a coffee at Ko-Fi!
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W8L558T)
 
@@ -16,13 +16,18 @@
 - Either use [iModYourAnno](https://github.com/anno-mods/iModYourAnno/releases) mod manager or know [how to install mods manually](https://github.com/jakobharder/anno1800-mod-loader#mods).
 - If you download the mod manually, use the archive from [GitHub releases](https://github.com/Taludas/NewWorldExpanded/releases). Don't download the whole repo! (If you do the latter, you will find yourself with missing island mesh files! -> Invisible islands)
 
-**FOR THIS MOD TO WORK PROPERLY YOU NEED TO LOAD/START A NEW SAVE (OR AT LEAST ONE WITHOUT THE NW DISCOVERED)!!! I higly suggest that you use a mod like "Easy seed search" from [Spice it up](https://github.com/anno-mods/Spice-it-Up) for testing before you commit much time into a new playthrough.**
-
-If you want to get a taste of what content is in the pipeline, have a look into this teaser video:
-[![Crown Falls in the New World?!](https://user-images.githubusercontent.com/64583643/189425612-91673a91-7dad-4fa3-8a97-8a10d0888cd6.jpg)](https://youtu.be/wSqFEBe8ZmY)
-
 ## Changelog
 
+<details>
+    <summary>Patch Notes Version 3.0.0</summary>
+
+* Additions:
+    - Added "Colossus of the New World: Finding Mayabeque". For more information about this mod please visit the mod page on [mod.io](https://mod.io/g/anno-1800/m/colossus-of-the-new-world-finding-mayabeque)
+
+* Updates:
+    - Adjusted the mod "Muddy Rivers Removed" for GU18:
+      - Drastically reduce file size with the new possibilities of Loader11.
+</details>
 <details>
     <summary>Patch Notes Version 2.0.0</summary>
 
@@ -107,3 +112,20 @@ This module contains 3 new map templates for each region size (large, medium, sm
 ![banner_rivercolour](https://user-images.githubusercontent.com/64583643/189413458-592e3a64-f896-42ed-a016-98c2d7551e0b.png)
 ## New World Expanded: River Colour
 This module only changes the vanilla islands river colour to blue instead of the muddy brown so you can have more of a tropical paradise instead of an Amazonas feeling.
+
+-----
+
+![banner_colossus](https://github.com/Taludas/NewWorldExpanded/assets/64583643/c4aaa035-478a-49c6-9db0-7f7abbabac12)
+## Colossus of the New World: Finding Mayabeque
+
+Follow Vasco Oliveira into the lands of his former colonial administration! After his humiliating defeat in Crown Falls and his rehabilitation in the "Season of Silver", he now seeks revenge on his former master: King Joao of La Corona. As the previous events have taken their toll on his constitution, he asks you for help: accept his invitation and find a way to the forgotten colony settlements of Mayabeque (Pronounced "Majabek"). Support him in his endeavour to lead the diminished colonial power to new glory! But be careful, your journey may not go unnoticed and not everyone will support your plans for the lands of Mayabeque...
+
+A DLC sized mod that adds a second New World session to the game, including a 15-quest long story with two different ends, a converted Crown Falls continental island and some other fancy stuff like two new Monuments with unique effects, two new Traders and another new way to generate more 'arctic gas' and 'bear furs'.
+
+The main addition of "Colossus of the New World" is a new region called Mayabeque, unlocked after completing a series of Quest and an Expedition available once you house 1 Investor. The Expedition also features one completely custom Expedition Event. (If you want to explore all decisions of the Event, bring a medicore boat and not the best items, otherwise you might be able to skip the event on the first decisions. Also save before the Event to explore all endings.)
+
+It is a second New World region and consists of a mixture of different island sizes with one of them being unique, it is the big continental island named "Santa Cruz", located in the eastern part of the region. Some of you may identify Crown Falls, but it has been fully converted to the New World setting with adapted textures and props. The session also features a set of five unique coast-free islands known from the "Clash of Couriers" Scenario. These cliff islands can only be settled via Airship (if you want to utilise these Cliff islands to their full potential, you will need the "Empires of the Skies" DLC enabled to settle them) and feature some rare ressources, you will surely try to exploit to provide your Investors with their sophisticated needs. To support your local economy, two new traders have established warehouses in the new region. Otherwise the Gameplay in this region, including available population, buildings, goods, resources and fertilities etc. is the same as in the rest of the New World. 
+
+The DLC includes a 15-quest long storyline which surrounds the build-up of the new colonial power, assisted by a well known character of another DLC. The questline has two unique endings, so to explore all possibilites of the story, you may want to start a second game to discover which one suits your playstyle best. While following the questline you will get the option to build up one of two versions of a unique monument on Santa Cruz island, either benefiting your military and trading fleet or boosting your Tourism Empire to a new level (To complete this part of the Questline you will need the "New World Rising" and "Tourist Season" DLCs and the Mod "New World Tourism" enabled.)
+
+For further information and some pictures from the mod, visit its site on [mod.io](https://mod.io/g/anno-1800/m/colossus-of-the-new-world-finding-mayabeque)

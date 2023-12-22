@@ -1,0 +1,210 @@
+<ModOps>
+  <!-- Trade Union and Harbormaster Office -->
+    <Group>
+      <ModOp Type="addNextSibling" GUID='2346'>
+        <Asset>
+          <Template>Text</Template>
+          <Values>
+            <Standard>
+              <GUID>1500301994</GUID>
+              <Name>Trade_Union_Harbormaster_Allocation</Name>
+              <IconFilename>data/ui/2kimages/main/kurila/icon_guildhouse_harbor_master.png</IconFilename>
+            </Standard>
+          </Values>
+        </Asset>
+      </ModOp>
+      <ModOp Type="add" GUID="6000017" Path="/Values/ItemConfig/AllocationIcons">
+        <Item>
+          <Allocation>Mod1</Allocation>
+          <AllocationIcon>data/ui/2kimages/main/kurila/icon_guildhouse_harbor_master.png</AllocationIcon>
+        </Item>
+      </ModOp>
+      <ModOp Type="add" GUID="6000017" Path="/Values/ItemConfig/AllocationText">
+        <Mod1>
+          <Text>1500301994</Text>
+        </Mod1>
+      </ModOp>
+    </Group>
+  <!-- Trade Union and Town Hall -->
+    <Group>
+      <ModOp Type="addNextSibling" GUID='2346'>
+        <Asset>
+          <Template>Text</Template>
+          <Values>
+            <Standard>
+              <GUID>1500301995</GUID>
+              <Name>Trade_Union_TownHall_Allocation</Name>
+              <IconFilename>data/ui/2kimages/main/kurila/icon_guildhouse_townhall.png</IconFilename>
+            </Standard>
+          </Values>
+        </Asset>
+      </ModOp>
+      <ModOp Type="add" GUID="6000017" Path="/Values/ItemConfig/AllocationIcons">
+        <Item>
+          <Allocation>Mod5</Allocation>
+          <AllocationIcon>data/ui/2kimages/main/kurila/icon_guildhouse_townhall.png</AllocationIcon>
+        </Item>
+      </ModOp>
+      <ModOp Type="add" GUID="6000017" Path="/Values/ItemConfig/AllocationText">
+        <Mod5>
+          <Text>1500301995</Text>
+        </Mod5>
+      </ModOp>
+    </Group>
+  <!-- Lodge and Harbormaster Office -->
+    <Group>
+      <ModOp Type="addNextSibling" GUID='2346'>
+        <Asset>
+          <Template>Text</Template>
+          <Values>
+            <Standard>
+              <GUID>1500301991</GUID>
+              <Name>Lodge_Harbormaster_Allocation</Name>
+              <IconFilename>data/ui/2kimages/main/kurila/icon_lodge_harbor_master.png</IconFilename>
+            </Standard>
+          </Values>
+        </Asset>
+      </ModOp>
+      <ModOp Type="add" GUID="6000017" Path="/Values/ItemConfig/AllocationIcons">
+        <Item>
+          <Allocation>Mod2</Allocation>
+          <AllocationIcon>data/ui/2kimages/main/kurila/icon_lodge_harbor_master.png</AllocationIcon>
+        </Item>
+      </ModOp>
+      <ModOp Type="add" GUID="6000017" Path="/Values/ItemConfig/AllocationText">
+        <Mod2>
+          <Text>1500301991</Text>
+        </Mod2>
+      </ModOp>
+    </Group>
+  <!-- Lodge and Trade Union -->
+    <Group>
+      <ModOp Type="addNextSibling" GUID='2346'>
+        <Asset>
+          <Template>Text</Template>
+          <Values>
+            <Standard>
+              <GUID>1500301992</GUID>
+              <Name>Lodge_Trade_Union_Allocation</Name>
+              <IconFilename>data/ui/2kimages/main/kurila/icon_guildhouse_lodge.png</IconFilename>
+            </Standard>
+          </Values>
+        </Asset>
+      </ModOp>
+      <ModOp Type="add" GUID="6000017" Path="/Values/ItemConfig/AllocationIcons">
+        <Item>
+          <Allocation>Mod3</Allocation>
+          <AllocationIcon>data/ui/2kimages/main/kurila/icon_guildhouse_lodge.png</AllocationIcon>
+        </Item>
+      </ModOp>
+      <ModOp Type="add" GUID="6000017" Path="/Values/ItemConfig/AllocationText">
+        <Mod3>
+          <Text>1500301992</Text>
+        </Mod3>
+      </ModOp>
+    </Group>
+  <!-- Lodge and Town Hall -->
+    <Group>
+      <ModOp Type="addNextSibling" GUID='2346'>
+        <Asset>
+          <Template>Text</Template>
+          <Values>
+            <Standard>
+              <GUID>1500301993</GUID>
+              <Name>Lodge_Town_Hall_Allocation</Name>
+              <IconFilename>data/ui/2kimages/main/kurila/icon_townhall_lodge.png</IconFilename>
+            </Standard>
+          </Values>
+        </Asset>
+      </ModOp>
+      <ModOp Type="add" GUID="6000017" Path="/Values/ItemConfig/AllocationIcons">
+        <Item>
+          <Allocation>Mod4</Allocation>
+          <AllocationIcon>data/ui/2kimages/main/kurila/icon_townhall_lodge.png</AllocationIcon>
+        </Item>
+      </ModOp>
+      <ModOp Type="add" GUID="6000017" Path="/Values/ItemConfig/AllocationText">
+        <Mod4>
+          <Text>1500301993</Text>
+        </Mod4>
+      </ModOp>
+    </Group>
+  <!-- Add new Allocations to Buildings -->
+    <Group>
+      <ModOp Type="merge" GUID="1010516,101284,117858" Path="/Values/ItemContainer">
+        <SocketAllocation>RadiusBuilding;Guildhouse;Mod1;Mod3;Mod5</SocketAllocation>
+      </ModOp>
+      <ModOp Type="merge" GUID="112678" Path="/Values/ItemContainer">
+        <SocketAllocation>RadiusBuilding;Lodge;Mod2;Mod3;Mod4</SocketAllocation>
+      </ModOp>
+      <ModOp Type="merge" GUID="100415,101285,117859" Path="/Values/ItemContainer">
+        <SocketAllocation>RadiusBuilding;Townhall;Mod4;Mod5</SocketAllocation>
+      </ModOp>
+      <ModOp Type="merge" GUID="100586,101286,117860" Path="/Values/ItemContainer">
+        <SocketAllocation>RadiusBuilding;HarborOffice;Mod1;Mod2</SocketAllocation>
+      </ModOp>
+    </Group>
+  <!-- Item Filters -->
+    <Group>
+      <!-- General -->
+        <Group>
+          <ModOp Type="merge" GUID="501516" Path="/Values/ItemFilter/ItemCategories/Item[1]/ItemTypes">
+            <ItemTypes>None;RadiusBuilding;GuildHouse;TownHall;HarborOffice;Headquarter;Culture;Zoo;BotanicGarden;Museum;Ship;SailShip;SteamShip;Expedition;Warship;Tradeship;DivingVessel;Pavilion;AirShip;Lodge;BuildPermit;Dockland;Mod1;Mod2;Mod3;Mod4;Mod5</ItemTypes>
+          </ModOp>
+          <ModOp Type="merge" GUID="501516" Path="/Values/ItemFilter/ItemCategories/Item[3]/ItemTypes">
+            <ItemTypes>GuildHouse;Mod1;Mod3;Mod5</ItemTypes>
+          </ModOp>
+          <ModOp Type="merge" GUID="501516" Path="/Values/ItemFilter/ItemCategories/Item[4]/ItemTypes">
+            <ItemTypes>HarborOffice;Mod1;Mod2</ItemTypes>
+          </ModOp>
+          <ModOp Type="merge" GUID="501516" Path="/Values/ItemFilter/ItemCategories/Item[5]/ItemTypes">
+            <ItemTypes>TownHall;Mod4;Mod5</ItemTypes>
+          </ModOp>
+        </Group>
+      <!-- Arctic -->
+        <Group>
+          <ModOp Type="merge" GUID="502015" Path="/Values/ItemFilter/ItemCategories/Item[1]/ItemTypes">
+            <ItemTypes>None;RadiusBuilding;GuildHouse;TownHall;HarborOffice;Headquarter;Culture;Zoo;BotanicGarden;Museum;Ship;SailShip;SteamShip;Expedition;Warship;Tradeship;DivingVessel;Pavilion;AirShip;Lodge;Mod1;Mod2;Mod3;Mod4;Mod5</ItemTypes>
+          </ModOp>
+          <ModOp Type="merge" GUID="502015" Path="/Values/ItemFilter/ItemCategories/Item[3]/ItemTypes">
+            <ItemTypes>Lodge;Mod2;Mod3;Mod4</ItemTypes>
+          </ModOp>
+          <ModOp Type="add" GUID="502015" Path="/Values/ItemFilter/ItemCategories">
+            <Item>
+              <CategoryAsset>18024</CategoryAsset>
+              <ItemTypes>HarborOffice;Mod1;Mod2</ItemTypes>
+            </Item>
+          </ModOp>
+        </Group>
+      <!-- Crafting General -->
+        <Group>
+          <ModOp Type="merge" GUID="113879" Path="/Values/ItemFilter/ItemCategories/Item[1]/ItemTypes">
+            <ItemTypes>None;RadiusBuilding;GuildHouse;TownHall;HarborOffice;Headquarter;Culture;Zoo;BotanicGarden;Museum;Ship;SailShip;SteamShip;Expedition;Warship;Tradeship;DivingVessel;Pavilion;AirShip;Lodge;Mod1;Mod2;Mod3;Mod4;Mod5</ItemTypes>
+          </ModOp>
+          <ModOp Type="merge" GUID="113879" Path="/Values/ItemFilter/ItemCategories/Item[4]/ItemTypes">
+            <ItemTypes>GuildHouse;Lodge;Mod2;Mod3;Mod5</ItemTypes>
+          </ModOp>
+          <ModOp Type="merge" GUID="113879" Path="/Values/ItemFilter/ItemCategories/Item[5]/ItemTypes">
+            <ItemTypes>HarborOffice;Mod1;Mod2</ItemTypes>
+          </ModOp>
+          <ModOp Type="merge" GUID="113879" Path="/Values/ItemFilter/ItemCategories/Item[6]/ItemTypes">
+            <ItemTypes>TownHall;Mod4;Mod5</ItemTypes>
+          </ModOp>
+        </Group>
+      <!-- Crafting Arctic -->
+        <Group>
+          <ModOp Type="merge" GUID="116632" Path="/Values/ItemFilter/ItemCategories/Item[1]/ItemTypes">
+            <ItemTypes>None;RadiusBuilding;GuildHouse;TownHall;HarborOffice;Headquarter;Culture;Zoo;BotanicGarden;Museum;Ship;SailShip;SteamShip;Expedition;Warship;Tradeship;DivingVessel;Pavilion;AirShip;Lodge;Mod1;Mod2;Mod3;Mod4;Mod5</ItemTypes>
+          </ModOp>
+          <ModOp Type="merge" GUID="116632" Path="/Values/ItemFilter/ItemCategories/Item[2]/ItemTypes">
+            <ItemTypes>Lodge;Mod2;Mod3</ItemTypes>
+          </ModOp>
+          <ModOp Type="merge" GUID="116632" Path="/Values/ItemFilter/ItemCategories/Item[4]/ItemTypes">
+            <ItemTypes>GuildHouse;Mod1;Mod3;Mod5</ItemTypes>
+          </ModOp>
+          <ModOp Type="merge" GUID="116632" Path="/Values/ItemFilter/ItemCategories/Item[5]/ItemTypes">
+            <ItemTypes>TownHall;Mod4;Mod5</ItemTypes>
+          </ModOp>
+        </Group>
+    </Group>
+</ModOps>

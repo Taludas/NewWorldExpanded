@@ -1,0 +1,51 @@
+{
+  "Version": "1.0.1",
+  "ModID": "shared_combi_allocations_kurila",
+  "DeprecateIds": [],
+  "LoadAfterIds": [],
+  "IncompatibleIds": null,
+  "ModDependencies": null,
+  "Category": {
+    "English": "Shared",
+    "Chinese": "Shared",
+    "French": "Shared",
+    "German": "Shared",
+    "Italian": "Shared",
+    "Japanese": "Shared",
+    "Korean": "Shared",
+    "Polish": "Shared",
+    "Russian": "Shared",
+    "Spanish": "Shared",
+    "Taiwanese": "Shared"
+  },
+  "ModName": {
+    "Chinese": "Combinated Allocations (Kurila)",
+    "English": "Combinated Allocations (Kurila)",
+    "French": "Combinated Allocations (Kurila)",
+    "German": " Combinated Allocations (Kurila)",
+    "Italian": "Combinated Allocations (Kurila)",
+    "Japanese": "Combinated Allocations (Kurila)",
+    "Korean": "Combinated Allocations (Kurila)",
+    "Polish": "Combinated Allocations (Kurila)",
+    "Russian": "Combinated Allocations (Kurila)",
+    "Spanish": "Combinated Allocations (Kurila)",
+    "Taiwanese": "Combinated Allocations (Kurila)"
+  },
+  "Description": {
+    "English": "file::README.ENG.md",
+    "German": "file::README.GER.md",
+    "Chinese": null,
+    "French": null,
+    "Italian": null,
+    "Japanese": null,
+    "Korean": null,
+    "Polish": null,
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  },
+  "KnownIssues": null,
+  "DLCDependencies": null,
+  "CreatorName": "Kurila",
+  "CreatorContact": "https://discord.gg/YTQGDFK"
+}

@@ -1,0 +1,29 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+		<Text>
+			<!-- TODO translation -->
+			<GUID>1500301994</GUID>
+			<Text>Sindacato/Capitaneria</Text>
+		</Text>
+		<Text>
+			<!-- TODO translation -->
+			<GUID>1500301995</GUID>
+			<Text>Sindacato/Municipio</Text>
+		</Text>
+		<Text>
+			<!-- TODO translation -->
+			<GUID>1500301991</GUID>
+			<Text>Capanno artico/Capitaneria</Text>
+		</Text>
+		<Text>
+			<!-- TODO translation -->
+			<GUID>1500301992</GUID>
+			<Text>Capanno artico/Sindacato</Text>
+		</Text>
+		<Text>
+			<!-- TODO translation -->
+			<GUID>1500301993</GUID>
+			<Text>Capanno artico/Municipio</Text>
+		</Text>
+	</ModOp>
+</ModOps>
