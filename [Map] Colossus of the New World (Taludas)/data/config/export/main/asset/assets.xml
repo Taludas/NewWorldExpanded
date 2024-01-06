@@ -2462,7 +2462,7 @@
                   <Text>
                     <LocaText>
                       <English>
-                        <Text>"These aren't the sailors you're looking for!" the hypnotist repeats over and over again as he swings a pocket watch back and forth in front of the buccaneer leader's face. The bystanders are literally hanging on his every word. Finally, the leader says: "These are not the sailors we are looking for! Let them go, they are acting with noble intentions." Your men don't need to be told twice and run for it. As soon as they are back on deck, you immediately set sail and the other ship slowly disappears on the horizon. We just avoided total disaster narrowly.</Text>                    
+                        <Text>"These aren't the sailors you're looking for!" the hypnotist repeats over and over again as he swings a pocket watch back and forth in front of the buccaneer leader's face. The bystanders are literally hanging on his every word. Finally, the leader says: "These are not the sailors we are looking for! Let them go, they are acting with noble intentions." Your men don't need to be told twice and run for it. As soon as they are back on deck, you immediately set sail and the other ship slowly disappears on the horizon. We just avoided total disaster narrowly.</Text>
                         <Status>Exported</Status>
                       </English>
                     </LocaText>
@@ -2989,7 +2989,7 @@
         </ModOp>
 
         <!-- Trigger Questline -->
-        <ModOp Type="addNextSibling" GUID="113443" Condition="@1500001169">
+        <ModOp Type="addNextSibling" GUID="113443" Condition="#NoSunkenTreasureSession_Serp">
             <Asset>
                 <Template>Trigger</Template>
                 <Values>
@@ -3181,6 +3181,106 @@
                 <Template>Trigger</Template>
                 <Values>
                     <Standard>
+                        <GUID>1999003456</GUID>
+                        <Name>Trigger Questline for Mayabeque - Sunken Treasures Active, Creative Mode Active</Name>
+                    </Standard>
+                    <Trigger>
+                        <TriggerCondition>
+                            <Template>ConditionIsDLCActive</Template>
+                            <Values>
+                                <Condition />
+                                <ConditionIsDLCActive>
+                                    <DLCAssetList>
+                                        <Item>
+                                            <DLCAsset>410040</DLCAsset>
+                                        </Item>
+                                    </DLCAssetList>
+                                </ConditionIsDLCActive>
+                                <ConditionPropsNegatable />
+                            </Values>
+                        </TriggerCondition>
+                        <TriggerActions>
+                            <Item>
+                                <TriggerAction>
+                                    <Template>ActionRegisterTrigger</Template>
+                                    <Values>
+                                        <Action />
+                                        <ActionRegisterTrigger>
+                                            <TriggerAsset>1999003032</TriggerAsset>
+                                        </ActionRegisterTrigger>
+                                    </Values>
+                                </TriggerAction>
+                            </Item>
+                        </TriggerActions>
+                        <SubTriggers>
+                            <Item>
+                                <SubTrigger>
+                                    <Template>AutoCreateTrigger</Template>
+                                    <Values>
+                                        <Trigger>
+                                            <TriggerCondition>
+                                                <Template>ConditionIsCreativeMode</Template>
+                                                <Values>
+                                                    <ConditionPropsNegatable />
+                                                    <Condition />
+                                                    <ConditionIsCreativeMode />
+                                                </Values>
+                                            </TriggerCondition>
+                                        </Trigger>
+                                    </Values>
+                                </SubTrigger>
+                            </Item>
+                            <Item>
+                                <SubTrigger>
+                                    <Template>AutoCreateTrigger</Template>
+                                    <Values>
+                                        <Trigger>
+                                            <TriggerCondition>
+                                                <Template>ConditionPlayerCounter</Template>
+                                                <Values>
+                                                    <Condition />
+                                                    <ConditionPlayerCounter>
+                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
+                                                        <Context>15000004</Context>
+                                                        <CounterAmount>1</CounterAmount>
+                                                    </ConditionPlayerCounter>
+                                                </Values>
+                                            </TriggerCondition>
+                                        </Trigger>
+                                    </Values>
+                                </SubTrigger>
+                            </Item>
+                            <Item>
+                                <SubTrigger>
+                                    <Template>AutoCreateTrigger</Template>
+                                    <Values>
+                                        <Trigger>
+                                            <TriggerCondition>
+                                                <Template>ConditionPlayerCounter</Template>
+                                                <Values>
+                                                    <Condition />
+                                                    <ConditionPlayerCounter>
+                                                        <PlayerCounter>ObjectBuilt</PlayerCounter>
+                                                        <Context>1010358</Context>
+                                                        <CounterAmount>1</CounterAmount>
+                                                    </ConditionPlayerCounter>
+                                                </Values>
+                                            </TriggerCondition>
+                                        </Trigger>
+                                    </Values>
+                                </SubTrigger>
+                            </Item>
+                        </SubTriggers>
+                    </Trigger>
+                    <TriggerSetup>
+                        <UsedBySecondParties>0</UsedBySecondParties>
+                    </TriggerSetup>
+                </Values>
+            </Asset>
+            <Asset>
+                <Template>Trigger</Template>
+                <Values>
+                    <Standard>
                         <GUID>1999003031</GUID>
                         <Name>Trigger Questline for Mayabeque - Sunken Treasures NOT Active</Name>
                     </Standard>
@@ -3199,6 +3299,83 @@
                                 <ConditionPropsNegatable>
                                     <NegateCondition>1</NegateCondition>
                                 </ConditionPropsNegatable>
+                            </Values>
+                        </TriggerCondition>
+                        <TriggerActions>
+                            <Item>
+                                <TriggerAction>
+                                    <Template>ActionRegisterTrigger</Template>
+                                    <Values>
+                                        <Action />
+                                        <ActionRegisterTrigger>
+                                            <TriggerAsset>1999003032</TriggerAsset>
+                                        </ActionRegisterTrigger>
+                                    </Values>
+                                </TriggerAction>
+                            </Item>
+                        </TriggerActions>
+                        <SubTriggers>
+                            <Item>
+                                <SubTrigger>
+                                    <Template>AutoCreateTrigger</Template>
+                                    <Values>
+                                        <Trigger>
+                                            <TriggerCondition>
+                                                <Template>ConditionPlayerCounter</Template>
+                                                <Values>
+                                                    <Condition />
+                                                    <ConditionPlayerCounter>
+                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
+                                                        <Context>15000004</Context>
+                                                        <CounterAmount>1</CounterAmount>
+                                                    </ConditionPlayerCounter>
+                                                </Values>
+                                            </TriggerCondition>
+                                        </Trigger>
+                                    </Values>
+                                </SubTrigger>
+                            </Item>
+                            <Item>
+                                <SubTrigger>
+                                    <Template>AutoCreateTrigger</Template>
+                                    <Values>
+                                        <Trigger>
+                                            <TriggerCondition>
+                                                <Template>ConditionPlayerCounter</Template>
+                                                <Values>
+                                                    <Condition />
+                                                    <ConditionPlayerCounter>
+                                                        <PlayerCounter>ObjectBuilt</PlayerCounter>
+                                                        <Context>1010358</Context>
+                                                        <CounterAmount>1</CounterAmount>
+                                                    </ConditionPlayerCounter>
+                                                </Values>
+                                            </TriggerCondition>
+                                        </Trigger>
+                                    </Values>
+                                </SubTrigger>
+                            </Item>
+                        </SubTriggers>
+                    </Trigger>
+                    <TriggerSetup>
+                        <UsedBySecondParties>0</UsedBySecondParties>
+                    </TriggerSetup>
+                </Values>
+            </Asset>
+            <Asset>
+                <Template>Trigger</Template>
+                <Values>
+                    <Standard>
+                        <GUID>1999003461</GUID>
+                        <Name>Trigger Questline for Mayabeque - Multiplayer active</Name>
+                    </Standard>
+                    <Trigger>
+                        <TriggerCondition>
+                            <Template>ConditionIsMultiplayer</Template>
+                            <Values>
+                              <Condition />
+                              <ConditionIsMultiplayer />
+                              <ConditionPropsNegatable />
                             </Values>
                         </TriggerCondition>
                         <TriggerActions>
@@ -3288,7 +3465,7 @@
                                     <ActionDiscoverParticipant>
                                       <UseProcessingSourceParticipant>1</UseProcessingSourceParticipant>
                                       <DiscoverTargetParticipant>Third_party_09_Vasco_Silva</DiscoverTargetParticipant>
-                                      <DiscoverParticipantOmitWelcomeMessage>0</DiscoverParticipantOmitWelcomeMessage>
+                                      <DiscoverParticipantOmitWelcomeMessage>1</DiscoverParticipantOmitWelcomeMessage>
                                     </ActionDiscoverParticipant>
                                   </Values>
                                 </TriggerAction>
@@ -3301,7 +3478,7 @@
                                     <ActionDiscoverParticipant>
                                       <UseProcessingSourceParticipant>1</UseProcessingSourceParticipant>
                                       <DiscoverTargetParticipant>Arctic_SirJohn</DiscoverTargetParticipant>
-                                      <DiscoverParticipantOmitWelcomeMessage>0</DiscoverParticipantOmitWelcomeMessage>
+                                      <DiscoverParticipantOmitWelcomeMessage>1</DiscoverParticipantOmitWelcomeMessage>
                                     </ActionDiscoverParticipant>
                                   </Values>
                                 </TriggerAction>
@@ -3799,6 +3976,7 @@
                                                             <ObjectFilter>
                                                                 <ObjectGUID>1010358</ObjectGUID>
                                                                 <ObjectSession>180023</ObjectSession>
+                                                                <CheckProcessingParticipantID>1</CheckProcessingParticipantID>
                                                             </ObjectFilter>
                                                         </Values>
                                                     </Object>
@@ -5729,6 +5907,7 @@
                     </TriggerSetup>
                 </Values>
             </Asset>
+
             <!-- Trigger to change Participant of Neutral SHip on Santa Cruz Island to Vascos as well as a nice discovery notification -->
             <Asset>
                 <Template>TriggerQuest</Template>
@@ -5822,9 +6001,108 @@
                                     <Values>
                                         <Action />
                                         <ActionStartQuest>
-                                            <Quest>1999003164</Quest>
+                                            <Quest>1999003166</Quest>
                                             <QuestSession>1999003005</QuestSession>
                                         </ActionStartQuest>
+                                    </Values>
+                                </TriggerAction>
+                            </Item>
+                        </TriggerActions>
+                    </Trigger>
+                    <TriggerSetup>
+                        <UsedBySecondParties>0</UsedBySecondParties>
+                    </TriggerSetup>
+                </Values>
+            </Asset>
+
+            <!-- Watching Trigger: Has a Kontor been built on Santa Cruz for resetting the castle to ruin if you loose it again -->
+            <Asset>
+                <Template>Trigger</Template>
+                <Values>
+                    <Standard>
+                        <GUID>1999003454</GUID>
+                        <Name>Watching Trigger: Has a Kontor been built on Santa Cruz for resetting the castle to ruin if you loose it again</Name>
+                    </Standard>
+                    <Trigger>
+                        <TriggerCondition>
+                            <Template>ConditionPlayerCounter</Template>
+                            <Values>
+                              <Condition />
+                              <ConditionPlayerCounter>
+                                <Context>700000</Context>
+                                <CounterAmount>1</CounterAmount>
+                                <CounterScope>Area</CounterScope>
+                                <CounterScopeUseCurrentContext>0</CounterScopeUseCurrentContext>
+                                <CounterScopeContext>1999003012</CounterScopeContext>
+                              </ConditionPlayerCounter>
+                            </Values>
+                        </TriggerCondition>
+                        <TriggerActions>
+                            <Item>
+                                <TriggerAction>
+                                    <Template>ActionRegisterTrigger</Template>
+                                    <Values>
+                                        <Action />
+                                        <ActionRegisterTrigger>
+                                            <TriggerAsset>1999003455</TriggerAsset>
+                                        </ActionRegisterTrigger>
+                                    </Values>
+                                </TriggerAction>
+                            </Item>
+                        </TriggerActions>
+                    </Trigger>
+                    <TriggerSetup>
+                        <UsedBySecondParties>0</UsedBySecondParties>
+                    </TriggerSetup>
+                </Values>
+            </Asset>
+
+            <Asset>
+                <Template>TriggerQuest</Template>
+                <Values>
+                    <Standard>
+                        <GUID>1999003455</GUID>
+                        <Name>Trigger Castle to ruin again after Island lost</Name>
+                    </Standard>
+                    <Trigger>
+                        <TriggerCondition>
+                            <Template>ConditionPlayerCounter</Template>
+                            <Values>
+                              <Condition />
+                              <ConditionPlayerCounter>
+                                <Context>700000</Context>
+                                <ComparisonOp>Equals</ComparisonOp>
+                                <CounterScope>Area</CounterScope>
+                                <CounterScopeUseCurrentContext>0</CounterScopeUseCurrentContext>
+                                <CounterScopeContext>1999003012</CounterScopeContext>
+                              </ConditionPlayerCounter>
+                            </Values>
+                        </TriggerCondition>
+                        <TriggerActions>
+                            <Item>
+                                <TriggerAction>
+                                    <Template>ActionSetObjectHitpoints</Template>
+                                    <Values>
+                                        <Action />
+                                        <ActionSetObjectHitpoints>
+                                            <MinHitpointPercentage>0</MinHitpointPercentage>
+                                            <MaxHitpointPercentage>0</MaxHitpointPercentage>
+                                        </ActionSetObjectHitpoints>
+                                        <ObjectFilter>
+                                            <ObjectGUID>1999003001</ObjectGUID>
+                                            <CheckParticipantID>0</CheckParticipantID>
+                                        </ObjectFilter>
+                                    </Values>
+                                </TriggerAction>
+                            </Item>
+                            <Item>
+                                <TriggerAction>
+                                    <Template>ActionRegisterTrigger</Template>
+                                    <Values>
+                                        <Action />
+                                        <ActionRegisterTrigger>
+                                            <TriggerAsset>1999003454</TriggerAsset>
+                                        </ActionRegisterTrigger>
                                     </Values>
                                 </TriggerAction>
                             </Item>
@@ -5925,6 +6203,7 @@
                         <InfoDescription>1999003004</InfoDescription>
                     </Standard>
                     <Building>
+                        <OwnerChangeTarget>1999003001</OwnerChangeTarget>
                         <Movable>0</Movable>
                         <Destructable>0</Destructable>
                         <BuildingCategoryName>1999003003</BuildingCategoryName>
@@ -6007,7 +6286,9 @@
                         </Maintenances>
                         <ConsumerPriorityAlarmed>2</ConsumerPriorityAlarmed>
                     </Maintenance>
-                    <Locked />
+                    <Locked>
+                        <DefaultLockedState>0</DefaultLockedState>
+                    </Locked>
                     <Constructable />
                     <FeedbackController />
                     <Pausable>
@@ -6070,6 +6351,7 @@
                         <InfoDescription>1999003004</InfoDescription>
                     </Standard>
                     <Building>
+                        <OwnerChangeTarget>1999003425</OwnerChangeTarget>
                         <Movable>0</Movable>
                         <Destructable>0</Destructable>
                         <BuildingCategoryName>1999003003</BuildingCategoryName>
@@ -6152,7 +6434,9 @@
                         </Maintenances>
                         <ConsumerPriorityAlarmed>2</ConsumerPriorityAlarmed>
                     </Maintenance>
-                    <Locked />
+                    <Locked>
+                        <DefaultLockedState>0</DefaultLockedState>
+                    </Locked>
                     <Constructable />
                     <FeedbackController />
                     <Pausable>
@@ -6215,6 +6499,7 @@
                         <InfoDescription>1999003004</InfoDescription>
                     </Standard>
                     <Building>
+                        <OwnerChangeTarget>1999003061</OwnerChangeTarget>
                         <Movable>0</Movable>
                         <Destructable>0</Destructable>
                         <BuildingCategoryName>1999003003</BuildingCategoryName>
@@ -6388,6 +6673,7 @@
                         <InfoDescription>1999003004</InfoDescription>
                     </Standard>
                     <Building>
+                        <OwnerChangeTarget>1999003064</OwnerChangeTarget>
                         <Movable>0</Movable>
                         <Destructable>0</Destructable>
                         <BuildingCategoryName>1999003003</BuildingCategoryName>
@@ -6640,6 +6926,7 @@
                         <InfoDescription>1999003004</InfoDescription>
                     </Standard>
                     <Building>
+                        <OwnerChangeTarget>1999003190</OwnerChangeTarget>
                         <Movable>0</Movable>
                         <Destructable>0</Destructable>
                         <BuildingCategoryName>1999003003</BuildingCategoryName>
@@ -6811,6 +7098,7 @@
                         <InfoDescription>1999003158</InfoDescription>
                     </Standard>
                     <Building>
+                        <OwnerChangeTarget>1999003156</OwnerChangeTarget>
                         <Movable>0</Movable>
                         <Destructable>0</Destructable>
                         <BuildingCategoryName>1999003003</BuildingCategoryName>
@@ -6841,7 +7129,7 @@
                                 <ActionList />
                             </Values>
                         </OnSelection>
-                        <ParticipantMessageArcheType>GGJ_Yaosca</ParticipantMessageArcheType>
+                        <ParticipantMessageArcheType>Resident_Tourist</ParticipantMessageArcheType>
                     </Selection>
                     <Text>
                         <LocaText>
@@ -6907,11 +7195,11 @@
                     <Infolayer />
                     <FactoryBase>
                         <FactoryInputs>
-                          <Item>
-                            <Product>1999003344</Product>
-                            <Amount>0</Amount>
-                            <StorageAmount>10</StorageAmount>
-                          </Item>
+                            <Item>
+                                <Product>1999003344</Product>
+                                <Amount>0</Amount>
+                                <StorageAmount>10</StorageAmount>
+                            </Item>
                         </FactoryInputs>
                         <FactoryOutputs>
                             <Item>
@@ -6921,13 +7209,11 @@
                             </Item>
                         </FactoryOutputs>
                         <ProductionOutputInfotip>0</ProductionOutputInfotip>
-                        <TeleportProducedGoodsIntoAreaStorage>1</TeleportProducedGoodsIntoAreaStorage>
-                        <IsMainFactory>0</IsMainFactory>
                     </FactoryBase>
                     <LogisticNode>
                         <TransporterCountMax>0</TransporterCountMax>
                     </LogisticNode>
-                    <Monument>  
+                    <Monument>
                         <UnfinishedIcon>500417</UnfinishedIcon>
                         <FinishedIcon>500421</FinishedIcon>
                         <MonumentFluff>1999003327</MonumentFluff>
@@ -7014,7 +7300,7 @@
             </Asset>
 
             <!-- Monument Events and reward pools -->
-            
+
                 <!-- Monument Exhibition - Military Personal -->
                 <Asset>
                     <Template>MonumentEventCategory</Template>
@@ -9962,7 +10248,7 @@
                     <DefaultLockedState>0</DefaultLockedState>
                   </Locked>
                   <Product>
-                    <StorageLevel>Building</StorageLevel>
+                    <StorageLevel>Meta</StorageLevel>
                     <DeltaOnly>1</DeltaOnly>
                     <IsAbstract>1</IsAbstract>
                   </Product>
@@ -9990,7 +10276,7 @@
                     <DefaultLockedState>0</DefaultLockedState>
                   </Locked>
                   <Product>
-                    <StorageLevel>Building</StorageLevel>
+                    <StorageLevel>Meta</StorageLevel>
                     <DeltaOnly>1</DeltaOnly>
                     <IsAbstract>1</IsAbstract>
                   </Product>
@@ -10151,7 +10437,7 @@
                   </EffectForward>
                 </Values>
             </Asset>
-            
+
             <Asset>
                 <Template>TownhallBuff</Template>
                 <Values>
@@ -10545,17 +10831,6 @@
                                     <Actions>
                                         <Item>
                                             <Action>
-                                                <Template>ActionDiscoverIsland</Template>
-                                                <Values>
-                                                    <Action />
-                                                    <ActionDiscoverIsland>
-                                                        <TargetIsland>1999003012</TargetIsland>
-                                                    </ActionDiscoverIsland>
-                                                </Values>
-                                            </Action>
-                                        </Item>
-                                        <Item>
-                                            <Action>
                                                 <Template>ActionTriggerMinimapPing</Template>
                                                 <Values>
                                                     <Action />
@@ -10626,21 +10901,7 @@
                         <OnQuestSucceeded>
                             <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
                             <Values>
-                                <ActionList>
-                                    <Actions>
-                                        <Item>
-                                            <Action>
-                                                <Template>ActionStartQuest</Template>
-                                                <Values>
-                                                    <Action />
-                                                    <ActionStartQuest>
-                                                        <Quest>1999003166</Quest>
-                                                    </ActionStartQuest>
-                                                </Values>
-                                            </Action>
-                                        </Item>
-                                    </Actions>
-                                </ActionList>
+                                <ActionList />
                             </Values>
                         </OnQuestSucceeded>
                         <OnQuestEnd>
@@ -10976,7 +11237,32 @@
                         <OnQuestStart>
                             <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
                             <Values>
-                                <ActionList />
+                                <ActionList>
+                                    <Actions>
+                                        <Item>
+                                            <Action>
+                                                <Template>ActionStartQuest</Template>
+                                                <Values>
+                                                    <Action />
+                                                    <ActionStartQuest>
+                                                        <Quest>1999003164</Quest>
+                                                    </ActionStartQuest>
+                                                </Values>
+                                            </Action>
+                                        </Item>
+                                        <Item>
+                                            <Action>
+                                                <Template>ActionDiscoverIsland</Template>
+                                                <Values>
+                                                    <Action />
+                                                    <ActionDiscoverIsland>
+                                                        <TargetIsland>1999003012</TargetIsland>
+                                                    </ActionDiscoverIsland>
+                                                </Values>
+                                            </Action>
+                                        </Item>
+                                    </Actions>
+                                </ActionList>
                             </Values>
                         </OnQuestStart>
                         <OnQuestDeclined>
@@ -11564,6 +11850,31 @@
                                     </Values>
                                 </Objective>
                             </Item>
+                            <Item>
+                                <Objective>
+                                    <Template>StatusQuoObjective</Template>
+                                    <Values>
+                                        <ConditionQuestObjective>
+                                            <TextCombinedContextValue>1999003418</TextCombinedContextValue>
+                                            <IsVisibleInQuestTracker>0</IsVisibleInQuestTracker>
+                                        </ConditionQuestObjective>
+                                        <ConditionPlayerCounter>
+                                            <Context>700048</Context>
+                                            <CounterAmount>1</CounterAmount>
+                                            <CounterScope>Area</CounterScope>
+                                            <CounterScopeUseCurrentContext>0</CounterScopeUseCurrentContext>
+                                            <CounterScopeUseActiveSession>1</CounterScopeUseActiveSession>
+                                            <CounterScopeContext>1999003012</CounterScopeContext>
+                                        </ConditionPlayerCounter>
+                                        <ConditionQuestStatusQuo>
+                                            <CombinePoolAssets>1</CombinePoolAssets>
+                                        </ConditionQuestStatusQuo>
+                                        <ConditionPropsExecutionPlaceSettings>
+                                            <ExecutionPlaceConfirmOnReached>0</ExecutionPlaceConfirmOnReached>
+                                        </ConditionPropsExecutionPlaceSettings>
+                                    </Values>
+                                </Objective>
+                            </Item>
                         </WinConditions>
                         <WinConditionCompletionOrder>Linear</WinConditionCompletionOrder>
                     </Objectives>
@@ -12052,6 +12363,31 @@
                                     </Values>
                                 </Objective>
                             </Item>
+                            <Item>
+                                <Objective>
+                                    <Template>StatusQuoObjective</Template>
+                                    <Values>
+                                        <ConditionQuestObjective>
+                                            <TextCombinedContextValue>1999003418</TextCombinedContextValue>
+                                            <IsVisibleInQuestTracker>0</IsVisibleInQuestTracker>
+                                        </ConditionQuestObjective>
+                                        <ConditionPlayerCounter>
+                                            <Context>700048</Context>
+                                            <CounterAmount>1</CounterAmount>
+                                            <CounterScope>Area</CounterScope>
+                                            <CounterScopeUseCurrentContext>0</CounterScopeUseCurrentContext>
+                                            <CounterScopeUseActiveSession>1</CounterScopeUseActiveSession>
+                                            <CounterScopeContext>1999003012</CounterScopeContext>
+                                        </ConditionPlayerCounter>
+                                        <ConditionQuestStatusQuo>
+                                            <CombinePoolAssets>1</CombinePoolAssets>
+                                        </ConditionQuestStatusQuo>
+                                        <ConditionPropsExecutionPlaceSettings>
+                                            <ExecutionPlaceConfirmOnReached>0</ExecutionPlaceConfirmOnReached>
+                                        </ConditionPropsExecutionPlaceSettings>
+                                    </Values>
+                                </Objective>
+                            </Item>
                         </WinConditions>
                         <WinConditionCompletionOrder>Linear</WinConditionCompletionOrder>
                     </Objectives>
@@ -12519,30 +12855,22 @@
                     </Reward>
                     <Objectives>
                         <WinConditions>
-                            <Item>
-                                <Objective>
-                                    <Template>StatusQuoObjective</Template>
-                                    <Values>
-                                        <ConditionQuestObjective>
-                                            <TextCombinedContextValue>100102</TextCombinedContextValue>
-                                            <QuestTrackerIcon>data/taludas/modgraphics/ui/icon_castle_santacruz.png</QuestTrackerIcon>
-                                        </ConditionQuestObjective>
-                                        <ConditionPlayerCounter>
-                                            <PlayerCounter>RuinCount</PlayerCounter>
-                                            <Context>1999003001</Context>
-                                            <ComparisonOp>Equals</ComparisonOp>
-                                            <CounterScope>Session</CounterScope>
-                                            <CounterScopeUseActiveSession>1</CounterScopeUseActiveSession>
-                                            <ShowInvertedValues>1</ShowInvertedValues>
-                                            <CheckSpecificParticipant>1</CheckSpecificParticipant>
-                                        </ConditionPlayerCounter>
-                                        <ConditionQuestStatusQuo />
-                                        <ConditionPropsExecutionPlaceSettings>
-                                            <ExecutionPlaceConfirmOnReached>0</ExecutionPlaceConfirmOnReached>
-                                        </ConditionPropsExecutionPlaceSettings>
-                                    </Values>
-                                </Objective>
-                            </Item>
+                                <Item>
+                                    <Objective>
+                                        <Template>FakeQuestObjective</Template>
+                                        <Values>
+                                            <ConditionQuestObjective />
+                                            <ConditionQuestFakeObjective>
+                                                <QuestTrackerEntries>
+                                                    <Item>
+                                                        <CombinedText>1999003457</CombinedText>
+                                                        <QuestTrackerIcon>data/taludas/modgraphics/ui/icon_castle_santacruz.png</QuestTrackerIcon>
+                                                    </Item>
+                                                </QuestTrackerEntries>
+                                            </ConditionQuestFakeObjective>
+                                        </Values>
+                                    </Objective>
+                                </Item>
                         </WinConditions>
                     </Objectives>
                     <QuestOptional>
@@ -12603,10 +12931,9 @@
                                                         <PlayerCounter>RuinCount</PlayerCounter>
                                                         <Context>1999003001</Context>
                                                         <ComparisonOp>Equals</ComparisonOp>
-                                                        <CounterScope>Session</CounterScope>
+                                                        <CounterScope>Area</CounterScope>
                                                         <CounterScopeUseCurrentContext>0</CounterScopeUseCurrentContext>
-                                                        <CounterScopeContext>1999003005</CounterScopeContext>
-                                                        <CheckSpecificParticipant>1</CheckSpecificParticipant>
+                                                        <CounterScopeContext>1999003012</CounterScopeContext>
                                                     </ConditionPlayerCounter>
                                                 </Values>
                                             </TriggerCondition>
@@ -13035,6 +13362,31 @@
                                             <CounterScopeContext>1999003012</CounterScopeContext>
                                         </ConditionPlayerCounter>
                                         <ConditionQuestStatusQuo/>
+                                        <ConditionPropsExecutionPlaceSettings>
+                                            <ExecutionPlaceConfirmOnReached>0</ExecutionPlaceConfirmOnReached>
+                                        </ConditionPropsExecutionPlaceSettings>
+                                    </Values>
+                                </Objective>
+                            </Item>
+                            <Item>
+                                <Objective>
+                                    <Template>StatusQuoObjective</Template>
+                                    <Values>
+                                        <ConditionQuestObjective>
+                                            <TextCombinedContextValue>1999003418</TextCombinedContextValue>
+                                            <IsVisibleInQuestTracker>0</IsVisibleInQuestTracker>
+                                        </ConditionQuestObjective>
+                                        <ConditionPlayerCounter>
+                                            <Context>700048</Context>
+                                            <CounterAmount>1</CounterAmount>
+                                            <CounterScope>Area</CounterScope>
+                                            <CounterScopeUseCurrentContext>0</CounterScopeUseCurrentContext>
+                                            <CounterScopeUseActiveSession>1</CounterScopeUseActiveSession>
+                                            <CounterScopeContext>1999003012</CounterScopeContext>
+                                        </ConditionPlayerCounter>
+                                        <ConditionQuestStatusQuo>
+                                            <CombinePoolAssets>1</CombinePoolAssets>
+                                        </ConditionQuestStatusQuo>
                                         <ConditionPropsExecutionPlaceSettings>
                                             <ExecutionPlaceConfirmOnReached>0</ExecutionPlaceConfirmOnReached>
                                         </ConditionPropsExecutionPlaceSettings>
@@ -13607,6 +13959,31 @@
                                     </Values>
                                 </Objective>
                             </Item>
+                            <Item>
+                                <Objective>
+                                    <Template>StatusQuoObjective</Template>
+                                    <Values>
+                                        <ConditionQuestObjective>
+                                            <TextCombinedContextValue>1999003418</TextCombinedContextValue>
+                                            <IsVisibleInQuestTracker>0</IsVisibleInQuestTracker>
+                                        </ConditionQuestObjective>
+                                        <ConditionPlayerCounter>
+                                            <Context>700048</Context>
+                                            <CounterAmount>1</CounterAmount>
+                                            <CounterScope>Area</CounterScope>
+                                            <CounterScopeUseCurrentContext>0</CounterScopeUseCurrentContext>
+                                            <CounterScopeUseActiveSession>1</CounterScopeUseActiveSession>
+                                            <CounterScopeContext>1999003012</CounterScopeContext>
+                                        </ConditionPlayerCounter>
+                                        <ConditionQuestStatusQuo>
+                                            <CombinePoolAssets>1</CombinePoolAssets>
+                                        </ConditionQuestStatusQuo>
+                                        <ConditionPropsExecutionPlaceSettings>
+                                            <ExecutionPlaceConfirmOnReached>0</ExecutionPlaceConfirmOnReached>
+                                        </ConditionPropsExecutionPlaceSettings>
+                                    </Values>
+                                </Objective>
+                            </Item>
                         </WinConditions>
                     </Objectives>
                     <QuestOptional>
@@ -13956,6 +14333,31 @@
                                             <CounterScopeContext>1999003012</CounterScopeContext>
                                         </ConditionPlayerCounter>
                                         <ConditionQuestStatusQuo/>
+                                        <ConditionPropsExecutionPlaceSettings>
+                                            <ExecutionPlaceConfirmOnReached>0</ExecutionPlaceConfirmOnReached>
+                                        </ConditionPropsExecutionPlaceSettings>
+                                    </Values>
+                                </Objective>
+                            </Item>
+                            <Item>
+                                <Objective>
+                                    <Template>StatusQuoObjective</Template>
+                                    <Values>
+                                        <ConditionQuestObjective>
+                                            <TextCombinedContextValue>1999003418</TextCombinedContextValue>
+                                            <IsVisibleInQuestTracker>0</IsVisibleInQuestTracker>
+                                        </ConditionQuestObjective>
+                                        <ConditionPlayerCounter>
+                                            <Context>700048</Context>
+                                            <CounterAmount>1</CounterAmount>
+                                            <CounterScope>Area</CounterScope>
+                                            <CounterScopeUseCurrentContext>0</CounterScopeUseCurrentContext>
+                                            <CounterScopeUseActiveSession>1</CounterScopeUseActiveSession>
+                                            <CounterScopeContext>1999003012</CounterScopeContext>
+                                        </ConditionPlayerCounter>
+                                        <ConditionQuestStatusQuo>
+                                            <CombinePoolAssets>1</CombinePoolAssets>
+                                        </ConditionQuestStatusQuo>
                                         <ConditionPropsExecutionPlaceSettings>
                                             <ExecutionPlaceConfirmOnReached>0</ExecutionPlaceConfirmOnReached>
                                         </ConditionPropsExecutionPlaceSettings>
@@ -14508,7 +14910,6 @@
                                       <CounterScope>Session</CounterScope>
                                       <CounterScopeUseCurrentContext>0</CounterScopeUseCurrentContext>
                                       <CounterScopeContext>1999003005</CounterScopeContext>
-                                      <CheckSpecificParticipant>1</CheckSpecificParticipant>
                                     </ConditionPlayerCounter>
                                     <ConditionQuestStatusQuo />
                                     <ConditionPropsExecutionPlaceSettings>
@@ -14531,7 +14932,6 @@
                                       <CounterScope>Session</CounterScope>
                                       <CounterScopeUseCurrentContext>0</CounterScopeUseCurrentContext>
                                       <CounterScopeContext>1999003005</CounterScopeContext>
-                                      <CheckSpecificParticipant>1</CheckSpecificParticipant>
                                     </ConditionPlayerCounter>
                                     <ConditionQuestStatusQuo />
                                     <ConditionPropsExecutionPlaceSettings>
@@ -14554,7 +14954,6 @@
                                       <CounterScope>Session</CounterScope>
                                       <CounterScopeUseCurrentContext>0</CounterScopeUseCurrentContext>
                                       <CounterScopeContext>1999003005</CounterScopeContext>
-                                      <CheckSpecificParticipant>1</CheckSpecificParticipant>
                                     </ConditionPlayerCounter>
                                     <ConditionQuestStatusQuo />
                                     <ConditionPropsExecutionPlaceSettings>
@@ -14577,7 +14976,6 @@
                                       <CounterScope>Session</CounterScope>
                                       <CounterScopeUseCurrentContext>0</CounterScopeUseCurrentContext>
                                       <CounterScopeContext>1999003005</CounterScopeContext>
-                                      <CheckSpecificParticipant>1</CheckSpecificParticipant>
                                     </ConditionPlayerCounter>
                                     <ConditionQuestStatusQuo />
                                     <ConditionPropsExecutionPlaceSettings>
@@ -14600,7 +14998,6 @@
                                       <CounterScope>Session</CounterScope>
                                       <CounterScopeUseCurrentContext>0</CounterScopeUseCurrentContext>
                                       <CounterScopeContext>1999003005</CounterScopeContext>
-                                      <CheckSpecificParticipant>1</CheckSpecificParticipant>
                                     </ConditionPlayerCounter>
                                     <ConditionQuestStatusQuo />
                                     <ConditionPropsExecutionPlaceSettings>
@@ -14623,13 +15020,37 @@
                                       <CounterScope>Session</CounterScope>
                                       <CounterScopeUseCurrentContext>0</CounterScopeUseCurrentContext>
                                       <CounterScopeContext>1999003005</CounterScopeContext>
-                                      <CheckSpecificParticipant>1</CheckSpecificParticipant>
                                     </ConditionPlayerCounter>
                                     <ConditionQuestStatusQuo />
                                     <ConditionPropsExecutionPlaceSettings>
                                       <ExecutionPlaceConfirmOnReached>0</ExecutionPlaceConfirmOnReached>
                                     </ConditionPropsExecutionPlaceSettings>
                                   </Values>
+                                </Objective>
+                            </Item>
+                            <Item>
+                                <Objective>
+                                    <Template>StatusQuoObjective</Template>
+                                    <Values>
+                                        <ConditionQuestObjective>
+                                            <TextCombinedContextValue>1999003418</TextCombinedContextValue>
+                                            <IsVisibleInQuestTracker>0</IsVisibleInQuestTracker>
+                                        </ConditionQuestObjective>
+                                        <ConditionPlayerCounter>
+                                            <Context>700048</Context>
+                                            <CounterAmount>1</CounterAmount>
+                                            <CounterScope>Area</CounterScope>
+                                            <CounterScopeUseCurrentContext>0</CounterScopeUseCurrentContext>
+                                            <CounterScopeUseActiveSession>1</CounterScopeUseActiveSession>
+                                            <CounterScopeContext>1999003012</CounterScopeContext>
+                                        </ConditionPlayerCounter>
+                                        <ConditionQuestStatusQuo>
+                                            <CombinePoolAssets>1</CombinePoolAssets>
+                                        </ConditionQuestStatusQuo>
+                                        <ConditionPropsExecutionPlaceSettings>
+                                            <ExecutionPlaceConfirmOnReached>0</ExecutionPlaceConfirmOnReached>
+                                        </ConditionPropsExecutionPlaceSettings>
+                                    </Values>
                                 </Objective>
                             </Item>
                         </WinConditions>
@@ -14956,6 +15377,31 @@
                         <WinConditions>
                             <Item>
                                 <Objective>
+                                    <Template>StatusQuoObjective</Template>
+                                    <Values>
+                                        <ConditionQuestObjective>
+                                            <TextCombinedContextValue>1999003418</TextCombinedContextValue>
+                                            <IsVisibleInQuestTracker>0</IsVisibleInQuestTracker>
+                                        </ConditionQuestObjective>
+                                        <ConditionPlayerCounter>
+                                            <Context>700048</Context>
+                                            <CounterAmount>1</CounterAmount>
+                                            <CounterScope>Area</CounterScope>
+                                            <CounterScopeUseCurrentContext>0</CounterScopeUseCurrentContext>
+                                            <CounterScopeUseActiveSession>1</CounterScopeUseActiveSession>
+                                            <CounterScopeContext>1999003012</CounterScopeContext>
+                                        </ConditionPlayerCounter>
+                                        <ConditionQuestStatusQuo>
+                                            <CombinePoolAssets>1</CombinePoolAssets>
+                                        </ConditionQuestStatusQuo>
+                                        <ConditionPropsExecutionPlaceSettings>
+                                            <ExecutionPlaceConfirmOnReached>0</ExecutionPlaceConfirmOnReached>
+                                        </ConditionPropsExecutionPlaceSettings>
+                                    </Values>
+                                </Objective>
+                            </Item>
+                            <Item>
+                                <Objective>
                                     <Template>FakeQuestObjective</Template>
                                     <Values>
                                         <ConditionQuestObjective />
@@ -14971,6 +15417,7 @@
                                 </Objective>
                             </Item>
                         </WinConditions>
+                        <WinConditionCompletionOrder>Linear</WinConditionCompletionOrder>
                     </Objectives>
                     <QuestOptional>
                         <HasStarterObject>None</HasStarterObject>
@@ -15509,10 +15956,34 @@
                                             <CounterScopeContext>1999003005</CounterScopeContext>
                                         </ConditionPlayerCounter>
                                         <ConditionQuestStatusQuo>
-                                            <CheckAnyPoolAsset>1</CheckAnyPoolAsset>
                                             <CombinePoolAssets>1</CombinePoolAssets>
                                         </ConditionQuestStatusQuo>
                                         <ConditionPropsExecutionPlaceSettings />
+                                    </Values>
+                                </Objective>
+                            </Item>
+                            <Item>
+                                <Objective>
+                                    <Template>StatusQuoObjective</Template>
+                                    <Values>
+                                        <ConditionQuestObjective>
+                                            <TextCombinedContextValue>1999003418</TextCombinedContextValue>
+                                            <IsVisibleInQuestTracker>0</IsVisibleInQuestTracker>
+                                        </ConditionQuestObjective>
+                                        <ConditionPlayerCounter>
+                                            <Context>700048</Context>
+                                            <CounterAmount>1</CounterAmount>
+                                            <CounterScope>Area</CounterScope>
+                                            <CounterScopeUseCurrentContext>0</CounterScopeUseCurrentContext>
+                                            <CounterScopeUseActiveSession>1</CounterScopeUseActiveSession>
+                                            <CounterScopeContext>1999003012</CounterScopeContext>
+                                        </ConditionPlayerCounter>
+                                        <ConditionQuestStatusQuo>
+                                            <CombinePoolAssets>1</CombinePoolAssets>
+                                        </ConditionQuestStatusQuo>
+                                        <ConditionPropsExecutionPlaceSettings>
+                                            <ExecutionPlaceConfirmOnReached>0</ExecutionPlaceConfirmOnReached>
+                                        </ConditionPropsExecutionPlaceSettings>
                                     </Values>
                                 </Objective>
                             </Item>
@@ -15911,6 +16382,31 @@
                           </Values>
                         </Objective>
                       </Item>
+                      <Item>
+                            <Objective>
+                                <Template>StatusQuoObjective</Template>
+                                <Values>
+                                    <ConditionQuestObjective>
+                                        <TextCombinedContextValue>1999003418</TextCombinedContextValue>
+                                        <IsVisibleInQuestTracker>0</IsVisibleInQuestTracker>
+                                    </ConditionQuestObjective>
+                                    <ConditionPlayerCounter>
+                                        <Context>700048</Context>
+                                        <CounterAmount>1</CounterAmount>
+                                        <CounterScope>Area</CounterScope>
+                                        <CounterScopeUseCurrentContext>0</CounterScopeUseCurrentContext>
+                                        <CounterScopeUseActiveSession>1</CounterScopeUseActiveSession>
+                                        <CounterScopeContext>1999003012</CounterScopeContext>
+                                    </ConditionPlayerCounter>
+                                    <ConditionQuestStatusQuo>
+                                        <CombinePoolAssets>1</CombinePoolAssets>
+                                    </ConditionQuestStatusQuo>
+                                    <ConditionPropsExecutionPlaceSettings>
+                                        <ExecutionPlaceConfirmOnReached>0</ExecutionPlaceConfirmOnReached>
+                                    </ConditionPropsExecutionPlaceSettings>
+                                </Values>
+                            </Objective>
+                        </Item>
                     </WinConditions>
                   </Objectives>
                   <QuestOptional>
@@ -16448,6 +16944,31 @@
                                     </Values>
                                 </Objective>
                             </Item>
+                            <Item>
+                                <Objective>
+                                    <Template>StatusQuoObjective</Template>
+                                    <Values>
+                                        <ConditionQuestObjective>
+                                            <TextCombinedContextValue>1999003418</TextCombinedContextValue>
+                                            <IsVisibleInQuestTracker>0</IsVisibleInQuestTracker>
+                                        </ConditionQuestObjective>
+                                        <ConditionPlayerCounter>
+                                            <Context>700048</Context>
+                                            <CounterAmount>1</CounterAmount>
+                                            <CounterScope>Area</CounterScope>
+                                            <CounterScopeUseCurrentContext>0</CounterScopeUseCurrentContext>
+                                            <CounterScopeUseActiveSession>1</CounterScopeUseActiveSession>
+                                            <CounterScopeContext>1999003012</CounterScopeContext>
+                                        </ConditionPlayerCounter>
+                                        <ConditionQuestStatusQuo>
+                                            <CombinePoolAssets>1</CombinePoolAssets>
+                                        </ConditionQuestStatusQuo>
+                                        <ConditionPropsExecutionPlaceSettings>
+                                            <ExecutionPlaceConfirmOnReached>0</ExecutionPlaceConfirmOnReached>
+                                        </ConditionPropsExecutionPlaceSettings>
+                                    </Values>
+                                </Objective>
+                            </Item>
                         </WinConditions>
                         <WinConditionCompletionOrder>Linear</WinConditionCompletionOrder>
                     </Objectives>
@@ -16707,21 +17228,7 @@
                         <OnQuestSucceeded>
                             <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
                             <Values>
-                                <ActionList>
-                                    <Actions>
-                                        <Item>
-                                            <Action>
-                                                <Template>ActionRegisterTrigger</Template>
-                                                <Values>
-                                                    <Action />
-                                                    <ActionRegisterTrigger>
-                                                        <TriggerAsset>1999003323</TriggerAsset>
-                                                    </ActionRegisterTrigger>
-                                                </Values>
-                                            </Action>
-                                        </Item>
-                                    </Actions>
-                                </ActionList>
+                                <ActionList/>
                             </Values>
                         </OnQuestSucceeded>
                         <OnQuestEnd>
@@ -16870,6 +17377,31 @@
                                             <CounterScopeContext>1999003012</CounterScopeContext>
                                         </ConditionPlayerCounter>
                                         <ConditionQuestStatusQuo/>
+                                        <ConditionPropsExecutionPlaceSettings>
+                                            <ExecutionPlaceConfirmOnReached>0</ExecutionPlaceConfirmOnReached>
+                                        </ConditionPropsExecutionPlaceSettings>
+                                    </Values>
+                                </Objective>
+                            </Item>
+                            <Item>
+                                <Objective>
+                                    <Template>StatusQuoObjective</Template>
+                                    <Values>
+                                        <ConditionQuestObjective>
+                                            <TextCombinedContextValue>1999003418</TextCombinedContextValue>
+                                            <IsVisibleInQuestTracker>0</IsVisibleInQuestTracker>
+                                        </ConditionQuestObjective>
+                                        <ConditionPlayerCounter>
+                                            <Context>700048</Context>
+                                            <CounterAmount>1</CounterAmount>
+                                            <CounterScope>Area</CounterScope>
+                                            <CounterScopeUseCurrentContext>0</CounterScopeUseCurrentContext>
+                                            <CounterScopeUseActiveSession>1</CounterScopeUseActiveSession>
+                                            <CounterScopeContext>1999003012</CounterScopeContext>
+                                        </ConditionPlayerCounter>
+                                        <ConditionQuestStatusQuo>
+                                            <CombinePoolAssets>1</CombinePoolAssets>
+                                        </ConditionQuestStatusQuo>
                                         <ConditionPropsExecutionPlaceSettings>
                                             <ExecutionPlaceConfirmOnReached>0</ExecutionPlaceConfirmOnReached>
                                         </ConditionPropsExecutionPlaceSettings>
@@ -17227,6 +17759,31 @@
                         <WinConditions>
                             <Item>
                                 <Objective>
+                                    <Template>StatusQuoObjective</Template>
+                                    <Values>
+                                        <ConditionQuestObjective>
+                                            <TextCombinedContextValue>1999003418</TextCombinedContextValue>
+                                            <IsVisibleInQuestTracker>0</IsVisibleInQuestTracker>
+                                        </ConditionQuestObjective>
+                                        <ConditionPlayerCounter>
+                                            <Context>700048</Context>
+                                            <CounterAmount>1</CounterAmount>
+                                            <CounterScope>Area</CounterScope>
+                                            <CounterScopeUseCurrentContext>0</CounterScopeUseCurrentContext>
+                                            <CounterScopeUseActiveSession>1</CounterScopeUseActiveSession>
+                                            <CounterScopeContext>1999003012</CounterScopeContext>
+                                        </ConditionPlayerCounter>
+                                        <ConditionQuestStatusQuo>
+                                            <CombinePoolAssets>1</CombinePoolAssets>
+                                        </ConditionQuestStatusQuo>
+                                        <ConditionPropsExecutionPlaceSettings>
+                                            <ExecutionPlaceConfirmOnReached>0</ExecutionPlaceConfirmOnReached>
+                                        </ConditionPropsExecutionPlaceSettings>
+                                    </Values>
+                                </Objective>
+                            </Item>
+                            <Item>
+                                <Objective>
                                     <Template>FakeQuestObjective</Template>
                                     <Values>
                                         <ConditionQuestObjective />
@@ -17242,6 +17799,7 @@
                                 </Objective>
                             </Item>
                         </WinConditions>
+                        <WinConditionCompletionOrder>Linear</WinConditionCompletionOrder>
                     </Objectives>
                     <QuestOptional>
                         <HasStarterObject>None</HasStarterObject>
@@ -17506,7 +18064,7 @@
                     </Island>
                 </Values>
             </Asset>
-        </ModOp> 
+        </ModOp>
 
         <ModOp Type="addNextSibling" GUID="112691">
             <Asset>
@@ -18590,7 +19148,7 @@
                 </Values>
             </Asset>
         </ModOp>
-          
+
         <ModOp Type="add" GUID="141600" Path="/Values/SelectionFeature/UpgradeLists/Item[1]/BuildingGroup">
             <Item>
                 <BaseBuilding>1999003390</BaseBuilding>
@@ -18610,71 +19168,71 @@
 
         <ModOp Type="add" GUID="193480" Path="/Values/ItemEffectTargetPool/EffectTargetGUIDs">
             <Item>
-                <GUID>1999003390</GUID> 
+                <GUID>1999003390</GUID>
             </Item>
             <Item>
-                <GUID>1999003445</GUID> 
+                <GUID>1999003445</GUID>
             </Item>
             <Item>
-                <GUID>1999003446</GUID> 
+                <GUID>1999003446</GUID>
             </Item>
         </ModOp>
         <ModOp Type="add" GUID="4278" Path="/Values/ItemEffectTargetPool/EffectTargetGUIDs">
             <Item>
-                <GUID>1999003390</GUID> 
+                <GUID>1999003390</GUID>
             </Item>
             <Item>
-                <GUID>1999003445</GUID> 
+                <GUID>1999003445</GUID>
             </Item>
             <Item>
-                <GUID>1999003446</GUID> 
+                <GUID>1999003446</GUID>
             </Item>
         </ModOp>
         <ModOp Type="add" GUID="4694" Path="/Values/ItemEffectTargetPool/EffectTargetGUIDs">
             <Item>
-                <GUID>1999003390</GUID> 
+                <GUID>1999003390</GUID>
             </Item>
             <Item>
-                <GUID>1999003445</GUID> 
+                <GUID>1999003445</GUID>
             </Item>
             <Item>
-                <GUID>1999003446</GUID> 
+                <GUID>1999003446</GUID>
             </Item>
         </ModOp>
 
         <ModOp Type="add" GUID="103000" Path="/Values/PlayerCounterContextPool/Contexts">
             <Item>
-                <Asset>1999003390</Asset> 
+                <Asset>1999003390</Asset>
             </Item>
             <Item>
-                <Asset>1999003445</Asset> 
+                <Asset>1999003445</Asset>
             </Item>
             <Item>
-                <Asset>1999003446</Asset> 
+                <Asset>1999003446</Asset>
             </Item>
         </ModOp>
 
         <ModOp Type="add" GUID="3765" Path="/Values/FeedbackBuildingGroup/Buildings">
             <Item>
-                <Building>1999003390</Building> 
+                <Building>1999003390</Building>
             </Item>
             <Item>
-                <Building>1999003445</Building> 
+                <Building>1999003445</Building>
             </Item>
             <Item>
-                <Building>1999003446</Building> 
+                <Building>1999003446</Building>
             </Item>
         </ModOp>
 
         <ModOp Type="add" GUID="1989" Path="/Values/AssetPool/AssetList">
             <Item>
-                <Asset>1999003390</Asset> 
+                <Asset>1999003390</Asset>
             </Item>
             <Item>
-                <Asset>1999003445</Asset> 
+                <Asset>1999003445</Asset>
             </Item>
             <Item>
-                <Asset>1999003446</Asset> 
+                <Asset>1999003446</Asset>
             </Item>
         </ModOp>
 
@@ -19038,7 +19596,7 @@
         </ModOp>
 
         <ModOp Type="replace" GUID="116167" Path="/Values/Item/Allocation">
-            <Allocation>Mod3</Allocation>    
+            <Allocation>Mod3</Allocation>
         </ModOp>
 
         <ModOp Type="addNextSibling" GUID="25000194,500137" Path="/Values/ConstructionCategory/BuildingList/Item[Building = '500916']">
@@ -19546,7 +20104,7 @@
                     </Culture>
                     <EcoSystemProvider/>
                 </Values>
-            </Asset>  
+            </Asset>
             <Asset>
                 <Template>FreeAreaBuilding</Template>
                 <Values>
@@ -19756,7 +20314,7 @@
                     </Culture>
                     <EcoSystemProvider/>
                 </Values>
-            </Asset>  
+            </Asset>
         </ModOp>
 
         <ModOp Type="add" GUID="500204" Path="/Values/MinimapScene/FertilityOrder">
@@ -19790,7 +20348,7 @@
         </ModOp>
 
         <ModOp Type="replace" GUID="7225,116080,116078,116079" Path="/Values/Item/Allocation">
-            <Allocation>Mod3</Allocation>    
+            <Allocation>Mod3</Allocation>
         </ModOp>
 
         <ModOp Type="addNextSibling" GUID="25000193,500950" Path="/Values/ConstructionCategory/BuildingList/Item[Building = '501637']">
@@ -20245,7 +20803,7 @@
                                     </Values>
                                 </TriggerAction>
                             </Item>
-                        </TriggerActions> 
+                        </TriggerActions>
                         <SubTriggers>
                             <Item>
                                 <SubTrigger>
@@ -21527,7 +22085,7 @@
                                                 </Values>
                                             </Action>
                                         </Item>
-                                    </Actions>  
+                                    </Actions>
                                 </ActionList>
                             </Values>
                         </OnQuestStart>
@@ -24234,6 +24792,273 @@
                     </ResetTrigger>
                   </Trigger>
                   <TriggerSetup />
+                </Values>
+            </Asset>
+        </ModOp>
+    </Group>
+
+    <!-- #Changes to NW Tourism for this Mod: Unlock Bar, Cafe, Restaurant in mayabeque specifically as a precautionary measure since so many reported the bug -->
+    <Group>
+        <ModOp Type="addNextSibling" GUID="130248" Condition="#FamTaubeLexy_NewWorldHotels">
+            <Asset>
+                <Template>Trigger</Template>
+                <Values>
+                    <Standard>
+                        <GUID>1999003458</GUID>
+                        <Name>Trigger to Unlock Restaurant in Mayabeque specifically</Name>
+                    </Standard>
+                    <Trigger>
+                        <TriggerCondition>
+                            <Template>ConditionActiveSession</Template>
+                            <Values>
+                                <Condition />
+                                <ConditionActiveSession>
+                                    <ActiveSession>1999003005</ActiveSession>
+                                </ConditionActiveSession>
+                            </Values>
+                        </TriggerCondition>
+                        <TriggerActions>
+                            <Item>
+                                <TriggerAction>
+                                    <Template>ActionUnlockAsset</Template>
+                                    <Values>
+                                        <Action />
+                                        <ActionUnlockAsset>
+                                            <UnlockAssets>
+                                                <Item>
+                                                    <Asset>1440134340</Asset>
+                                                </Item>
+                                            </UnlockAssets>
+                                        </ActionUnlockAsset>
+                                    </Values>
+                                </TriggerAction>
+                            </Item>
+                        </TriggerActions>
+                        <SubTriggers>
+                            <Item>
+                                <SubTrigger>
+                                    <Template>AutoCreateTrigger</Template>
+                                    <Values>
+                                        <Trigger>
+                                            <TriggerCondition>
+                                                <Template>ConditionPlayerCounter</Template>
+                                                <Values>
+                                                    <Condition />
+                                                    <ConditionPlayerCounter>
+                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
+                                                        <Context>601379</Context>
+                                                        <CounterScope>Session</CounterScope>
+                                                        <CounterAmount>250</CounterAmount>
+                                                        <CounterScopeContext>1999003005</CounterScopeContext>
+                                                        <CounterScopeUseCurrentContext>0</CounterScopeUseCurrentContext>
+                                                    </ConditionPlayerCounter>
+                                                </Values>
+                                            </TriggerCondition>
+                                        </Trigger>
+                                    </Values>
+                                </SubTrigger>
+                            </Item>
+                        </SubTriggers>
+                    </Trigger>
+                    <TriggerSetup />
+                </Values>
+            </Asset>
+            <Asset>
+                <Template>Trigger</Template>
+                <Values>
+                    <Standard>
+                        <GUID>1999003459</GUID>
+                        <Name>Trigger to Unlock Cafe in Mayabeque specifically</Name>
+                    </Standard>
+                    <Trigger>
+                        <TriggerCondition>
+                            <Template>ConditionActiveSession</Template>
+                            <Values>
+                                <Condition />
+                                <ConditionActiveSession>
+                                    <ActiveSession>1999003005</ActiveSession>
+                                </ConditionActiveSession>
+                            </Values>
+                        </TriggerCondition>
+                        <TriggerActions>
+                            <Item>
+                                <TriggerAction>
+                                    <Template>ActionUnlockAsset</Template>
+                                    <Values>
+                                        <Action />
+                                        <ActionUnlockAsset>
+                                            <UnlockAssets>
+                                                <Item>
+                                                    <Asset>1440134341</Asset>
+                                                </Item>
+                                            </UnlockAssets>
+                                        </ActionUnlockAsset>
+                                    </Values>
+                                </TriggerAction>
+                            </Item>
+                        </TriggerActions>
+                        <SubTriggers>
+                            <Item>
+                                <SubTrigger>
+                                    <Template>AutoCreateTrigger</Template>
+                                    <Values>
+                                        <Trigger>
+                                            <TriggerCondition>
+                                                <Template>ConditionPlayerCounter</Template>
+                                                <Values>
+                                                    <Condition />
+                                                    <ConditionPlayerCounter>
+                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
+                                                        <Context>601379</Context>
+                                                        <CounterScope>Session</CounterScope>
+                                                        <CounterAmount>550</CounterAmount>
+                                                        <CounterScopeContext>1999003005</CounterScopeContext>
+                                                        <CounterScopeUseCurrentContext>0</CounterScopeUseCurrentContext>
+                                                    </ConditionPlayerCounter>
+                                                </Values>
+                                            </TriggerCondition>
+                                        </Trigger>
+                                    </Values>
+                                </SubTrigger>
+                            </Item>
+                        </SubTriggers>
+                    </Trigger>
+                    <TriggerSetup />
+                </Values>
+            </Asset>
+            <Asset>
+                <Template>Trigger</Template>
+                <Values>
+                    <Standard>
+                        <GUID>1999003460</GUID>
+                        <Name>Trigger to Unlock Bar in Mayabeque specifically</Name>
+                    </Standard>
+                    <Trigger>
+                        <TriggerCondition>
+                            <Template>ConditionActiveSession</Template>
+                            <Values>
+                                <Condition />
+                                <ConditionActiveSession>
+                                    <ActiveSession>1999003005</ActiveSession>
+                                </ConditionActiveSession>
+                            </Values>
+                        </TriggerCondition>
+                        <TriggerActions>
+                            <Item>
+                                <TriggerAction>
+                                    <Template>ActionUnlockAsset</Template>
+                                    <Values>
+                                        <Action />
+                                        <ActionUnlockAsset>
+                                            <UnlockAssets>
+                                                <Item>
+                                                    <Asset>1440134342</Asset>
+                                                </Item>
+                                            </UnlockAssets>
+                                        </ActionUnlockAsset>
+                                    </Values>
+                                </TriggerAction>
+                            </Item>
+                        </TriggerActions>
+                        <SubTriggers>
+                            <Item>
+                                <SubTrigger>
+                                    <Template>AutoCreateTrigger</Template>
+                                    <Values>
+                                        <Trigger>
+                                            <TriggerCondition>
+                                                <Template>ConditionPlayerCounter</Template>
+                                                <Values>
+                                                    <Condition />
+                                                    <ConditionPlayerCounter>
+                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
+                                                        <Context>601379</Context>
+                                                        <CounterScope>Session</CounterScope>
+                                                        <CounterAmount>1500</CounterAmount>
+                                                        <CounterScopeContext>1999003005</CounterScopeContext>
+                                                        <CounterScopeUseCurrentContext>0</CounterScopeUseCurrentContext>
+                                                    </ConditionPlayerCounter>
+                                                </Values>
+                                            </TriggerCondition>
+                                        </Trigger>
+                                    </Values>
+                                </SubTrigger>
+                            </Item>
+                        </SubTriggers>
+                    </Trigger>
+                    <TriggerSetup />
+                </Values>
+            </Asset>
+            <Asset>
+                <Template>Trigger</Template>
+                <Values>
+                    <Standard>
+                        <GUID>1999003461</GUID>
+                        <Name>Trigger to Unlock Restuarant Monument in Mayabeque specifically</Name>
+                    </Standard>
+                    <Trigger>
+                        <TriggerCondition>
+                            <Template>ConditionActiveSession</Template>
+                            <Values>
+                                <Condition />
+                                <ConditionActiveSession>
+                                    <ActiveSession>1999003005</ActiveSession>
+                                </ConditionActiveSession>
+                            </Values>
+                        </TriggerCondition>
+                        <TriggerActions>
+                            <Item>
+                                <TriggerAction>
+                                    <Template>ActionUnlockAsset</Template>
+                                    <Values>
+                                        <Action />
+                                        <ActionUnlockAsset>
+                                            <UnlockAssets>
+                                                <Item>
+                                                    <Asset>1440134400</Asset>
+                                                </Item>
+                                                <Item>
+                                                    <Asset>1440134430</Asset>
+                                                </Item>
+                                                <Item>
+                                                    <Asset>1440134431</Asset>
+                                                </Item>
+                                                <Item>
+                                                    <Asset>1440134432</Asset>
+                                                </Item>
+                                            </UnlockAssets>
+                                        </ActionUnlockAsset>
+                                    </Values>
+                                </TriggerAction>
+                            </Item>
+                        </TriggerActions>
+                        <SubTriggers>
+                            <Item>
+                                <SubTrigger>
+                                    <Template>AutoCreateTrigger</Template>
+                                    <Values>
+                                        <Trigger>
+                                            <TriggerCondition>
+                                                <Template>ConditionPlayerCounter</Template>
+                                                <Values>
+                                                    <Condition />
+                                                    <ConditionPlayerCounter>
+                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
+                                                        <Context>601379</Context>
+                                                        <CounterScope>Session</CounterScope>
+                                                        <CounterAmount>1500</CounterAmount>
+                                                        <CounterScopeContext>1999003005</CounterScopeContext>
+                                                        <CounterScopeUseCurrentContext>0</CounterScopeUseCurrentContext>
+                                                    </ConditionPlayerCounter>
+                                                </Values>
+                                            </TriggerCondition>
+                                        </Trigger>
+                                    </Values>
+                                </SubTrigger>
+                            </Item>
+                        </SubTriggers>
+                    </Trigger>
+                    <TriggerSetup />
                 </Values>
             </Asset>
         </ModOp>

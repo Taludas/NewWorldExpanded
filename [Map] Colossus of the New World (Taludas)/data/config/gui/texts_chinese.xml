@@ -1182,5 +1182,12 @@ Yaosca Rodriguez
       <GUID>1999003453</GUID>
       <Text>Santa Cruz Grand Hotel: High Attraction</Text>
     </Text>
+
+    <Text>
+      <!-- TODO translation -->
+      <GUID>1999003457</GUID>
+      <Text>Renovate the abandoned buildings:
+0/1 Ruins of the Santa Cruz Castle</Text>
+    </Text>
   </ModOp>
 </ModOps>

@@ -560,7 +560,7 @@ Die Leiterin des Forschungsinstituts - Yaosca Rodriguez - erklärt sich bereit, 
     </Text>
     <Text>
       <GUID>1999003179</GUID>
-      <Text>Bringt die Experten zu Vasco's Flagship, um den Renovierungsprozess zu beginnen.</Text>
+      <Text>Bringt die Experten zu Vasco's Flaggschiff, um den Renovierungsprozess zu beginnen.</Text>
     </Text>
 
     <Text>
@@ -1169,6 +1169,12 @@ Yaosca Rodriguez
     <Text>
       <GUID>1999003453</GUID>
       <Text>Santa Cruz Grand Hotel: Große Attraktion</Text>
+    </Text>
+
+    <Text>
+      <GUID>1999003457</GUID>
+      <Text>Renovieren Sie die verlassenen Gebäude:
+0/1 Ruine des Schlosses Santa Cruz</Text>
     </Text>
   </ModOp>
 </ModOps>

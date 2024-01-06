@@ -1,12 +1,15 @@
 {
-  "Version": "1.0.11",
+  "Version": "1.0.12",
   "ModID": "Taludas_NewWorldExpanded_Mayabeque",
   "IncompatibleIds": [
+    "Four_Crowns"
   ],
-  "LoadAfterIDs": [
+  "LoadAfterIds": [
     "FamTaubeLexy_NewWorldHotels",
     "jakob_new_world_cities",
-    "shared_combi_allocations_kurila"
+    "shared_combi_allocations_kurila",
+    "NoSunkenTreasureSession_Serp",
+    "KreitaniTaludas_Kingsgrove"
   ],
   "ModDependencies": [
     "shared_combi_allocations_kurila"
@@ -50,7 +53,7 @@
     "Spanish": null,
     "Taiwanese": null
   },
-  "KnownIssues": 
+  "KnownIssues":
   [
     {
       "Chinese": null,
@@ -70,7 +73,7 @@
     {
       "DLC": "ThePassage",
       "Dependant": "partly"
-    },    
+    },
     {
       "DLC": "Tourism",
       "Dependant": "partly"
