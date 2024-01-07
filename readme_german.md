@@ -3,7 +3,7 @@
 ![Thumbnail](https://user-images.githubusercontent.com/64583643/189413460-86d79429-272c-4c3a-b243-3733c109e044.png)
 
  Diese Mod erweitert die New World Map Generation mit neu gestalteten OW-Inseln und neuen Kartenvorlagen für mehr Abwechslung und Wiederspielbarkeit des Spiels. Außerdem findet ihr hier die Mod "Koloss der Neuen Welt: Expedition nach Mayabeque", das die Region der Neuen Welt um eine völlig neue Session erweitert, die nur darauf wartet erkundet zu werden.
- 
+
  Wenn dir diese Mods gefallen und du mich unterstützen möchtest, kannst du sie gerne mit deinen Freunden teilen. Ihr könnt mir auch einen Kaffee bei Ko-Fi ausgeben!
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W8L558T)
@@ -15,6 +15,28 @@
 - Wenn du die Mod manuell herunterlädst, verwende das Archiv von [GitHub releases] (https://github.com/Taludas/NewWorldExpanded/releases). Lade nicht das gesamte Repo herunter! Es werden dann mesh-files der Inseln fehlen (durchsichtige Inseln)!
 
 ## Changelog
+<details>
+    <summary>Patch Notes Version 3.0.1</summary>
+
+* Updates:
+    - Mehrere Korrekturen für "Koloss der Neuen Welt: Expedition nach Mayabeque":
+      - Fix für Map-Template: Kleine Änderung der Position von Palomas Insel, um ein Clipping in die große Nachbarinsel im Südosten zu verhindern (besonders wenn man mit NW Expanded Mod gleichzeitig spielt)
+      - Santa Cruz wurde nochmals bearbeitet, um einige Palmen in den Dschungel einzustreuen.
+      - Fix für fehlende LoadAfterId für Serps "Cape Trewlany disabler" Mod
+      - Fix für modinfo.json Tippfehler bei LoadAfterId
+      - Fix für Grand Hotel Santa Cruz, dass nun keine "0%" Produktivität im Sandbox Modus zeigt
+      - Fix für Grand Hotel, dies versorgt NW Tourism Hotels nun mit dem entsprechenden Happiness Need (siehe obiger Fix)
+      - Fix für Quest zum Bau des Kontors auf Santa Cruz: Die Quest wird nun als erledigt gezählt, selbst wenn das Kontor gebaut wird, bevor die zugehörige Quest ausgelöst wurde.
+      - Die Quest zum Bau des Kontors auf Santa Cruz wird nun gestartet, wenn man die Session zum ersten Mal betritt: die Quest zum Bau des Materials und des Kontors wird parallelisiert, um zu verhindern, dass Spieler das Kontor löschen müssen, um die Quest zu lösen, wenn sie die Questline nicht Wort für Wort befolgt haben (man musste erst zwingend das Baumaterial bei Vasco abholen).
+      - Fix für "NW-Tourism" Mod: Bar, Cafe, Restaurant und NW-Monument werden nun freigeschaltet, wenn Touristen nur in Cape Trelawny und nicht in der Alten Welt angesiedelt sind
+      - Fix für die erste Quest zur Auswahl eines Wirtshauses bei Verwendung von KIs: KI-Wirtshaus zählen nicht mehr
+      - Coop Trigger für Questline bei Verwendung von Cap Trelawny hinzugefügt
+      - Kompatibilität mit Kingsgrove hinzugefügt (aktualisierte Kingsgrove-Mod auf mod.io hochgeladen)
+      - Fix für den Verlust der Burgruine nach Kontor-Zerstörung/Verlust durch die KI, Quest ist allerdings immer noch fehlerhaft, wenn dies vor der anfänglichen Renovierung von Ruine zu Gerüst passiert, da sie dann als Ruine bleibt und zu einem CTD führt, wenn man versucht, sie zu auszubauen.
+      - Mehrere Loca-Dateien korrigiert und aktualisiert
+      - Traditionelle chinesische Loca hinzugefügt
+</details>
+
 <details>
     <summary>Patch Notes Version 3.0.0</summary>
 
@@ -36,7 +58,7 @@
 
 * Anpassungen:
     - Ich habe eine Version zur Verfügung gestellt, die eine randomisierte Kartenvorlage für die Neue Welt verwendet (hauptsächlich für die Verwendung mit mod.io, fortgeschrittene Benutzer können iMYA für mehr Anpassungsmöglichkeiten verwenden)
- 
+
 </details>
 <details>
     <summary>Patch Notes Version 1.2.0</summary>
@@ -69,13 +91,13 @@
     <summary>Patch Notes Version 0.1.2</summary>
 
 * Ein Fehler wurde behoben, bei dem einige Inseln nicht die neue Textur erhielten. Bitte ladet die neueste Version herunter und überschreibt den Download von v0.1.0!
-* 
+*
 </details>
 <details>
     <summary>Patch Notes Version 0.1.1</summary>
 
 * HOTFIX: Ich habe vergessen, die wichtigste Datei von allen hinzuzufügen! Die Materialset-Texturdatei! Bitte ladet die neueste Version herunter und überschreibt den Download von v0.1.0!
-* 
+*
 </details>
 <details>
     <summary>Patch Notes Version 0.1.0</summary>
@@ -122,7 +144,7 @@ Eine Mod in DLC-Größe, die dem Spiel eine zweite Session in der Neuen Welt hin
 
 Die wichtigste Neuerung von "Colossus of the New World" ist eine neue Region namens Mayabeque, die nach dem Abschluss einer Reihe von Quests und einer Expedition freigeschaltet wird, die verfügbar ist, sobald man 1 Investor besitzt. Die Expedition bietet auch ein komplett eigenes Expeditionsereignis. (Wenn ihr alle Entscheidungen des Ereignisses erkunden wollt, nehmt ein mittelmäßiges Schiff und nicht die besten Items mit, sonst könnt ihr das Ereignis bei den ersten Entscheidungen vielleicht überspringen. Speichert auch vor dem Ereignis, um alle Enden zu erforschen.)
 
-Es ist eine zweite Session in der Neuen Welt und besteht aus einer Mischung verschiedener Inselgrößen, von denen eine einzigartig ist, nämlich die große Kontinentalinsel "Santa Cruz", die sich im östlichen Teil der Region befindet. Einige von euch werden Crown Falls vielleicht wiedererkennen, aber sie wurde mit angepassten Texturen und Props vollständig in das Neue-Welt-Setting konvertiert. Die Session enthält auch eine Reihe von fünf einzigartigen küstenfreien Inseln, die aus dem Szenario "Der Postpokal" bekannt sind. Diese Klippeninseln können nur per Luftschiff besiedelt werden (wenn ihr das volle Potenzial dieser Klippeninseln ausschöpfen wollt, müsst ihr den DLC "Reich der Lüfte" aktivieren, um sie zu besiedeln) und verfügen über einige seltene Ressourcen, die ihr sicherlich nutzen wollt, um eure Investoren mit ihren anspruchsvollen Bedürfnissen zu versorgen. Um die lokale Wirtschaft zu unterstützen, haben zwei neue Händler Warenlager in der Region errichtet. Ansonsten ist das Gameplay in dieser Session, einschließlich der verfügbaren Bevölkerung, Gebäude, Waren, Ressourcen und Fruchtbarkeiten etc. das gleiche wie im Rest der Neuen Welt. 
+Es ist eine zweite Session in der Neuen Welt und besteht aus einer Mischung verschiedener Inselgrößen, von denen eine einzigartig ist, nämlich die große Kontinentalinsel "Santa Cruz", die sich im östlichen Teil der Region befindet. Einige von euch werden Crown Falls vielleicht wiedererkennen, aber sie wurde mit angepassten Texturen und Props vollständig in das Neue-Welt-Setting konvertiert. Die Session enthält auch eine Reihe von fünf einzigartigen küstenfreien Inseln, die aus dem Szenario "Der Postpokal" bekannt sind. Diese Klippeninseln können nur per Luftschiff besiedelt werden (wenn ihr das volle Potenzial dieser Klippeninseln ausschöpfen wollt, müsst ihr den DLC "Reich der Lüfte" aktivieren, um sie zu besiedeln) und verfügen über einige seltene Ressourcen, die ihr sicherlich nutzen wollt, um eure Investoren mit ihren anspruchsvollen Bedürfnissen zu versorgen. Um die lokale Wirtschaft zu unterstützen, haben zwei neue Händler Warenlager in der Region errichtet. Ansonsten ist das Gameplay in dieser Session, einschließlich der verfügbaren Bevölkerung, Gebäude, Waren, Ressourcen und Fruchtbarkeiten etc. das gleiche wie im Rest der Neuen Welt.
 
 Der DLC enthält eine 15 Quests lange Storyline, die sich um den Aufbau der neuen Kolonialmacht dreht, die von einem bekannten Charakter aus einem anderen DLC unterstützt wird. Um alle Möglichkeiten der Geschichte zu erkunden, solltet ihr ein zweites Spiel beginnen, um herauszufinden, welches Ende am besten zu eurem Spielstil passt. (oder ladet den Save vor der DecisionQuest) Während ihr der Questlinie folgt, habt ihr die Möglichkeit, eine von zwei Versionen eines einzigartigen Monuments auf der Insel Santa Cruz zu errichten, das entweder eurem Militär und eurer Handelsflotte zugute kommt oder euer Tourismusimperium ine eine neue Dimension befördert (um diesen Teil der Questlinie abzuschließen, müsst ihr die DLCs "Aufstieg der Neuen Welt" und "Reisezeit" sowie die Mod "New World Tourism" aktivieren).
 

@@ -5,7 +5,7 @@
  This mod enhances the New World map generation with reskinned OW Islands and fresh map templates for more variety and replayability of the game. There is also "Colossus of the New World: Finding Mayabeque" which adds a completely new session to the New World region for you to explore.
 
  Für die deutsche Version des readmes, bitte [hier](readme_german.md) klicken.
- 
+
  If you like this mod and want to support me, feel free to share it with your friends. You can also buy me a coffee at Ko-Fi!
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W8L558T)
@@ -17,6 +17,27 @@
 - If you download the mod manually, use the archive from [GitHub releases](https://github.com/Taludas/NewWorldExpanded/releases). Don't download the whole repo! (If you do the latter, you will find yourself with missing island mesh files! -> Invisible islands)
 
 ## Changelog
+<details>
+    <summary>Patch Notes Version 3.0.1</summary>
+
+* Updates:
+    - Several fixes for "Colossus of the New World: Finding Mayabeque":
+      - Fix for map template: Small change to the position of Paloma's island to prevent clipping into the large neighbouring island in the southeast (especially if you play with NW Expanded Mod at the same time)
+      - Santa Cruz has been reworked to add some palm trees variation to the jungle
+      - Fix missing LoadAfterId for Serps "Cape Trewlany disabler" Mod
+      - Fix modinfo.json typo in LoadAfterId
+      - Fix Grand Hotel Santa Cruz showing "0%" Productivity in Sandbox
+      - Fix Grand Hotel not supplying NW Tourism Hotels with the corresponding Happiness Need (see above fix)
+      - Fix Quest to build Kontor on Santa Cruz: Quest now resolves when Kontor is built before the Quest triggered.
+      - Quest to build Kontor on Santa Cruz will now be started when entering session for the first time, parallelizing the build material and kontor building quest, to prevent players from having to delete the Kontor to solve the quest, if they didn't follow the Questline word for word.
+      - [NW Tourism] Fix Bar, Cafe, Restaurant and NW Monument not unlocking if Tourists are only settled in Cape Trelawny
+      - Fix first quest to select a pub when using AIs: AI pubs no longer count
+      - Coop Trigger for Questline when using Cap Trelawny
+      - Add Compatibility with Kingsgrove (upload updated Kingsgrove mod to mod.io)
+      - Fix loosing castle ruin after Kontor destruction/loss through AI, Quest is still bugged when this happens before the initial renovation from ruin to scaffolding happens, as it then stays as a ruin and will lead to a CTD when trying to upgrade.
+      - Fix and update several loca files
+      - add traditional chinese loca
+</details>
 
 <details>
     <summary>Patch Notes Version 3.0.0</summary>
@@ -38,7 +59,7 @@
 
 * Adjustments:
     - Made a version available which uses a randomized map template for the New World (primarily for usage with mod.io, advanced users may use iMYA for more tweakability)
- 
+
 </details>
 <details>
     <summary>Patch Notes Version 1.2.0</summary>
@@ -92,7 +113,7 @@
 
 ![banner](https://user-images.githubusercontent.com/64583643/189413451-f866f2cf-2e93-4c53-9e47-547e6d874627.png)
 ## New World Expanded: Reskinned Old World Islands for the New World
-This module contains 15 reskinned OW islands to use it in the random pool for map generation in the NW for more variety in the session where you normally find all the same islands again and again. The Islands have no new mesh, only the textures and props are replaced to fit the NW. 
+This module contains 15 reskinned OW islands to use it in the random pool for map generation in the NW for more variety in the session where you normally find all the same islands again and again. The Islands have no new mesh, only the textures and props are replaced to fit the NW.
 
 Have a look for yourself how good some variety in the NW actually is and what you can think of, maybe a little tropical touristic paradise?
 
@@ -124,7 +145,7 @@ A DLC sized mod that adds a second New World session to the game, including a 15
 
 The main addition of "Colossus of the New World" is a new region called Mayabeque, unlocked after completing a series of Quest and an Expedition available once you house 1 Investor. The Expedition also features one completely custom Expedition Event. (If you want to explore all decisions of the Event, bring a medicore boat and not the best items, otherwise you might be able to skip the event on the first decisions. Also save before the Event to explore all endings.)
 
-It is a second New World region and consists of a mixture of different island sizes with one of them being unique, it is the big continental island named "Santa Cruz", located in the eastern part of the region. Some of you may identify Crown Falls, but it has been fully converted to the New World setting with adapted textures and props. The session also features a set of five unique coast-free islands known from the "Clash of Couriers" Scenario. These cliff islands can only be settled via Airship (if you want to utilise these Cliff islands to their full potential, you will need the "Empires of the Skies" DLC enabled to settle them) and feature some rare ressources, you will surely try to exploit to provide your Investors with their sophisticated needs. To support your local economy, two new traders have established warehouses in the new region. Otherwise the Gameplay in this region, including available population, buildings, goods, resources and fertilities etc. is the same as in the rest of the New World. 
+It is a second New World region and consists of a mixture of different island sizes with one of them being unique, it is the big continental island named "Santa Cruz", located in the eastern part of the region. Some of you may identify Crown Falls, but it has been fully converted to the New World setting with adapted textures and props. The session also features a set of five unique coast-free islands known from the "Clash of Couriers" Scenario. These cliff islands can only be settled via Airship (if you want to utilise these Cliff islands to their full potential, you will need the "Empires of the Skies" DLC enabled to settle them) and feature some rare ressources, you will surely try to exploit to provide your Investors with their sophisticated needs. To support your local economy, two new traders have established warehouses in the new region. Otherwise the Gameplay in this region, including available population, buildings, goods, resources and fertilities etc. is the same as in the rest of the New World.
 
 The DLC includes a 15-quest long storyline which surrounds the build-up of the new colonial power, assisted by a well known character of another DLC. The questline has two unique endings, so to explore all possibilites of the story, you may want to start a second game to discover which one suits your playstyle best. While following the questline you will get the option to build up one of two versions of a unique monument on Santa Cruz island, either benefiting your military and trading fleet or boosting your Tourism Empire to a new level (To complete this part of the Questline you will need the "New World Rising" and "Tourist Season" DLCs and the Mod "New World Tourism" enabled.)
 
