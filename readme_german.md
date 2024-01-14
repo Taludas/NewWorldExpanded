@@ -16,6 +16,16 @@
 
 ## Changelog
 <details>
+    <summary>Patch Notes Version 3.0.2</summary>
+
+* Updates:
+    - Mehrere Korrekturen für "Koloss der Neuen Welt: Expedition nach Mayabeque":
+      - neuer erweiterter Mod-Trigger von Serp für alle möglichen Bedingungen zum Starten der Questline für Mayabeque
+      - Behebung des Problems, dass die Produktionszeit des Grand Hotel Santa Cruz von 5:00 auf 4:30 und dann wieder zurücksprang, indem die Produktionszeit auf 0 Sekunden reduziert wurde.
+      - Behebung des Problems, dass die Ruinen der Burg Santa Cruz zu früh freigeschaltet wurden, weil DefaultLockedState = 0 für die Ruinen zu Testzwecken in v1.0.12 eingeführt und versehentlich drinnen gelassen wurde. Siehe Release für Probleme und mögliche Lösungen, die sich aus diesem Fehler ergeben.
+</details>
+
+<details>
     <summary>Patch Notes Version 3.0.1</summary>
 
 * Updates:

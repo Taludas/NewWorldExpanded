@@ -18,6 +18,16 @@
 
 ## Changelog
 <details>
+    <summary>Patch Notes Version 3.0.2</summary>
+
+* Updates:
+    - Several fixes for "Colossus of the New World: Finding Mayabeque":
+      - new advanced mod trigger by Serp for all possible conditions to start the Questline for Mayabeque
+      - fix issue with cycle time of the Grand Hotel Santa Cruz going from 5:00 to 4:30 and then jumping back by reducing the cycle time to 0 seconds.
+      - fix issue with early unlock of the Ruins of Castle Santa Cruz due to DefaultLockedState 0 introduced for the ruins for testing in v1.0.12 and left inside accidentally. See release for issues and possible solutions coming from this bug.
+</details>
+
+<details>
     <summary>Patch Notes Version 3.0.1</summary>
 
 * Updates:

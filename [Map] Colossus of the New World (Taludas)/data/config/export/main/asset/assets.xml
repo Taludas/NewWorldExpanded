@@ -2989,454 +2989,208 @@
         </ModOp>
 
         <!-- Trigger Questline -->
-        <ModOp Type="addNextSibling" GUID="113443" Condition="#NoSunkenTreasureSession_Serp">
-            <Asset>
-                <Template>Trigger</Template>
-                <Values>
-                    <Standard>
-                        <GUID>1999003424</GUID>
-                        <Name>Trigger Questline for Mayabeque - Sunken Treasures Active, but Serps Mod to disable the Session is used</Name>
-                    </Standard>
-                    <Trigger>
-                        <TriggerCondition>
-                            <Template>ConditionIsDLCActive</Template>
-                            <Values>
-                                <Condition />
-                                <ConditionIsDLCActive>
-                                    <DLCAssetList>
-                                        <Item>
-                                            <DLCAsset>410040</DLCAsset>
-                                        </Item>
-                                    </DLCAssetList>
-                                </ConditionIsDLCActive>
-                                <ConditionPropsNegatable />
-                            </Values>
-                        </TriggerCondition>
-                        <TriggerActions>
-                            <Item>
-                                <TriggerAction>
-                                    <Template>ActionRegisterTrigger</Template>
-                                    <Values>
-                                        <Action />
-                                        <ActionRegisterTrigger>
-                                            <TriggerAsset>1999003032</TriggerAsset>
-                                        </ActionRegisterTrigger>
-                                    </Values>
-                                </TriggerAction>
-                            </Item>
-                        </TriggerActions>
-                        <SubTriggers>
-                            <Item>
-                                <SubTrigger>
-                                    <Template>AutoCreateTrigger</Template>
-                                    <Values>
-                                        <Trigger>
-                                            <TriggerCondition>
-                                                <Template>ConditionPlayerCounter</Template>
-                                                <Values>
-                                                    <Condition />
-                                                    <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>15000004</Context>
-                                                        <CounterAmount>1</CounterAmount>
-                                                    </ConditionPlayerCounter>
-                                                </Values>
-                                            </TriggerCondition>
-                                        </Trigger>
-                                    </Values>
-                                </SubTrigger>
-                            </Item>
-                            <Item>
-                                <SubTrigger>
-                                    <Template>AutoCreateTrigger</Template>
-                                    <Values>
-                                        <Trigger>
-                                            <TriggerCondition>
-                                                <Template>ConditionPlayerCounter</Template>
-                                                <Values>
-                                                    <Condition />
-                                                    <ConditionPlayerCounter>
-                                                        <PlayerCounter>ObjectBuilt</PlayerCounter>
-                                                        <Context>1010358</Context>
-                                                        <CounterAmount>1</CounterAmount>
-                                                    </ConditionPlayerCounter>
-                                                </Values>
-                                            </TriggerCondition>
-                                        </Trigger>
-                                    </Values>
-                                </SubTrigger>
-                            </Item>
-                        </SubTriggers>
-                    </Trigger>
-                    <TriggerSetup>
-                        <UsedBySecondParties>0</UsedBySecondParties>
-                    </TriggerSetup>
-                </Values>
-            </Asset>
-        </ModOp>
         <ModOp Type="addNextSibling" GUID="113443">
             <Asset>
                 <Template>Trigger</Template>
                 <Values>
-                    <Standard>
-                        <GUID>1999003029</GUID>
-                        <Name>Trigger Questline for Mayabeque - Sunken Treasures Active</Name>
-                    </Standard>
-                    <Trigger>
-                        <TriggerCondition>
-                            <Template>ConditionIsDLCActive</Template>
-                            <Values>
-                                <Condition />
-                                <ConditionIsDLCActive>
-                                    <DLCAssetList>
-                                        <Item>
-                                            <DLCAsset>410040</DLCAsset>
-                                        </Item>
-                                    </DLCAssetList>
-                                </ConditionIsDLCActive>
-                                <ConditionPropsNegatable />
-                            </Values>
-                        </TriggerCondition>
-                        <TriggerActions>
-                            <Item>
-                                <TriggerAction>
-                                    <Template>ActionRegisterTrigger</Template>
-                                    <Values>
-                                        <Action />
-                                        <ActionRegisterTrigger>
-                                            <TriggerAsset>1999003032</TriggerAsset>
-                                        </ActionRegisterTrigger>
-                                    </Values>
-                                </TriggerAction>
-                            </Item>
-                        </TriggerActions>
-                        <SubTriggers>
-                            <Item>
-                                <SubTrigger>
+                  <Standard>
+                    <GUID>1999003029</GUID>
+                    <Name>Trigger Questline for Mayabeque - Combined Trigger by Serp</Name>
+                  </Standard>
+                  <Trigger>
+                    <TriggerCondition>
+                      <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+                      <Values>
+                        <Condition />
+                        <ConditionAlwaysTrue />
+                      </Values>
+                    </TriggerCondition>
+                    <SubTriggers>
+                      <Item>
+                        <SubTrigger>
+                          <Template>AutoCreateTrigger</Template>
+                          <Values>
+                            <Trigger>
+                              <TriggerCondition>
+                                <Template>ConditionPlayerCounter</Template>
+                                <Values>
+                                  <Condition />
+                                  <ConditionPlayerCounter>
+                                    <PlayerCounter>PopulationByLevel</PlayerCounter>
+                                    <Context>15000004</Context>
+                                    <CounterAmount>1</CounterAmount>
+                                  </ConditionPlayerCounter>
+                                </Values>
+                              </TriggerCondition>
+                              <SubTriggers>
+                                <Item>
+                                  <SubTrigger>
                                     <Template>AutoCreateTrigger</Template>
                                     <Values>
-                                        <Trigger>
-                                            <TriggerCondition>
-                                                <Template>ConditionQuestState</Template>
-                                                <Values>
-                                                    <Condition />
-                                                    <ConditionQuestState>
-                                                        <ConditionQuestStateStates>Reached</ConditionQuestStateStates>
-                                                        <ConditionQuestStateQuestGUID>114066</ConditionQuestStateQuestGUID>
-                                                    </ConditionQuestState>
-                                                </Values>
-                                            </TriggerCondition>
-                                        </Trigger>
+                                      <Trigger>
+                                        <TriggerCondition>
+                                          <Template>ConditionPlayerCounter</Template>
+                                          <Values>
+                                            <Condition />
+                                            <ConditionPlayerCounter>
+                                              <PlayerCounter>ObjectBuilt</PlayerCounter>
+                                              <Context>1010358</Context>
+                                              <CounterAmount>1</CounterAmount>
+                                            </ConditionPlayerCounter>
+                                          </Values>
+                                        </TriggerCondition>
+                                        <SubTriggers>
+                                          <Item>
+                                            <SubTrigger>
+                                              <Template>AutoCreateTrigger</Template>
+                                              <Values>
+                                                <Trigger>
+                                                  <TriggerCondition>
+                                                    <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+                                                    <Values>
+                                                      <Condition>
+                                                        <SubConditionCompletionOrder>MutuallyExclusive</SubConditionCompletionOrder>
+                                                      </Condition>
+                                                      <ConditionAlwaysTrue />
+                                                    </Values>
+                                                  </TriggerCondition>
+                                                  <SubTriggers>
+                                                    <Item>
+                                                      <SubTrigger>
+                                                        <Template>AutoCreateTrigger</Template>
+                                                        <Values>
+                                                          <Trigger>
+                                                            <TriggerCondition>
+                                                              <Template>ConditionIsDLCActive</Template>
+                                                              <Values>
+                                                                <Condition />
+                                                                <ConditionIsDLCActive>
+                                                                  <DLCAssetList>
+                                                                    <Item>
+                                                                      <DLCAsset>410040</DLCAsset>
+                                                                    </Item>
+                                                                  </DLCAssetList>
+                                                                </ConditionIsDLCActive>
+                                                                <ConditionPropsNegatable />
+                                                              </Values>
+                                                            </TriggerCondition>
+                                                            <SubTriggers>
+                                                              <Item>
+                                                                <SubTrigger>
+                                                                  <Template>AutoCreateTrigger</Template>
+                                                                  <Values>
+                                                                    <Trigger>
+                                                                      <TriggerCondition>
+                                                                        <Template>ConditionQuestState</Template>
+                                                                        <Values>
+                                                                          <Condition />
+                                                                          <ConditionQuestState>
+                                                                            <ConditionQuestStateStates>Reached</ConditionQuestStateStates>
+                                                                            <ConditionQuestStateQuestGUID>114066</ConditionQuestStateQuestGUID>
+                                                                          </ConditionQuestState>
+                                                                        </Values>
+                                                                      </TriggerCondition>
+                                                                    </Trigger>
+                                                                  </Values>
+                                                                </SubTrigger>
+                                                              </Item>
+                                                            </SubTriggers>
+                                                          </Trigger>
+                                                        </Values>
+                                                      </SubTrigger>
+                                                    </Item>
+                                                    <Item>
+                                                      <SubTrigger>
+                                                        <Template>AutoCreateTrigger</Template>
+                                                        <Values>
+                                                          <Trigger>
+                                                            <TriggerCondition>
+                                                              <Template>ConditionIsDLCActive</Template>
+                                                              <Values>
+                                                                <Condition />
+                                                                <ConditionIsDLCActive>
+                                                                  <DLCAssetList>
+                                                                    <Item>
+                                                                      <DLCAsset>410040</DLCAsset>
+                                                                    </Item>
+                                                                  </DLCAssetList>
+                                                                </ConditionIsDLCActive>
+                                                                <ConditionPropsNegatable>
+                                                                  <NegateCondition>1</NegateCondition>
+                                                                </ConditionPropsNegatable>
+                                                              </Values>
+                                                            </TriggerCondition>
+                                                          </Trigger>
+                                                        </Values>
+                                                      </SubTrigger>
+                                                    </Item>
+                                                    <Item>
+                                                      <SubTrigger>
+                                                        <Template>AutoCreateTrigger</Template>
+                                                        <Values>
+                                                          <Trigger>
+                                                            <TriggerCondition>
+                                                              <Template>ConditionIsMultiplayer</Template>
+                                                              <Values>
+                                                                <Condition />
+                                                                <ConditionIsMultiplayer />
+                                                                <ConditionPropsNegatable />
+                                                              </Values>
+                                                            </TriggerCondition>
+                                                          </Trigger>
+                                                        </Values>
+                                                      </SubTrigger>
+                                                    </Item>
+                                                    <Item>
+                                                      <SubTrigger>
+                                                        <Template>AutoCreateTrigger</Template>
+                                                        <Values>
+                                                          <Trigger>
+                                                            <TriggerCondition>
+                                                              <Template>ConditionIsCreativeMode</Template>
+                                                              <Values>
+                                                                <ConditionPropsNegatable />
+                                                                <Condition />
+                                                                <ConditionIsCreativeMode />
+                                                              </Values>
+                                                            </TriggerCondition>
+                                                          </Trigger>
+                                                        </Values>
+                                                      </SubTrigger>
+                                                    </Item>
+                                                  </SubTriggers>
+                                                </Trigger>
+                                              </Values>
+                                            </SubTrigger>
+                                          </Item>
+                                        </SubTriggers>
+                                      </Trigger>
                                     </Values>
-                                </SubTrigger>
-                            </Item>
-                            <Item>
-                                <SubTrigger>
-                                    <Template>AutoCreateTrigger</Template>
-                                    <Values>
-                                        <Trigger>
-                                            <TriggerCondition>
-                                                <Template>ConditionPlayerCounter</Template>
-                                                <Values>
-                                                    <Condition />
-                                                    <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>15000004</Context>
-                                                        <CounterAmount>1</CounterAmount>
-                                                    </ConditionPlayerCounter>
-                                                </Values>
-                                            </TriggerCondition>
-                                        </Trigger>
-                                    </Values>
-                                </SubTrigger>
-                            </Item>
-                            <Item>
-                                <SubTrigger>
-                                    <Template>AutoCreateTrigger</Template>
-                                    <Values>
-                                        <Trigger>
-                                            <TriggerCondition>
-                                                <Template>ConditionPlayerCounter</Template>
-                                                <Values>
-                                                    <Condition />
-                                                    <ConditionPlayerCounter>
-                                                        <PlayerCounter>ObjectBuilt</PlayerCounter>
-                                                        <Context>1010358</Context>
-                                                        <CounterAmount>1</CounterAmount>
-                                                    </ConditionPlayerCounter>
-                                                </Values>
-                                            </TriggerCondition>
-                                        </Trigger>
-                                    </Values>
-                                </SubTrigger>
-                            </Item>
-                        </SubTriggers>
-                    </Trigger>
-                    <TriggerSetup>
-                        <UsedBySecondParties>0</UsedBySecondParties>
-                    </TriggerSetup>
-                </Values>
-            </Asset>
-            <Asset>
-                <Template>Trigger</Template>
-                <Values>
-                    <Standard>
-                        <GUID>1999003456</GUID>
-                        <Name>Trigger Questline for Mayabeque - Sunken Treasures Active, Creative Mode Active</Name>
-                    </Standard>
-                    <Trigger>
-                        <TriggerCondition>
-                            <Template>ConditionIsDLCActive</Template>
-                            <Values>
-                                <Condition />
-                                <ConditionIsDLCActive>
-                                    <DLCAssetList>
-                                        <Item>
-                                            <DLCAsset>410040</DLCAsset>
-                                        </Item>
-                                    </DLCAssetList>
-                                </ConditionIsDLCActive>
-                                <ConditionPropsNegatable />
-                            </Values>
-                        </TriggerCondition>
-                        <TriggerActions>
-                            <Item>
-                                <TriggerAction>
-                                    <Template>ActionRegisterTrigger</Template>
-                                    <Values>
-                                        <Action />
-                                        <ActionRegisterTrigger>
-                                            <TriggerAsset>1999003032</TriggerAsset>
-                                        </ActionRegisterTrigger>
-                                    </Values>
-                                </TriggerAction>
-                            </Item>
-                        </TriggerActions>
-                        <SubTriggers>
-                            <Item>
-                                <SubTrigger>
-                                    <Template>AutoCreateTrigger</Template>
-                                    <Values>
-                                        <Trigger>
-                                            <TriggerCondition>
-                                                <Template>ConditionIsCreativeMode</Template>
-                                                <Values>
-                                                    <ConditionPropsNegatable />
-                                                    <Condition />
-                                                    <ConditionIsCreativeMode />
-                                                </Values>
-                                            </TriggerCondition>
-                                        </Trigger>
-                                    </Values>
-                                </SubTrigger>
-                            </Item>
-                            <Item>
-                                <SubTrigger>
-                                    <Template>AutoCreateTrigger</Template>
-                                    <Values>
-                                        <Trigger>
-                                            <TriggerCondition>
-                                                <Template>ConditionPlayerCounter</Template>
-                                                <Values>
-                                                    <Condition />
-                                                    <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>15000004</Context>
-                                                        <CounterAmount>1</CounterAmount>
-                                                    </ConditionPlayerCounter>
-                                                </Values>
-                                            </TriggerCondition>
-                                        </Trigger>
-                                    </Values>
-                                </SubTrigger>
-                            </Item>
-                            <Item>
-                                <SubTrigger>
-                                    <Template>AutoCreateTrigger</Template>
-                                    <Values>
-                                        <Trigger>
-                                            <TriggerCondition>
-                                                <Template>ConditionPlayerCounter</Template>
-                                                <Values>
-                                                    <Condition />
-                                                    <ConditionPlayerCounter>
-                                                        <PlayerCounter>ObjectBuilt</PlayerCounter>
-                                                        <Context>1010358</Context>
-                                                        <CounterAmount>1</CounterAmount>
-                                                    </ConditionPlayerCounter>
-                                                </Values>
-                                            </TriggerCondition>
-                                        </Trigger>
-                                    </Values>
-                                </SubTrigger>
-                            </Item>
-                        </SubTriggers>
-                    </Trigger>
-                    <TriggerSetup>
-                        <UsedBySecondParties>0</UsedBySecondParties>
-                    </TriggerSetup>
-                </Values>
-            </Asset>
-            <Asset>
-                <Template>Trigger</Template>
-                <Values>
-                    <Standard>
-                        <GUID>1999003031</GUID>
-                        <Name>Trigger Questline for Mayabeque - Sunken Treasures NOT Active</Name>
-                    </Standard>
-                    <Trigger>
-                        <TriggerCondition>
-                            <Template>ConditionIsDLCActive</Template>
-                            <Values>
-                                <Condition />
-                                <ConditionIsDLCActive>
-                                    <DLCAssetList>
-                                        <Item>
-                                            <DLCAsset>410040</DLCAsset>
-                                        </Item>
-                                    </DLCAssetList>
-                                </ConditionIsDLCActive>
-                                <ConditionPropsNegatable>
-                                    <NegateCondition>1</NegateCondition>
-                                </ConditionPropsNegatable>
-                            </Values>
-                        </TriggerCondition>
-                        <TriggerActions>
-                            <Item>
-                                <TriggerAction>
-                                    <Template>ActionRegisterTrigger</Template>
-                                    <Values>
-                                        <Action />
-                                        <ActionRegisterTrigger>
-                                            <TriggerAsset>1999003032</TriggerAsset>
-                                        </ActionRegisterTrigger>
-                                    </Values>
-                                </TriggerAction>
-                            </Item>
-                        </TriggerActions>
-                        <SubTriggers>
-                            <Item>
-                                <SubTrigger>
-                                    <Template>AutoCreateTrigger</Template>
-                                    <Values>
-                                        <Trigger>
-                                            <TriggerCondition>
-                                                <Template>ConditionPlayerCounter</Template>
-                                                <Values>
-                                                    <Condition />
-                                                    <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>15000004</Context>
-                                                        <CounterAmount>1</CounterAmount>
-                                                    </ConditionPlayerCounter>
-                                                </Values>
-                                            </TriggerCondition>
-                                        </Trigger>
-                                    </Values>
-                                </SubTrigger>
-                            </Item>
-                            <Item>
-                                <SubTrigger>
-                                    <Template>AutoCreateTrigger</Template>
-                                    <Values>
-                                        <Trigger>
-                                            <TriggerCondition>
-                                                <Template>ConditionPlayerCounter</Template>
-                                                <Values>
-                                                    <Condition />
-                                                    <ConditionPlayerCounter>
-                                                        <PlayerCounter>ObjectBuilt</PlayerCounter>
-                                                        <Context>1010358</Context>
-                                                        <CounterAmount>1</CounterAmount>
-                                                    </ConditionPlayerCounter>
-                                                </Values>
-                                            </TriggerCondition>
-                                        </Trigger>
-                                    </Values>
-                                </SubTrigger>
-                            </Item>
-                        </SubTriggers>
-                    </Trigger>
-                    <TriggerSetup>
-                        <UsedBySecondParties>0</UsedBySecondParties>
-                    </TriggerSetup>
-                </Values>
-            </Asset>
-            <Asset>
-                <Template>Trigger</Template>
-                <Values>
-                    <Standard>
-                        <GUID>1999003461</GUID>
-                        <Name>Trigger Questline for Mayabeque - Multiplayer active</Name>
-                    </Standard>
-                    <Trigger>
-                        <TriggerCondition>
-                            <Template>ConditionIsMultiplayer</Template>
-                            <Values>
-                              <Condition />
-                              <ConditionIsMultiplayer />
-                              <ConditionPropsNegatable />
-                            </Values>
-                        </TriggerCondition>
-                        <TriggerActions>
-                            <Item>
-                                <TriggerAction>
-                                    <Template>ActionRegisterTrigger</Template>
-                                    <Values>
-                                        <Action />
-                                        <ActionRegisterTrigger>
-                                            <TriggerAsset>1999003032</TriggerAsset>
-                                        </ActionRegisterTrigger>
-                                    </Values>
-                                </TriggerAction>
-                            </Item>
-                        </TriggerActions>
-                        <SubTriggers>
-                            <Item>
-                                <SubTrigger>
-                                    <Template>AutoCreateTrigger</Template>
-                                    <Values>
-                                        <Trigger>
-                                            <TriggerCondition>
-                                                <Template>ConditionPlayerCounter</Template>
-                                                <Values>
-                                                    <Condition />
-                                                    <ConditionPlayerCounter>
-                                                        <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                                        <Context>15000004</Context>
-                                                        <CounterAmount>1</CounterAmount>
-                                                    </ConditionPlayerCounter>
-                                                </Values>
-                                            </TriggerCondition>
-                                        </Trigger>
-                                    </Values>
-                                </SubTrigger>
-                            </Item>
-                            <Item>
-                                <SubTrigger>
-                                    <Template>AutoCreateTrigger</Template>
-                                    <Values>
-                                        <Trigger>
-                                            <TriggerCondition>
-                                                <Template>ConditionPlayerCounter</Template>
-                                                <Values>
-                                                    <Condition />
-                                                    <ConditionPlayerCounter>
-                                                        <PlayerCounter>ObjectBuilt</PlayerCounter>
-                                                        <Context>1010358</Context>
-                                                        <CounterAmount>1</CounterAmount>
-                                                    </ConditionPlayerCounter>
-                                                </Values>
-                                            </TriggerCondition>
-                                        </Trigger>
-                                    </Values>
-                                </SubTrigger>
-                            </Item>
-                        </SubTriggers>
-                    </Trigger>
-                    <TriggerSetup>
-                        <UsedBySecondParties>0</UsedBySecondParties>
-                    </TriggerSetup>
+                                  </SubTrigger>
+                                </Item>
+                              </SubTriggers>
+                            </Trigger>
+                          </Values>
+                        </SubTrigger>
+                      </Item>
+                    </SubTriggers>
+                    <TriggerActions>
+                      <Item>
+                        <TriggerAction>
+                          <Template>ActionRegisterTrigger</Template>
+                          <Values>
+                            <Action />
+                            <ActionRegisterTrigger>
+                              <TriggerAsset>1999003032</TriggerAsset>
+                            </ActionRegisterTrigger>
+                          </Values>
+                        </TriggerAction>
+                      </Item>
+                    </TriggerActions>
+                  </Trigger>
+                  <TriggerSetup>
+                    <UsedBySecondParties>0</UsedBySecondParties>
+                  </TriggerSetup>
                 </Values>
             </Asset>
 
@@ -5868,6 +5622,29 @@
             </Asset>
         </ModOp>
 
+        <!-- alternative Quest startup trigger conditions, when Serps mods are used -->
+        <!-- Sunken Treasures Active, but Serps Mod to disable the Session is used -->
+        <!-- add a AlwaysTrue alternative condition for the DLC part, if the mod is active, because then it does not matter what the status of the DLC is -->
+        <ModOp Type="add" GUID="1999003029" Condition="#NoSunkenTreasureSession_Serp" Path="/Values/Trigger/SubTriggers/Item/SubTrigger/Values/Trigger/SubTriggers/Item/SubTrigger/Values/Trigger/SubTriggers/Item/SubTrigger/Values/Trigger/SubTriggers">
+            <Item>
+            <SubTrigger>
+                <Template>AutoCreateTrigger</Template>
+                <Values>
+                <Trigger>
+                    <TriggerCondition>
+                    <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+                    <Values>
+                        <Condition />
+                        <ConditionAlwaysTrue />
+                    </Values>
+                    </TriggerCondition>
+                </Trigger>
+                </Values>
+            </SubTrigger>
+            </Item>
+        </ModOp>
+        <!-- If the mod StoryQuestsInCoop_Serp is active, it enables the DLC Quests in MP coop, so we can remove the multiplayer exception again and simply look for the other conditions -->
+        <ModOp Type="remove" GUID="1999003029" Condition="#StoryQuestsInCoop_Serp" Path="/Values/Trigger/SubTriggers/Item/SubTrigger/Values/Trigger/SubTriggers/Item/SubTrigger/Values/Trigger/SubTriggers/Item/SubTrigger/Values/Trigger/SubTriggers/Item[SubTrigger/Values/Trigger/TriggerCondition/Values[ConditionIsMultiplayer and not(ConditionPropsNegatable/NegateCondition='1')]]" />
 
         <!-- Setup for Mayabeque -->
         <ModOp Type="addNextSibling" GUID="130248">
@@ -6286,9 +6063,7 @@
                         </Maintenances>
                         <ConsumerPriorityAlarmed>2</ConsumerPriorityAlarmed>
                     </Maintenance>
-                    <Locked>
-                        <DefaultLockedState>0</DefaultLockedState>
-                    </Locked>
+                    <Locked />
                     <Constructable />
                     <FeedbackController />
                     <Pausable>
@@ -6434,9 +6209,7 @@
                         </Maintenances>
                         <ConsumerPriorityAlarmed>2</ConsumerPriorityAlarmed>
                     </Maintenance>
-                    <Locked>
-                        <DefaultLockedState>0</DefaultLockedState>
-                    </Locked>
+                    <Locked />
                     <Constructable />
                     <FeedbackController />
                     <Pausable>
@@ -7198,17 +6971,18 @@
                             <Item>
                                 <Product>1999003344</Product>
                                 <Amount>0</Amount>
-                                <StorageAmount>10</StorageAmount>
+                                <StorageAmount>1</StorageAmount>
                             </Item>
                         </FactoryInputs>
                         <FactoryOutputs>
                             <Item>
                                 <Product>1999003451</Product>
                                 <Amount>0</Amount>
-                                <StorageAmount>10</StorageAmount>
+                                <StorageAmount>1</StorageAmount>
                             </Item>
                         </FactoryOutputs>
                         <ProductionOutputInfotip>0</ProductionOutputInfotip>
+                        <CycleTime>0</CycleTime>
                     </FactoryBase>
                     <LogisticNode>
                         <TransporterCountMax>0</TransporterCountMax>
