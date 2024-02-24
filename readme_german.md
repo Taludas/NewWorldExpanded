@@ -16,6 +16,16 @@
 
 ## Changelog
 <details>
+    <summary>Patch Notes Version 3.0.3</summary>
+
+* Updates:
+    - Mehrere Korrekturen für "Koloss der Neuen Welt: Expedition nach Mayabeque":
+      - Ruinen-Quest ENDLICH repariert?! Die erste Renovierungsquest sollte sich nicht mehr automatisch erledigt werden. Dies sollte den Fehler beheben, dass das Monument in Stufe 3/3 keine Ressourcen und Arbeitskräfte bekommt.
+      - behebt die fehlende Forderung nach der Produktion von Jaguar-Pelzen für alle Sprachdateien außer Englisch/Deutsch in der Questbeschreibung von "Restaurierung der Kolonie: Das Koloniale Export-Imperium".
+      - Kompatibilität für den Starttrigger mit der Mod "Trelawney Quest Skip" hinzugefügt.
+</details>
+
+<details>
     <summary>Patch Notes Version 3.0.2</summary>
 
 * Updates:

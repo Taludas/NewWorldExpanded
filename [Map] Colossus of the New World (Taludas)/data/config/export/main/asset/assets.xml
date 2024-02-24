@@ -5643,6 +5643,26 @@
             </SubTrigger>
             </Item>
         </ModOp>
+        <!-- add a AlwaysTrue alternative condition for the DLC part, if the mod "Trelawney Quest Skip" is active, because then it does not matter what the status of the DLC is -->
+        <ModOp Type="add" GUID="1999003029" Condition="#Trelawney_Perfect_Ending_At_Beginning" Path="/Values/Trigger/SubTriggers/Item/SubTrigger/Values/Trigger/SubTriggers/Item/SubTrigger/Values/Trigger/SubTriggers/Item/SubTrigger/Values/Trigger/SubTriggers">
+            <Item>
+            <SubTrigger>
+                <Template>AutoCreateTrigger</Template>
+                <Values>
+                <Trigger>
+                    <TriggerCondition>
+                    <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+                    <Values>
+                        <Condition />
+                        <ConditionAlwaysTrue />
+                    </Values>
+                    </TriggerCondition>
+                </Trigger>
+                </Values>
+            </SubTrigger>
+            </Item>
+        </ModOp>
+
         <!-- If the mod StoryQuestsInCoop_Serp is active, it enables the DLC Quests in MP coop, so we can remove the multiplayer exception again and simply look for the other conditions -->
         <ModOp Type="remove" GUID="1999003029" Condition="#StoryQuestsInCoop_Serp" Path="/Values/Trigger/SubTriggers/Item/SubTrigger/Values/Trigger/SubTriggers/Item/SubTrigger/Values/Trigger/SubTriggers/Item/SubTrigger/Values/Trigger/SubTriggers/Item[SubTrigger/Values/Trigger/TriggerCondition/Values[ConditionIsMultiplayer and not(ConditionPropsNegatable/NegateCondition='1')]]" />
 
@@ -12705,6 +12725,7 @@
                                                         <PlayerCounter>RuinCount</PlayerCounter>
                                                         <Context>1999003001</Context>
                                                         <ComparisonOp>Equals</ComparisonOp>
+                                                        <CounterAmount>-1</CounterAmount>
                                                         <CounterScope>Area</CounterScope>
                                                         <CounterScopeUseCurrentContext>0</CounterScopeUseCurrentContext>
                                                         <CounterScopeContext>1999003012</CounterScopeContext>

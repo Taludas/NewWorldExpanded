@@ -18,6 +18,16 @@
 
 ## Changelog
 <details>
+    <summary>Patch Notes Version 3.0.3</summary>
+
+* Updates:
+    - Several fixes for "Colossus of the New World: Finding Mayabeque":
+      - fix ruin quest FINALLY?! The first renovation Quest should not autocomplete anymore. This should fix the bug, that the Monument doesn't acquire resources and workforce in stage 3/3.
+      - fix missing Jaguar Furs production requirement for all language files other than English/German in quest description of "Restoring the Colony: The Colonial Export Imperium".
+      - add compatibility for start trigger with "Trelawney Quest Skip" mod.
+</details>
+
+<details>
     <summary>Patch Notes Version 3.0.2</summary>
 
 * Updates:
