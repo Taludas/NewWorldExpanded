@@ -18,6 +18,16 @@
 
 ## Changelog
 <details>
+    <summary>Patch Notes Version 3.0.4</summary>
+
+* Updates:
+    - Several updates for "Colossus of the New World: Finding Mayabeque":
+      - unlock gas product to hopefully solve the problem of an invisible NW gas mine build menu entry when not using or owning that DLC
+      - update shared mod "combi allocations" by Qurila
+      - included shared mod "pools and definitions" for Jaguar Hunting cabin
+</details>
+
+<details>
     <summary>Patch Notes Version 3.0.3</summary>
 
 * Updates:

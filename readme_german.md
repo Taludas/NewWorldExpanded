@@ -16,6 +16,16 @@
 
 ## Changelog
 <details>
+    <summary>Patch Notes Version 3.0.4</summary>
+
+* Updates:
+    - Mehrere Updates für "Koloss der Neuen Welt: Expedition nach Mayabeque":
+      - schalte das Gasprodukt frei, um hoffentlich das Problem des unsichtbaren NW-Gasminen-Baumenüeintrags zu lösen, wenn man diesen DLC nicht benutzt oder besitzt
+      - Update der gemeinsamen Mod "combi allocations" von Qurila
+      - Gemeinsame Mod "Pools und Definitionen" für die Jaguar-Jagdhütte hinzugefügt
+</details>
+
+<details>
     <summary>Patch Notes Version 3.0.3</summary>
 
 * Updates:
