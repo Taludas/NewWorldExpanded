@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.1",
+  "Version": "1.1",
   "ModID": "shared_combi_allocations_kurila",
   "DeprecateIds": [],
   "LoadAfterIds": [],
@@ -34,15 +34,15 @@
   "Description": {
     "English": "file::README.ENG.md",
     "German": "file::README.GER.md",
-    "Chinese": null,
-    "French": null,
-    "Italian": null,
-    "Japanese": null,
-    "Korean": null,
-    "Polish": null,
-    "Russian": null,
-    "Spanish": null,
-    "Taiwanese": null
+    "Chinese": "file::README.ENG.md",
+    "French": "file::README.ENG.md",
+    "Italian": "file::README.ENG.md",
+    "Japanese": "file::README.ENG.md",
+    "Korean": "file::README.ENG.md",
+    "Polish": "file::README.ENG.md",
+    "Russian": "file::README.ENG.md",
+    "Spanish": "file::README.ENG.md",
+    "Taiwanese": "file::README.ENG.md"
   },
   "KnownIssues": null,
   "DLCDependencies": null,

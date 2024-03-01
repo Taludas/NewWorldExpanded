@@ -1,24 +1,8 @@
 <ModOps>
   <ModOp Type="add" Path="/TextExport/Texts">
 		<Text>
-			<GUID>1500301994</GUID>
-			<Text>Trade Union/Harbourmaster's Office</Text>
-		</Text>
-		<Text>
-			<GUID>1500301995</GUID>
-			<Text>Trade Union/Town Hall</Text>
-		</Text>
-		<Text>
 			<GUID>1500301991</GUID>
-			<Text>Arctic Lodge/Harbourmaster's Office</Text>
-		</Text>
-		<Text>
-			<GUID>1500301992</GUID>
-			<Text>Arctic Lodge/Trade Union</Text>
-		</Text>
-		<Text>
-			<GUID>1500301993</GUID>
-			<Text>Arctic Lodge/Town Hall</Text>
+			<Text>All Item Sockets</Text>
 		</Text>
 	</ModOp>
 </ModOps>

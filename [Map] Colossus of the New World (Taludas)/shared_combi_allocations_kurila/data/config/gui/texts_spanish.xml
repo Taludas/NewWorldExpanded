@@ -2,28 +2,8 @@
   <ModOp Type="add" Path="/TextExport/Texts">
 		<Text>
 			<!-- TODO translation -->
-			<GUID>1500301994</GUID>
-			<Text>Sindicato/Capitanía del puerto</Text>
-		</Text>
-		<Text>
-			<!-- TODO translation -->
-			<GUID>1500301995</GUID>
-			<Text>Sindicato/Ayuntamiento</Text>
-		</Text>
-		<Text>
-			<!-- TODO translation -->
 			<GUID>1500301991</GUID>
-			<Text>Cabaña del Ártico/Capitanía del puerto</Text>
-		</Text>
-		<Text>
-			<!-- TODO translation -->
-			<GUID>1500301992</GUID>
-			<Text>Cabaña del Ártico/Sindicato</Text>
-		</Text>
-		<Text>
-			<!-- TODO translation -->
-			<GUID>1500301993</GUID>
-			<Text>Cabaña del Ártico/Ayuntamiento</Text>
+			<Text>All Item Sockets</Text>
 		</Text>
 	</ModOp>
 </ModOps>

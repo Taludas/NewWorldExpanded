@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.14",
+  "Version": "1.0.15",
   "ModID": "Taludas_NewWorldExpanded_Mayabeque",
   "IncompatibleIds": [
     "Four_Crowns"
@@ -9,7 +9,8 @@
     "jakob_new_world_cities",
     "shared_combi_allocations_kurila",
     "NoSunkenTreasureSession_Serp",
-    "KreitaniTaludas_Kingsgrove"
+    "KreitaniTaludas_Kingsgrove",
+    "shared-pools-and-definitions"
   ],
   "ModDependencies": [
     "shared_combi_allocations_kurila"

@@ -1,7 +1,5 @@
 # Shared Combinated Allocations
 
-Für Folgende kombinationen wurden neue Allocations eingefügt
+Eine neue Allocation für alle Sockel Gebäude wurde eingefügt.
 
-- Handelskammer und Hafenmeisterei
-- Quartier und Hafenmeisterei
-- Quartier und Handelskammer
+- Mod1

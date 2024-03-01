@@ -2,28 +2,8 @@
   <ModOp Type="add" Path="/TextExport/Texts">
 		<Text>
 			<!-- TODO translation -->
-			<GUID>1500301994</GUID>
-			<Text>무역 연합/항만 관리소장실</Text>
-		</Text>
-		<Text>
-			<!-- TODO translation -->
-			<GUID>1500301995</GUID>
-			<Text>무역 연합/시청</Text>
-		</Text>
-		<Text>
-			<!-- TODO translation -->
 			<GUID>1500301991</GUID>
-			<Text>북극 산장/항만 관리소장실</Text>
-		</Text>
-		<Text>
-			<!-- TODO translation -->
-			<GUID>1500301992</GUID>
-			<Text>북극 산장/무역 연합</Text>
-		</Text>
-		<Text>
-			<!-- TODO translation -->
-			<GUID>1500301993</GUID>
-			<Text>북극 산장/시청</Text>
+			<Text>All Item Sockets</Text>
 		</Text>
 	</ModOp>
 </ModOps>

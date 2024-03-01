@@ -19046,6 +19046,8 @@
             </Item>
         </ModOp>
 
+        <ModOp Type="remove" GUID="112706" Path="/Values/Locked/DLCDependency"></ModOp>
+
         <!-- Gas mine NW -->
         <ModOp Type="addNextSibling" GUID="112690">
             <Asset>
@@ -19391,7 +19393,7 @@
         </ModOp>
 
         <ModOp Type="replace" GUID="116167" Path="/Values/Item/Allocation">
-            <Allocation>Mod3</Allocation>
+            <Allocation>Mod1</Allocation>
         </ModOp>
 
         <ModOp Type="addNextSibling" GUID="25000194,500137" Path="/Values/ConstructionCategory/BuildingList/Item[Building = '500916']">
@@ -20130,20 +20132,20 @@
             </Item>
         </ModOp>
 
-        <ModOp Type="add" GUID="368,6000018,193856,190011" Path="/Values/ItemEffectTargetPool/EffectTargetGUIDs">
+        <ModOp Type="add" GUID="368,6000018,193856,190011,1500301920" Path="/Values/ItemEffectTargetPool/EffectTargetGUIDs">
             <Item>
                 <GUID>1999003440</GUID>
             </Item>
         </ModOp>
 
-        <ModOp Type="add" GUID="191147,191141,124210,190734,190736,190737,190743,190739,190853,190854,190855,190856,190857,190858,7225,116080,116078,116079" Path="/Values/ItemEffect/EffectTargets">
+        <ModOp Type="add" GUID="7225,116080,116078,116079" Path="/Values/ItemEffect/EffectTargets">
             <Item>
                 <GUID>1999003440</GUID>
             </Item>
         </ModOp>
 
         <ModOp Type="replace" GUID="7225,116080,116078,116079" Path="/Values/Item/Allocation">
-            <Allocation>Mod3</Allocation>
+            <Allocation>Mod1</Allocation>
         </ModOp>
 
         <ModOp Type="addNextSibling" GUID="25000193,500950" Path="/Values/ConstructionCategory/BuildingList/Item[Building = '501637']">

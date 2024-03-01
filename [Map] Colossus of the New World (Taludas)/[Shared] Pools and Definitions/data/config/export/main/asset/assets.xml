@@ -1,0 +1,6 @@
+<ModOps>
+
+  <!-- # Optimized with Conditions -->
+  <Include File="./assets-pools.include.xml" />
+  <Include File="./assets-hotel-needs.include.xml" />
+</ModOps>

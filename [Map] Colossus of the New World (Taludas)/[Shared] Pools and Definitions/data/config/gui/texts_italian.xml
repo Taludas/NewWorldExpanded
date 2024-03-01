@@ -1,0 +1,192 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1500010714</GUID>
+      <Text>[AssetData(1010560) Text]</Text> <!-- 1010560 -->
+    </Text>
+    <Text>
+      <GUID>1500010715</GUID>
+      <Text>[AssetData(1010305) Text]</Text> <!-- 1010305 -->
+    </Text>
+    <Text>
+      <GUID>1500010716</GUID>
+      <Text>[AssetData(1010309) Text]</Text> <!-- 1010309 -->
+    </Text>
+    <Text>
+      <GUID>1500011900</GUID>
+      <Text>[AssetData(1010285) Text]</Text> <!-- 1010285 -->
+    </Text>
+    <Text>
+      <GUID>1500011901</GUID>
+      <Text>[AssetData(1010296) Text]</Text> <!-- 1010296 -->
+    </Text>
+    <Text>
+      <GUID>1500011902</GUID>
+      <Text>[AssetData(1010280) Text]</Text> <!-- 1010280 -->
+    </Text>
+    <Text>
+      <GUID>1500011903</GUID>
+      <Text>[AssetData(1010319) Text]</Text> <!-- 1010319 -->
+    </Text>
+    <Text>
+      <GUID>1500011904</GUID>
+      <Text>[AssetData(1010284) Text]</Text> <!-- 1010284 -->
+    </Text>
+    <Text>
+      <GUID>1500200671</GUID>
+      <Text>[AssetData(1010292) Text]</Text> <!-- 1010292 -->
+    </Text>
+    <Text>
+      <GUID>1500200672</GUID>
+      <Text>[AssetData(1010294) Text]</Text> <!-- 1010294 -->
+    </Text>
+    <Text>
+      <GUID>1500200673</GUID>
+      <Text>[AssetData(1010291) Text]</Text> <!-- 1010291 -->
+    </Text>
+    <Text>
+      <GUID>1500200674</GUID>
+      <Text>[AssetData(1010316) Text]</Text> <!-- 1010316 -->
+    </Text>
+    <Text>
+      <GUID>1500200675</GUID>
+      <Text>[AssetData(1010312) Text]</Text> <!-- 1010312 -->
+    </Text>
+    <Text>
+      <GUID>1500200676</GUID>
+      <Text>[AssetData(1010281) Text]</Text> <!-- 1010281 -->
+    </Text>
+    <Text>
+      <GUID>1500200677</GUID>
+      <Text>[AssetData(1010269) Text]</Text> <!-- 1010269 -->
+    </Text>
+    <Text>
+      <GUID>1500200678</GUID>
+      <Text>Tutti i mulini</Text> <!-- 1010313 -->
+    </Text>
+    <Text>
+      <GUID>1500200679</GUID>
+      <Text>[AssetData(1010340) Text]</Text> <!-- 1010340 -->
+    </Text>
+    <Text>
+      <GUID>1500200680</GUID>
+      <Text>[AssetData(101252) Text]</Text> <!-- 101252 -->
+    </Text> 
+    <Text>
+      <GUID>1500200682</GUID>
+      <Text>[AssetData(1010297) Text]</Text> <!-- 1010297 -->
+    </Text> 
+    <Text>
+      <GUID>1500200685</GUID>
+      <Text>[AssetData(934) Text]</Text> <!-- 934 -->
+    </Text> 
+    <Text>
+      <GUID>1500200686</GUID>
+      <Text>[AssetData(924) Text]</Text> <!-- 924 -->
+    </Text> 
+    <Text>
+      <GUID>1500200688</GUID>
+      <Text>[AssetData(101250) Text]</Text> <!-- 101250 -->
+    </Text>    
+    <Text>
+      <GUID>1500300910</GUID>
+      <Text>[AssetData(100780) Text]</Text> <!-- 100780 -->
+    </Text>     
+    <Text>
+      <GUID>1500300911</GUID>
+      <Text>Tutte le miniere a cielo aperto</Text> <!-- 191592 -->
+    </Text>
+    <Text>
+      <GUID>1500300912</GUID>
+      <Text>Tutti i consumatori di argilla</Text>
+    </Text>
+    <Text>
+      <GUID>1500300913</GUID>
+      <Text>Tutti i consumatori di acciaio</Text>
+    </Text>     
+    <Text>
+      <GUID>1500300914</GUID>
+      <Text>[AssetData(1010320) Text]</Text> <!-- 1010320 -->
+    </Text>  
+    <Text>
+      <GUID>1500300076</GUID>
+      <Text>[AssetData(6279) Text]</Text> <!-- 6279 -->
+    </Text>   
+    <Text>
+      <GUID>1999002378</GUID>
+      <Text>[AssetData(117743) Text]</Text> <!-- 117743 -->
+    </Text> 
+    <Text>
+      <GUID>2100115823</GUID>
+      <Text>[AssetData(5659) Text]</Text> <!-- 5659 -->
+    </Text>   
+    <Text>
+      <GUID>2100115287</GUID>
+      <Text>Stazione della metro</Text>
+    </Text>          
+    <Text>
+      <GUID>1500300916</GUID>
+      <Text>Caseificio </Text>
+    </Text>
+    <Text>
+      <GUID>1500301937</GUID>
+      <Text>Fabbrica di fertilizzanti</Text>
+    </Text>
+    <Text>
+      <GUID>1500301938</GUID>
+      <Text>Tutti i quartieri Hacienda</Text>
+    </Text>
+    <Text>
+      <GUID>1500301940</GUID>
+      <Text>Tutti gli smelter</Text>
+    </Text>
+    <Text>
+      <GUID>1500301941</GUID>
+      <Text>Tutte le fabbriche di armi</Text>
+    </Text>
+    <Text>
+      <GUID>1500301942</GUID>
+      <Text>Tutte le cabine di caccia</Text>
+    </Text>
+    <Text>
+      <GUID>1500301944</GUID>
+      <Text>Tutte le cabine di caccia dell'Artico</Text>
+    </Text>
+    <Text>
+      <GUID>191042</GUID>
+      <Text>Tutti gli impianti di perforazione</Text>
+    </Text>
+    <Text>
+      <GUID>1500301945</GUID>
+      <Text>Tutte le tessiture di tessuti</Text>
+    </Text>
+    <Text>
+      <GUID>1500301946</GUID>
+      <Text>Tutti gli impianti di motorizzazione</Text>
+    </Text>
+    <Text>
+      <GUID>1500301947</GUID>
+      <Text>Tutti gli edifici fluviali</Text>
+    </Text>
+    <Text>
+      <GUID>1500301948</GUID>
+      <Text>Tutte le residenze dei Contadini</Text>
+    </Text>
+    <Text>
+      <GUID>1500301949</GUID>
+      <Text>Tutte le residenze dei Lavoratori</Text>
+    </Text>
+    <Text>
+      <GUID>1500301950</GUID>
+      <Text>Tutte le residenze degli Artisti</Text>
+    </Text>
+    <Text>
+      <GUID>1500301951</GUID>
+      <Text>Tutte le residenze Shepherd</Text>
+    </Text>
+    <Text>
+      <GUID>1500301952</GUID>
+      <Text>Tutte le residenze per anziani</Text>
+    </Text>
+  </ModOp>
+</ModOps>

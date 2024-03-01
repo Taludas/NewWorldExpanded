@@ -1,0 +1,192 @@
+<ModOps>
+  <ModOp Type="add" Path="/TextExport/Texts">
+    <Text>
+      <GUID>1500010714</GUID>
+      <Text>Sand Mine</Text> <!-- 1010560 -->
+    </Text>
+    <Text>
+      <GUID>1500010715</GUID>
+      <Text>Iron Mine</Text> <!-- 1010305 -->
+    </Text>
+    <Text>
+      <GUID>1500010716</GUID>
+      <Text>Cement Mine</Text> <!-- 1010309 -->
+    </Text>
+    <Text>
+      <GUID>1500011900</GUID>
+      <Text>Window Maker</Text> <!-- 1010285 -->
+    </Text>
+    <Text>
+      <GUID>1500011901</GUID>
+      <Text>Steelworks</Text> <!-- 1010296 -->
+    </Text>
+    <Text>
+      <GUID>1500011902</GUID>
+      <Text>Concrete Factory</Text> <!-- 1010280 -->
+    </Text>
+    <Text>
+      <GUID>1500011903</GUID>
+      <Text>Glassmaker</Text> <!-- 1010319 -->
+    </Text>
+    <Text>
+      <GUID>1500011904</GUID>
+      <Text>Sewing Machine Factory</Text> <!-- 1010284 -->
+    </Text>
+    <Text>
+      <GUID>1500200671</GUID>
+      <Text>Brewery</Text> <!-- 1010292 -->
+    </Text>
+    <Text>
+      <GUID>1500200672</GUID>
+      <Text>Schnapps Distillery</Text> <!-- 1010294 -->
+    </Text>
+    <Text>
+      <GUID>1500200673</GUID>
+      <Text>Bakery</Text> <!-- 1010291 -->
+    </Text>
+    <Text>
+      <GUID>1500200674</GUID>
+      <Text>Slaughterhouse</Text> <!-- 1010316 -->
+    </Text>
+    <Text>
+      <GUID>1500200675</GUID>
+      <Text>Rendering Works</Text> <!-- 1010312 -->
+    </Text>
+    <Text>
+      <GUID>1500200676</GUID>
+      <Text>Soap Factory</Text> <!-- 1010281 -->
+    </Text>
+    <Text>
+      <GUID>1500200677</GUID>
+      <Text>Pig Farm</Text> <!-- 1010269 -->
+    </Text>
+    <Text>
+      <GUID>1500200678</GUID>
+      <Text>All Flour Mills</Text> <!-- 1010313 -->
+    </Text>
+    <Text>
+      <GUID>1500200679</GUID>
+      <Text>Rum Distillery</Text> <!-- 1010340 -->
+    </Text>
+    <Text>
+      <GUID>1500200680</GUID>
+      <Text>Coffee Roaster</Text> <!-- 101252 -->
+    </Text> 
+    <Text>
+      <GUID>1500200682</GUID>
+      <Text>Furnace</Text> <!-- 1010297 -->
+    </Text> 
+    <Text>
+      <GUID>1500200685</GUID>
+      <Text>Sea Mine Factory</Text> <!-- 934 -->
+    </Text> 
+    <Text>
+      <GUID>1500200686</GUID>
+      <Text>Bomb Factory</Text> <!-- 924 -->
+    </Text> 
+    <Text>
+      <GUID>1500200688</GUID>
+      <Text>Spectacles Factory</Text> <!-- 101250 -->
+    </Text>    
+    <Text>
+      <GUID>1500300910</GUID>
+      <Text>Oil Powerplant</Text> <!-- 100780 -->
+    </Text>     
+    <Text>
+      <GUID>1500300911</GUID>
+      <Text>All Open Pits</Text> <!-- 191592 -->
+    </Text>
+    <Text>
+      <GUID>1500300912</GUID>
+      <Text>All Clay Consumers</Text>
+    </Text>
+    <Text>
+      <GUID>1500300913</GUID>
+      <Text>All Steel Consumers</Text>
+    </Text>     
+    <Text>
+      <GUID>1500300914</GUID>
+      <Text>Marquetry Workshop</Text> <!-- 1010320 -->
+    </Text>  
+    <Text>
+      <GUID>1500300076</GUID>
+      <Text>Cable Factory</Text> <!-- 6279 -->
+    </Text>   
+    <Text>
+      <GUID>1999002378</GUID>
+      <Text>Clay Collector</Text> <!-- 117743 -->
+    </Text> 
+    <Text>
+      <GUID>2100115823</GUID>
+      <Text>Motor Assembly Plant</Text> <!-- 5659 -->
+    </Text>   
+    <Text>
+      <GUID>2100115287</GUID>
+      <Text>Subway Station</Text>
+    </Text>          
+    <Text>
+      <GUID>1500300916</GUID>
+      <Text>Cheese Dairy</Text>
+    </Text>
+    <Text>
+      <GUID>1500301937</GUID>
+      <Text>Fertiliser Works</Text>
+    </Text>
+    <Text>
+      <GUID>1500301938</GUID>
+      <Text>All Hacienda Quarters</Text>
+    </Text>
+    <Text>
+      <GUID>1500301940</GUID>
+      <Text>All Smelters</Text>
+    </Text>
+    <Text>
+      <GUID>1500301941</GUID>
+      <Text>All Weapon Factories</Text>
+    </Text>
+    <Text>
+      <GUID>1500301942</GUID>
+      <Text>All Hunting Cabins</Text>
+    </Text>
+    <Text>
+      <GUID>1500301944</GUID>
+      <Text>All Arctic Hunting Cabins</Text>
+    </Text>
+    <Text>
+      <GUID>191042</GUID>
+      <Text>All Drilling Rigs</Text>
+    </Text>
+    <Text>
+      <GUID>1500301945</GUID>
+      <Text>All Fabric Mills</Text>
+    </Text>
+    <Text>
+      <GUID>1500301946</GUID>
+      <Text>All Motor Factories</Text>
+    </Text>
+    <Text>
+      <GUID>1500301947</GUID>
+      <Text>All River Buildings</Text>
+    </Text>
+    <Text>
+      <GUID>1500301948</GUID>
+      <Text>All Farmer Residences</Text>
+    </Text>
+    <Text>
+      <GUID>1500301949</GUID>
+      <Text>All Worker Residences</Text>
+    </Text>
+    <Text>
+      <GUID>1500301950</GUID>
+      <Text>All Artista Residences</Text>
+    </Text>
+    <Text>
+      <GUID>1500301951</GUID>
+      <Text>All Shepherd Residences</Text>
+    </Text>
+    <Text>
+      <GUID>1500301952</GUID>
+      <Text>All Elder Residences</Text>
+    </Text>
+  </ModOp>
+</ModOps>
