@@ -17796,6 +17796,28 @@
         </ModOp>
     </Group>
 
+    <!-- add missing Military ships to CP for Quest in Mayabeque -->
+    <ModOp Type="add" GUID="119965" Path="/Values/PlayerCounterContextPool/Contexts">
+        <Item>
+            <Asset>968</Asset>
+        </Item>
+        <Item>
+            <Asset>1537</Asset>
+        </Item>
+        <Item>
+            <Asset>1054</Asset>
+        </Item>
+        <Item>
+            <Asset>1056</Asset>
+        </Item>
+        <Item>
+            <Asset>1731</Asset>
+        </Item>
+        <Item>
+            <Asset>1732</Asset>
+        </Item>
+    </ModOp>
+
     <!-- #Gas Cliff Islands -->
     <Group>
         <ModOp Type="addNextSibling" GUID="160002">
