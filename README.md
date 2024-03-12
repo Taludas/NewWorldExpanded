@@ -18,6 +18,15 @@
 
 ## Changelog
 <details>
+    <summary>Patch Notes Version 3.0.5</summary>
+
+* Updates:
+    - Several updates for "Colossus of the New World: Finding Mayabeque":
+      - add Airship kontors in Mayabeque to AP "All NW kontors"
+      - add missing military ships to CP "Military ships" used for Vasco's military mission in Mayabeque (the one which requires you to have x number of military ships in the session)
+</details>
+
+<details>
     <summary>Patch Notes Version 3.0.4</summary>
 
 * Updates:

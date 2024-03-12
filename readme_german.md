@@ -16,6 +16,15 @@
 
 ## Changelog
 <details>
+    <summary>Patch Notes Version 3.0.5</summary>
+
+* Updates:
+    - Several updates for "Colossus of the New World: Finding Mayabeque":
+      - Luftschiffkontore in Mayabeque zu AP "Alle NW-Kontore" hinzugefügt
+      - fehlende Militärschiffe zu CP "Military ships" hinzufügen, die für Vascos Militärmission in Mayabeque verwendet werden (diejenige, für die man eine bestimmte Anzahl von Militärschiffen in der Session benötigt)
+</details>
+
+<details>
     <summary>Patch Notes Version 3.0.4</summary>
 
 * Updates:
