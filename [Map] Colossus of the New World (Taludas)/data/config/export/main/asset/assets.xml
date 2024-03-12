@@ -18995,7 +18995,7 @@
             </Item>
         </ModOp>
 
-        <ModOp Type="add" GUID="103000" Path="/Values/PlayerCounterContextPool/Contexts">
+        <ModOp Type="add" GUID="103000,700048" Path="/Values/PlayerCounterContextPool/Contexts">
             <Item>
                 <Asset>1999003390</Asset>
             </Item>
